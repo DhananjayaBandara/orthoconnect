@@ -1,0 +1,45 @@
+{
+  "id": "non-operative-care",
+  "title": "Non-operative treatment",
+  "category": "Educational topics",
+  "icon": "assessment",
+  "summary": "Questions about treatment options that do not involve surgery.",
+  "pending": true,
+  "related": "clinics.html",
+  "relatedLabel": "Find a Consultation",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "outdoor-walking",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this educational topic",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This section will offer reviewed information about treatment options other than surgery."
+        }
+      ]
+    },
+    {
+      "id": "discussion",
+      "heading": "Information awaiting confirmation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "General orthopaedic assessment and treatment planning provide an opportunity to ask which options may be relevant to your concern. Confirm any specific rehabilitation or other non-operative service at consultation."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "rehabilitation"
+    }
+  ]
+}

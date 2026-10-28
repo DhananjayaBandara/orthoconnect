@@ -1,0 +1,105 @@
+{
+  "downloaded_at": "2026-10-25T07:52:51.099802+00:00",
+  "assets": [
+    {
+      "key": "walking-together",
+      "file": "assets/images/walking-together-640.jpg",
+      "source": "https://www.pexels.com/photo/old-couple-walking-while-holding-hands-906111/",
+      "photographer": "Noelle Otto",
+      "license": "https://www.pexels.com/license/",
+      "width": 640,
+      "height": 427,
+      "sha256": "ee9199eb80e7e17d9b623b8076495444c6984b9b667af8d28a279c0573c242b5"
+    },
+    {
+      "key": "walking-together",
+      "file": "assets/images/walking-together-1280.jpg",
+      "source": "https://www.pexels.com/photo/old-couple-walking-while-holding-hands-906111/",
+      "photographer": "Noelle Otto",
+      "license": "https://www.pexels.com/license/",
+      "width": 1280,
+      "height": 853,
+      "sha256": "01d2f0f97577917f050651ef45839e41aad93bdc526317caa5a341e19b695e92"
+    },
+    {
+      "key": "park-movement",
+      "file": "assets/images/movement-in-the-park-640.jpg",
+      "source": "https://www.pexels.com/photo/unrecognizable-woman-jogging-along-footpath-in-park-6039243/",
+      "photographer": "Enric Cruz López",
+      "license": "https://www.pexels.com/license/",
+      "width": 640,
+      "height": 960,
+      "sha256": "6bccd78dc70c6ec843cb1718c8cdef28c2ddcda0f985e0b51f97dc4738464979"
+    },
+    {
+      "key": "park-movement",
+      "file": "assets/images/movement-in-the-park-1280.jpg",
+      "source": "https://www.pexels.com/photo/unrecognizable-woman-jogging-along-footpath-in-park-6039243/",
+      "photographer": "Enric Cruz López",
+      "license": "https://www.pexels.com/license/",
+      "width": 1280,
+      "height": 1920,
+      "sha256": "552e2b8b3bf3afb5a0ffb73f2822ecb0098ba285c096df398088a7b3fafc417f"
+    },
+    {
+      "key": "everyday-movement",
+      "file": "assets/images/everyday-movement-640.jpg",
+      "source": "https://www.pexels.com/photo/legs-of-person-jogging-5037293/",
+      "photographer": "Ketut Subiyanto",
+      "license": "https://www.pexels.com/license/",
+      "width": 640,
+      "height": 427,
+      "sha256": "0fc8adec6cce2ab3b7ff818f9f4cd86f52ddfe6fe6d847d83988b6824bc13763"
+    },
+    {
+      "key": "everyday-movement",
+      "file": "assets/images/everyday-movement-1280.jpg",
+      "source": "https://www.pexels.com/photo/legs-of-person-jogging-5037293/",
+      "photographer": "Ketut Subiyanto",
+      "license": "https://www.pexels.com/license/",
+      "width": 1280,
+      "height": 853,
+      "sha256": "37ced6698acf5b2db2442362702293cd19d3a7631f60115087089b61722f943d"
+    },
+    {
+      "key": "consultation-notes",
+      "file": "assets/images/preparing-for-consultation-640.jpg",
+      "source": "https://www.pexels.com/photo/opened-notebook-with-white-blank-pages-and-pen-on-table-9429448/",
+      "photographer": "Monstera Production",
+      "license": "https://www.pexels.com/license/",
+      "width": 640,
+      "height": 427,
+      "sha256": "f5d8704b6bd3075c51100ac82a959b872ab8b2bc2067cfc4c0c50a22b37d47bb"
+    },
+    {
+      "key": "consultation-notes",
+      "file": "assets/images/preparing-for-consultation-1280.jpg",
+      "source": "https://www.pexels.com/photo/opened-notebook-with-white-blank-pages-and-pen-on-table-9429448/",
+      "photographer": "Monstera Production",
+      "license": "https://www.pexels.com/license/",
+      "width": 1280,
+      "height": 853,
+      "sha256": "8badad652cef94925582d67b954257fd9bdfcc6b9be10d8d647b08610fa0fb73"
+    },
+    {
+      "key": "outdoor-walking",
+      "file": "assets/images/walking-with-confidence-640.jpg",
+      "source": "https://www.pexels.com/photo/elderly-woman-walking-on-a-park-8795584/",
+      "photographer": "Anastasia Shuraeva",
+      "license": "https://www.pexels.com/license/",
+      "width": 640,
+      "height": 427,
+      "sha256": "2c65478492ae0efea316dc21b59803f2a29dd831b4f383f39b208a56cd83749d"
+    },
+    {
+      "key": "outdoor-walking",
+      "file": "assets/images/walking-with-confidence-1280.jpg",
+      "source": "https://www.pexels.com/photo/elderly-woman-walking-on-a-park-8795584/",
+      "photographer": "Anastasia Shuraeva",
+      "license": "https://www.pexels.com/license/",
+      "width": 1280,
+      "height": 853,
+      "sha256": "c04c0d5031addca3901be9099b99a17e630accb2e309bb9c1c8670e86896567b"
+    }
+  ]
+}

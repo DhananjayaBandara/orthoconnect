@@ -1,0 +1,84 @@
+{
+  "id": "en-children-knee",
+  "title": "Knee – Children",
+  "summary": "Kneecap dislocation in children.",
+  "category": "Joint dislocations",
+  "icon": "knee",
+  "lang": "en",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "knee"
+  ],
+  "topics": [
+    "dislocations"
+  ],
+  "keywords": [
+    "Paediatric knee"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/41b4754cc9579928738f.jpg",
+          "alt": "Child lying on grass and holding a knee",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "DISLOCATION OF KNEE CAP",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/2dcfdc2cc923ad98e46e.jpg",
+          "alt": "Knee X-ray",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is Knee Cap Dislocation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The knee cap could dislocate to the outer side of the knee. This is commonly seen in children with lax joints. Many a time it comes back to normal position automatically."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/732051f145dea2d6bda7.jpg",
+          "alt": "Knee support brace with an opening over the kneecap",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment For This ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Using a knee cap stabilizing knee support for 1-2 weeks will help these children. In some children this recurs. They need investigations to see if there are abnormalities of the knee that cannot keep the kneecap in place."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [],
+  "archive": {
+    "source_id": "en-children-05",
+    "url": "https://orthopaedic.lk/knee-children/",
+    "file": "english/en-children-05.md",
+    "sha256": "fb2d6799445d8c50cabdb68f860a1fd2be5fcb115456298e3cb1f5752e0a66e0",
+    "original_title": "Knee – Children",
+    "extracted_utc": "2026-10-24T18:31:36+00:00"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "si-children-spinal-deformities",
+  "title": "කොන්දුනරටියේ ඇද වීම් (ළමා)",
+  "summary": "දරුවන්ගේ කොඳු නාරටියේ ඇද වීම් පිළිබඳ තොරතුරු.",
+  "category": "වර්ධනය හා ඇවිදීම",
+  "icon": "assessment",
+  "lang": "si",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "spine"
+  ],
+  "topics": [
+    "growth-walking",
+    "limb-reconstruction"
+  ],
+  "keywords": [
+    "Spinal deformities"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/d98f8deedd6497fc4afa.jpg",
+          "alt": "X-ray of the spine",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "කොන්දුනරටියේ ඇද වීම්",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/2d5857777b5ac52f003c.jpg",
+          "alt": "Photograph showing a child's curved back",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "වයස අවුරුදු 20 ට අඩු දරුවා ගේ කොන්දුනරටියේ ඇද වීම්"
+        },
+        {
+          "type": "paragraph",
+          "text": "කොන්දුනාරටියේ සිදුවන ඇදවීම් කුඩා වයසේ සිට වයස අවරුදු 18 පමණ වනතෙක් දක්නට ලැබේ. පැති කුදය වඩා සුලභවවම දක්නට ලැබේ. ගැහැණු දරුවන්ගේ මෙම තත්ත්වයට වැඩිපුර නබුරුතාවයකින් ගොදුරුවේ. බොහෝ දෙනෙකුගේ මෙම රෝගයට හේතුවක් නොදනි. ඉතා අඩු වයසකදී පෙනීමට පටන්ගන්නා ඇදවීම් සිරුරේ වර්දනය අවසන් වන වයස අවුරුදු 18 පමණ වනවිට බොහෝ වැඩි වීමට ලක්වේ. අවුරුදු 10-14 පමණ කාලයේදී \nආරම්භ වන ඇද වීම් එතරම් අදවීමකට ලක් නොවේ. \nපවතින ඇදවීම් මල්වර වයසේදී සිදුවන ශිග්‍ර ශරීර වර්දනයේදී බොහො ප්‍රකටව පෙනීමට පටන් ගනී. මේ නිසා ගැහැණු දරුවන්ගේ උස නොපෙනීම, උරහිසක් පහතින් පිහිටීම, උකුලක් පහතින් පිහිටීම, ඉදිරියට \nනමුනුපසු එක් උරපත්තක් ඉස්සී පැවැතීම හා පියයුරු වල විශාලත්වයේ වෙනස්කම් ඉතා සුලභ ලක්ෂණ ලෙස පවතී. \nමුල් අවස්ථාවේදී හඳුනාගත් ඇදවීම් ශල්‍ය කර්මයකින් තොරව ප්‍රතිකාර කිරීමට සලකා බැලිය හැකි අතර, වඩා වැඩිවූ ඇදවීම් සදහා ශල්‍ය කර්මයක අවශ්‍යතාවය වැඩිවේ. \nඔබ දරුවාගේ කොන්දුනාරටියේ වෙනසක් දකින්නේනම් ප්‍රමාද නොකර පරික්ෂාකර ගන්න."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-children-overview"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-infant-problems"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-leg-deformities"
+    }
+  ],
+  "archive": {
+    "source_id": "si-children-08",
+    "url": "https://orthopaedic.lk/කොන්දුනරටියේ-ඇද-වීම්/",
+    "file": "sinhala/si-children-08.md",
+    "sha256": "9383917293e8c1a680abf0b78474fc66c1024fdbff82c66c8601c0144a248c2d",
+    "original_title": "කොන්දුනරටියේ ඇද වීම් (ළමා)",
+    "extracted_utc": "2026-10-24T18:34:08+00:00"
+  }
+}

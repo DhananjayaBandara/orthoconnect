@@ -1,0 +1,65 @@
+{
+  "id": "return-to-activity",
+  "title": "Return to work & sport",
+  "category": "Rehabilitation",
+  "icon": "calendar",
+  "summary": "Questions about work, daily tasks and your usual activities.",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "everyday-movement",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this guide",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use these questions as a starting point for a conversation with your treating team."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "heading": "Questions to ask your treating team",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "What restrictions should I discuss for my work or sport?",
+            "Who should assess when I can resume each activity?",
+            "What follow-up will help me plan my return?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "individual-instructions",
+      "heading": "Your individual instructions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Follow the individual instructions provided by your treating team."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS guide to having surgery",
+      "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "rehabilitation"
+    },
+    {
+      "kind": "guides",
+      "id": "walking"
+    }
+  ]
+}

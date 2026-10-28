@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" fill="none">
+  <title>Arthroscopy topic illustration</title>
+  <desc>Original simplified artwork of a camera instrument, monitor and knee joint. Not an incision-placement or surgical guide.</desc>
+  <rect width="640" height="400" rx="24" fill="#f1f7f4"/>
+  <circle cx="320" cy="200" r="152" fill="#e2efea"/>
+  <circle cx="320" cy="200" r="126" stroke="#bddbd6"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="m238 81 15 63c-16 8-22 24-14 37 7 11 18 10 29 6 11-4 22 5 33-2 13-8 10-24-1-32-8-6-11-11-9-23l8-49" fill="#fff" stroke="#12334b" stroke-width="4"/>
+    <path d="M243 213c13 6 25-5 40-1 16 3 22 12 19 28l-16 81m-40-85 9 85" fill="#fff" stroke="#12334b" stroke-width="4"/>
+    <path d="M245 201h53" stroke="#007575" stroke-width="6"/>
+    <path d="m359 151-66 48" stroke="#12334b" stroke-width="7"/>
+    <path d="m360 151 21-15" stroke="#007575" stroke-width="16"/>
+    <path d="M381 136c23 0 42 19 42 43v24" stroke="#12334b" stroke-width="3"/>
+    <rect x="359" y="217" width="112" height="77" rx="8" fill="#fff" stroke="#12334b" stroke-width="4"/>
+    <rect x="370" y="228" width="90" height="49" rx="4" fill="#e2efea"/>
+    <path d="M382 254c14-23 26 20 40-3 8-14 19-10 27-2" stroke="#007575" stroke-width="4"/>
+    <path d="M415 295v20m-23 0h46" stroke="#12334b" stroke-width="4"/>
+    <circle cx="293" cy="199" r="13" stroke="#bf4c32" stroke-width="2" stroke-dasharray="3 5"/>
+  </g>
+  <circle cx="453" cy="119" r="9" fill="#bf4c32"/>
+  <path d="M175 260h30m-15-15v30" stroke="#007575" stroke-width="2" stroke-linecap="round"/>
+</svg>

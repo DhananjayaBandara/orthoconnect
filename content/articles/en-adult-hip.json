@@ -1,0 +1,288 @@
+{
+  "id": "en-adult-hip",
+  "title": "Hip – Adults",
+  "summary": "Adult hip fractures and questions about their treatment.",
+  "category": "Fractures & injuries",
+  "icon": "hip",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "hip"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Adult hip"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/66114ca24f3be403977c.jpg",
+          "alt": "Illustrations and photograph showing the hip region",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "HIP FRACTURES",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Each lower limb is connected to the body via hip joint. This is very stable ball and socket type joint. It allows a vast range of movement. The joint will transfer half of your body weight when you are standing upright."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/5f60be343a695585d0e6.jpg",
+          "alt": "Illustration of a fracture near the top of the thigh bone",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Why Should This Fracture Fixed Without Delay?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "We want you to be up and about immediately after your injury. Next point is we want you to be back in your normal level of activities and get back to your job as early as possible. Why should you waste time when there is a very good treatment option available?"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d0673fda4ff156fc4bdb.jpg",
+          "alt": "Clinician helping a patient in a hospital bed",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Who Will Get The Hip Fractures?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures around the blue and the red marked area are mainly considered as hip fractures. This is commonly seen in the elderly with osteoporosis. This fracture is sustained after a minor accidental fall on the side of the hip."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c15e6c5ffcb17d89cd30.jpg",
+          "alt": "Person touching the top of their shoulder",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would You Suspect If You Have A Hip Fracture?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There needs to be some form of trauma to the joint. Your arm is held bent at the elbow. There will be a bulge appearing in front of the joint. The joint and slightest movement will be very painful."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2b9b09f0aaaca0f8de93.jpg",
+          "alt": "Woman holding the side of her hip",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would You Suspect If You Have A Hip Fracture?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "One will find it difficult to stand up and put on weight on the injured side. The leg will appear short and turned inwards at the foot. Any movement of the leg will be painful."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2af037ff1cd0c40cb8c3.jpg",
+          "alt": "First-aid bag symbol",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What You Could Do At Home?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You need to make sure the injured is out of danger of sustaining further injuries. You may splint the leg to the uninjured leg. You may take two Paracetamol tablets as pain relief until you reach the health care service. Patients can be seated if pain-free. However, it is safer to be transported lying flat. Make sure you take all available medical records and medications with you."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d48f24b1a0ca66c8cd5d.jpg",
+          "alt": "Clinician assisting with a patient's leg movement",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Would Be Done Next ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The patient will be assessed and examined by the doctor. A plain xray of the hip/Pelvis will be done. It will show if there is a fracture."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d9a54429b6a18c6e52e2.jpg",
+          "alt": "Surgical team working in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Does A Hip Fracture Need Operation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "YES. There are two main types of operations for hip fractures. The doctor will decide which operation is needed for you. If the break is in the blue shaded area of the Fig 2, you will need replacement of the head part of the bone with a matching metal implant. Sometimes, medical cement will be used to fix the implant to the bone. Unfortunately, there is no other way out for this fracture type. Once the operation is done, in simple terms, the bone looks normal and as if it had no fracture. The patient can immediately start walking!"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/30256903d0c807abd177.jpg",
+          "alt": "Hip X-ray with the upper thigh bone circled",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Other Type?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This is when the fracture is in the red zone of fig 2. This fracture needs fixing with plate and screws."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0c8dff8e228c2f5da3c9.jpg",
+          "alt": "Hip X-ray showing a metal replacement component",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It A Major Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is a commonly done simple procedure. It takes about 45 minutes to do it. Patient will be anesthetized to numb the lower limbs only. There will be a scar over the side of the hip about 4 inches. Patient could eat and drink immediately after the operation. One needs to stay in the hospital for 3-4 days."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/5f3181c3aa301a2833df.jpg",
+          "alt": "Clinician holding a clipboard in a hospital",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It Painful After The Operation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "In real sense pain one would have before the operation will disappear completely. Pain from the surgical would take 2-3 days to wean off. The medications given to you could control you r pain."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/910600dcb063488ca478.jpg",
+          "alt": "Carer supporting an older person at home",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Walk?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "With a simple break you could start walking very next day. You will need a Walking Aid to mobilize during the first few days to one or two weeks. It depends how much you can do. But in average, everyone will walk without support in three weeks."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Would It Take Heal My Wound ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Please read Wound Care"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/144c654c462db4a69856.jpg",
+          "alt": "Red exclamation mark indicating an important point",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Can This Fracture Be Treated Without Operation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "If your fracture is in the blue zone, then you will have to have the operation. No other treatment will work."
+        },
+        {
+          "type": "paragraph",
+          "text": "However the fractures in the red zone can be managed without operation. Patient has to be on the bed for eight to ten weeks without walking. The fracture will be painful up to about one month. You are bound to get complications like bedsores, pneumonia, blood clots in the calves and lungs ect."
+        },
+        {
+          "type": "paragraph",
+          "text": "The leg could be short and awkwardly healed. Sometimes it may not heal at all which then would need an operation. In such cases, the operation will be difficult and may get many other complications"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+          "alt": "Clinician working at a laptop",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please feel free to contact us"
+        },
+        {
+          "type": "paragraph",
+          "text": "These are the two commonest ways the hip may break. Here are few other fracture patterns around the hip joint. They all need fixing with metal implants. There are special implants for this purpose. Please read Hip Fractures in Special Circumstances"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-elbow"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-06",
+    "url": "https://orthopaedic.lk/hip-adults/",
+    "file": "english/en-adult-06.md",
+    "sha256": "c83b74f79ef12d85985a7efad244acc19602ce12b95f4f2a36056b0fced825e7",
+    "original_title": "Hip – Adults",
+    "extracted_utc": "2026-10-24T18:29:15+00:00"
+  }
+}

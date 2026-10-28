@@ -1,0 +1,132 @@
+{
+  "id": "si-adult-foot-ankle-surgery",
+  "title": "පාදය හා වළලුකර ආශ්‍රිත ශල්‍ය කර්ම",
+  "summary": "පාදය හා වළලුකර ආශ්‍රිත ගැටලු සහ ශල්‍යකර්ම පිළිබඳ තොරතුරු.",
+  "category": "පාදයේ හා වළලුකර ශල්‍යකර්ම",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "foot-ankle"
+  ],
+  "topics": [
+    "foot-ankle-surgery",
+    "pain-nerve"
+  ],
+  "keywords": [
+    "Foot and ankle surgery"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/d75859e37ded4260b77e.jpg",
+          "alt": "Illustrations highlighting the foot and ankle",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "පාදය හා වළලුකර ආශ්‍රිත කොටස් වල ශල්‍ය කර්ම.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "පාදය හා වළලුකර ප්‍රදේශ කියන්නේ අපට ඇවිදීමට උපකාරීවන සැකිල්ලේ ඉතාමත් වැදගත් කොටසක්. ශරීරයේ බර දරා ගැනීම, බර පොළොවට සම්ප්‍රේෂණය හා අප ඇවිදින විට ශරීරය පොළොවෙන් ඉදිරියට තල්ලු කිරීමට පාදය හා වළලු කර උපකාරී වෙනවා. මෙම කොටස් වල සුවතාවය රැක ගැනීම හා අබාද පවතීනම් ඒවා සකසා ගැනීම, ගැටලුවකින් තොරව පාද දිඟු කල් පවත්වා ගැනීමට හා වේදනාවකින් තොරව පාද භාවිතයට ඉඩ සැලසෙනවා."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ba0cae04a4d2152b3639.jpg",
+          "alt": "Illustration of a bunion at the base of the big toe",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "මාපට ඇඟිල්ල හා සෙසු ඇඟිලි."
+        },
+        {
+          "type": "paragraph",
+          "text": "සුලබවම දක්නට ලැබෙන්නේ මාපට ඇඟිල්ල පිටතට නැමීමට පටන් ගැනීමයි. මේ සමගම ඇඟිල්ලේ පාමුල කොටසද ඉදිමීමක් පෙන්නුම් කරනවා. විටකදී මෙම ඉදිමුම රතුවී වේදනාකාර ප්‍රදාහයකට ලක්වෙනවා. කල් ගත වීමත් සමග මාපට ඇඟිල්ල දෙවන ඇඟිල්ලට ඉහලින් පිහිටනවා. මෙම Hallux valgus තත්ත්වය සුළු සැත්කමකින් සුව කරන්න පුළුවන්. සෙසු ඇඟිලි එකක් හෝ කීපයක ඇඟිලි තුඩු ප්‍රදේශ ඇවිදින විට ගෑවීමට පටන් ගැනීමක් දියවැඩිය රෝගීන්ගේ හා ආතරයිටිස් රෝගීන්ගේ දක්නට ලැබෙනවා. මෙම ඇඟිලි වකුටු වීමද සුළු ශල්‍ය කර්මයකින් සදා ගත හැකියි."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/01cd915434113c0acfd0.jpg",
+          "alt": "Diagram of a foot with a fallen arch",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "කකුලේ මැද කොටස"
+        },
+        {
+          "type": "paragraph",
+          "text": "මෙම කොටසේ මුලිකවම ආතරයිටිස් රෝගී තත්ත්වයන් මෙහි ඇති කුඩා සංදී වලට බලපෑම නිසා පාදයේ මැද කොටසේ වේදනාව හා ඉදිමීම හටගන්නවා. දියවැඩියා"
+        },
+        {
+          "type": "paragraph",
+          "text": "රෝගීන්ගේ මෙම හන්දි හා පටක කොටස් විනාශ වීම නිසා පාදයේ ආකෘතිය බිඳවැටී පාදය පැතලි බවකට පත්වෙනවා. ශරීරයේ බර සම්ප්‍රේෂණ ක්‍රියාවලිය මෙනිසා බින්දවැටීමට ලක්වෙනවා. යටි පතුලේ අසාමාන්‍ය ගනවීම් හා තුවාල ඇතිවීමට මෙයට දායක වෙනවා. මෙම අසාමාන්‍යත සුළු සැත්කම් මගින් සකසා ගතහැකියි."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2550283e8fe4509bdd0b.jpg",
+          "alt": "Diagram showing a cross-section through the heel",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "විලුඹ යට ඇතිවන වේදනාව"
+        },
+        {
+          "type": "paragraph",
+          "text": "මෙම තත්ත්වය මුලින්ම ඇතිවන විට, උදැසන ඇඳෙන් බැස තබන මුල් පියවර කිහිපය වේදනාත්මක වෙනවා. කාලයත් සමග, කෙටි විවේකයකින් පසු පවා නැවත ඇවිදීම ආරම්භ කරනවිට වේදනාව ඇති වෙනවා. පෙති වර්ග, ඉන්ජෙක්ෂන් හා සපත්තුවට යොදන මෘදු පලදිනා මගින් වේදනාව සමනය කරගත හැකියි. මේ කිසිදෙකින් වත් මෙතෙක් ඔබට නිට්ටාවට සුවයක් ලැබී නැත්නම් අප අමතන්න."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/4a899ac1cc2a5eacfc94.jpg",
+          "alt": "Diagram of nerves and structures around the inner ankle",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "විලුඹ දෙපස වේදනාව"
+        },
+        {
+          "type": "paragraph",
+          "text": "වළලු කර දෙපසින් ඇති පේශි ඛණ්ඩරා කොටස් වලට පරිබාහිරව සිදුවන ඉදිමිමකින් මේ වේදනාව හටගන්නවා. බෙහෙත් පෙති වර්ග, ආලේපන, වළලුකර පළඳනා වලින් සුවයක් නැතිනම් සුළු සැත්කමක් මගින් ගුණයක් ලබාගත හැකියි."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-adult-common-pains"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-deformity-correction"
+    }
+  ],
+  "archive": {
+    "source_id": "si-adult-06",
+    "url": "https://orthopaedic.lk/පාදය-හා-වළලුකර-ආශ්‍රිත-කො/",
+    "file": "sinhala/si-adult-06.md",
+    "sha256": "b35b741f3e06d69270aaebeddf17f7024337fbba6cc8157ef1c1e0bd573ea7f8",
+    "original_title": "පාදය හා වළලුකර ආශ්‍රිත ශල්‍ය කර්ම",
+    "extracted_utc": "2026-10-24T18:32:53+00:00"
+  }
+}

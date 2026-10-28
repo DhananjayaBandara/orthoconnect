@@ -1,0 +1,332 @@
+{
+  "id": "en-adult-shoulder",
+  "title": "Shoulder – Adults",
+  "summary": "Shoulder dislocation and collarbone fractures in adults.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "shoulder"
+  ],
+  "topics": [
+    "fractures",
+    "dislocations"
+  ],
+  "keywords": [
+    "Shoulder dislocation and clavicle fracture"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/340502fc2fc6d91c96e8.jpg",
+          "alt": "Person holding a painful shoulder",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "SHOULDER DISLOCATION",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/a9391ac937e3edac53ca.jpg",
+          "alt": "Shoulder X-ray with the joint area circled",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is Shoulder Dislocation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The shoulder joint has two bones; shoulder blades and the ‘head’ of bone in the upper arm. The two bones are kept together by a group of muscles that runs around the joint. The touching surfaces of the bone are very flat. Therefore the joint is easily dislocated. The two surfaces lose their mutual contact in a dislocation. In certain cases, the shoulder dislocates with a part closer to head breaking off. It needs fixing in addition to relocation of the joint."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0a2533d00113221fb490.jpg",
+          "alt": "Athlete holding his shoulder while lying on a field",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Who Are Prone To Get This Injury?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This is uncommon in children. It can happen to anyone. It is commonly seen in ages 18-30"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c15e6c5ffcb17d89cd30.jpg",
+          "alt": "Person touching the top of their shoulder",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would I Know If My Shoulder Is Dislocated ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There needs to be some form of trauma to the joint. Your arm is held bent at the elbow. There will be a bulge appearing in front of the joint. The joint and slightest movement will be very painful."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0904ec845338f98dbef7.jpg",
+          "alt": "Patient entering a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Treatment is relocation of the joint back to its normal position. It will take only 1-2 minutes to do under a general anesthetic. This is a totally pain-free procedure. You could go home next day after confirming your joint is back in place by another x-ray."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2767034643ce2ab49ebb.jpg",
+          "alt": "Clinician supporting a patient's raised arm",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment For This ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Treatment is relocation of the joint back to its normal position. It will take only 1-2 minutes to do under a general anaesthetic. This is a totally pain-free procedure. You could go home next day after confirming your joint is back in place by another x-ray."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/144c654c462db4a69856.jpg",
+          "alt": "Red exclamation mark indicating an important point",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any Alternative Treatment ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "NO other treatment for this. I have heard native physicians pull the joint and put it back. This is a very painful thing to do. Why do you want to suffer when it can be done pain-free. In some cases it will not come back in place. They do not know how to confirm repositioning. Many patients are mistreated this way."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d9a54429b6a18c6e52e2.jpg",
+          "alt": "Surgical team working in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Will Happen If Initial Treatment Is Delayed ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The joint will remain in dislocated position. It will not now come back in place with pulling under an anesthetic. You will now need an operation to open up the joint in order to put back the head of the humerus into the cavity of the joint."
+        },
+        {
+          "type": "paragraph",
+          "text": "The operation will take about 90 minutes if it goes smoothly. You will be in an immobilizer for six weeks. Your joint will be stiff and you will need extensive physiotherapy to get back normal movement of the joint. \nIt is obvious that initial treatment is simple and less troublesome"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/53fdf9fc21e38aaad8d2.jpg",
+          "alt": "Woman stretching her arms overhead outdoors",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Can It Dislocate Again ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes it may. A handful of patients get recurrent dislocations. This will need further investigations and treatment/operation if it continues to recur."
+        },
+        {
+          "type": "heading",
+          "id": "subsection-01",
+          "text": "FRACTURES OF COLLAR BONE"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2057541f8c0d47b0a3fb.jpg",
+          "alt": "Collarbone X-ray with a circled area and legacy source marking",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would You Injure Collar Bone",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It follows a fall on the shoulder. There will be pain over the bone associated with swelling. Raising the arm of the affected side is painful"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/662bacc48e8be11f908e.jpg",
+          "alt": "Drawing of the collarbone and shoulder bones",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Common Is This",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This the commonest fracture as for as orthopaedic practice is concerned. ."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a3faeb5d97126a2bf481.jpg",
+          "alt": "Cyclist who has fallen beside a bicycle",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It A Serious Injury ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The severity of the injury is a spectrum of damages to the tissues underlying and around the collar bone. Therefore no one should think it is a simple injury until it is proven to be safe."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d47a0711a198f29c7be8.jpg",
+          "alt": "Illustration highlighting the neck, shoulders and upper chest",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Other Tissues Could Be Injured?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There are many very vital tissues underneath the collar bone. These include blood vessels and nerves to the arm, ribs and lung. These structures can be damaged.Some collar bone fractures are associated with neck and scapular injuries. The collective damage depends on the amount of force the clavicle subjected to."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ddb44be059717409f5e1.jpg",
+          "alt": "Person wearing a collarbone support brace",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment For Collar Bone Fractures?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The regular fracture will only need immobilization of the clavicle for six weeks. This is commonly achieved with a commercially available clavicular brace. This is ready made garment which can be taken off for short periods of hygienic purposes. It needs to be worn with certain tightness to be fully effective."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8a3ef7e0bd116fee4095.jpg",
+          "alt": "Woman considering yes and no options",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It Uncomfortable To Wear This ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "May be a little to start with. But one will get used to. Movement of the shoulder, carrying a weight will still be difficult."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ea468a142cf6e6e3a757.jpg",
+          "alt": "Illustration of a collarbone plate and screws",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any Other Treatment Options ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Collar bone fractures can be fixed with plates and screws. There are specially designed plates for clavicle. You will immediately pain free. There will be no deformity of the bone. Healing will take the same duration as non operative treatment. The plate may be removed later."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Does It Take To Heal",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Six weeks. It will heal without complications. Rarely, it may not heal. Then it will need operation to fix with plate and screws."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c9719a7af0231496b4b7.jpg",
+          "alt": "Person walking towards a car while carrying a bag",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Go Back To Work ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You could start working when you are pain free. An office based job can be commenced early. However manual heavy work should be avoided during first eight weeks. Some may need a short course of physiotherapy before fully functional."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-elbow"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-knee"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-01",
+    "url": "https://orthopaedic.lk/shoulder-adults/",
+    "file": "english/en-adult-01.md",
+    "sha256": "6e0eb848fc5e32e5edaf9e37cf2e4e17156c231badcec2525b450c8e94dd8d23",
+    "original_title": "Shoulder – Adults",
+    "extracted_utc": "2026-10-24T18:28:18+00:00"
+  }
+}

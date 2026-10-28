@@ -1,0 +1,733 @@
+{
+  "archive_manifest_sha256": "896fb4f3c3763ba92a20744e706d3c9532f3973c07ec8eb4c52611d27a68905c",
+  "combined_archive_sha256": "9ecefa67fe5d56cb208311b20d81d50a26e9281ecf2781a987d83c98862806b3",
+  "articles": [
+    {
+      "source_id": "en-adult-01",
+      "id": "en-adult-shoulder",
+      "source_url": "https://orthopaedic.lk/shoulder-adults/",
+      "source_file": "english/en-adult-01.md",
+      "source_sha256": "6e0eb848fc5e32e5edaf9e37cf2e4e17156c231badcec2525b450c8e94dd8d23",
+      "destination": "articles/en-adult-shoulder.html",
+      "counts": {
+        "images": 18,
+        "headings": 2,
+        "paragraphs": 35
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-02",
+      "id": "en-adult-upper-arm",
+      "source_url": "https://orthopaedic.lk/upper-arm-adults/",
+      "source_file": "english/en-adult-02.md",
+      "source_sha256": "59e0eb6eef474bef4f2c82a836ccd8ecdf53097b61995421c052bd067c419a72",
+      "destination": "articles/en-adult-upper-arm.html",
+      "counts": {
+        "images": 23,
+        "headings": 3,
+        "paragraphs": 47
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-03",
+      "id": "en-adult-elbow",
+      "source_url": "https://orthopaedic.lk/elbow-adults/",
+      "source_file": "english/en-adult-03.md",
+      "source_sha256": "fee09ec69b442af72262d69f25f2b587206f1c8491000d86bebbab5c6d02c6eb",
+      "destination": "articles/en-adult-elbow.html",
+      "counts": {
+        "images": 10,
+        "headings": 1,
+        "paragraphs": 22
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-04",
+      "id": "en-adult-forearm",
+      "source_url": "https://orthopaedic.lk/forearm-adults/",
+      "source_file": "english/en-adult-04.md",
+      "source_sha256": "e4de2f400e3a2579b8e09a47a44f3fd610b58507946129c40ed2535564ceef89",
+      "destination": "articles/en-adult-forearm.html",
+      "counts": {
+        "images": 17,
+        "headings": 2,
+        "paragraphs": 40
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-05",
+      "id": "en-adult-wrist",
+      "source_url": "https://orthopaedic.lk/wrist-adults/",
+      "source_file": "english/en-adult-05.md",
+      "source_sha256": "7560995b02fe0ef7bc592fa23804ad48bd74505f4d620407481bad5f237f38c7",
+      "destination": "articles/en-adult-wrist.html",
+      "counts": {
+        "images": 15,
+        "headings": 1,
+        "paragraphs": 29
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-06",
+      "id": "en-adult-hip",
+      "source_url": "https://orthopaedic.lk/hip-adults/",
+      "source_file": "english/en-adult-06.md",
+      "source_sha256": "c83b74f79ef12d85985a7efad244acc19602ce12b95f4f2a36056b0fced825e7",
+      "destination": "articles/en-adult-hip.html",
+      "counts": {
+        "images": 15,
+        "headings": 1,
+        "paragraphs": 31
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-07",
+      "id": "en-adult-thigh",
+      "source_url": "https://orthopaedic.lk/thigh-adults/",
+      "source_file": "english/en-adult-07.md",
+      "source_sha256": "bee13bde216f1ed4eb115d027c6cacabbc8565f659d7ab18466ea149a7833229",
+      "destination": "articles/en-adult-thigh.html",
+      "counts": {
+        "images": 30,
+        "headings": 2,
+        "paragraphs": 59
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-08",
+      "id": "en-adult-knee",
+      "source_url": "https://orthopaedic.lk/knee-adults/",
+      "source_file": "english/en-adult-08.md",
+      "source_sha256": "8b25071a5beb422e06ba21d3aa20038125406d48523aca23dfa48ee5a792a6b6",
+      "destination": "articles/en-adult-knee.html",
+      "counts": {
+        "images": 16,
+        "headings": 2,
+        "paragraphs": 37
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-09",
+      "id": "en-adult-leg",
+      "source_url": "https://orthopaedic.lk/leg-adults/",
+      "source_file": "english/en-adult-09.md",
+      "source_sha256": "c326de74012ed3ffbef5c8dbaa55d8a678a34237e8ad796325363361db50fab8",
+      "destination": "articles/en-adult-leg.html",
+      "counts": {
+        "images": 26,
+        "paragraphs": 60,
+        "headings": 1
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-10",
+      "id": "en-adult-foot-ankle",
+      "source_url": "https://orthopaedic.lk/foot-ankle-adults/",
+      "source_file": "english/en-adult-10.md",
+      "source_sha256": "d58d98d6ba5dc1993ad6b63a1d047049056d07301f12e96df3e490f1ff914e5d",
+      "destination": "articles/en-adult-foot-ankle.html",
+      "counts": {
+        "images": 17,
+        "headings": 1,
+        "paragraphs": 35
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-11",
+      "id": "en-adult-pelvis",
+      "source_url": "https://orthopaedic.lk/pelvis-adults/",
+      "source_file": "english/en-adult-11.md",
+      "source_sha256": "0571bcbfc7a0926bc21a527db0335017179e36d37fe8e61a124f126db7257a52",
+      "destination": "articles/en-adult-pelvis.html",
+      "counts": {
+        "images": 5,
+        "headings": 1,
+        "paragraphs": 15
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-adult-12",
+      "id": "en-adult-spine",
+      "source_url": "https://orthopaedic.lk/spine-adults/",
+      "source_file": "english/en-adult-12.md",
+      "source_sha256": "f58de41d841c4e78c4da4875fa6a40c05157d9866ea51d389269f92388f53668",
+      "destination": "articles/en-adult-spine.html",
+      "counts": {
+        "images": 8,
+        "headings": 1,
+        "paragraphs": 17
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-children-01",
+      "id": "en-children-shoulder",
+      "source_url": "https://orthopaedic.lk/shoulder-children/",
+      "source_file": "english/en-children-01.md",
+      "source_sha256": "a23314eead0ed59516e06818c2fb816c6498d5a32e1cd67d325abe77dcf66e2f",
+      "destination": "articles/en-children-shoulder.html",
+      "counts": {
+        "images": 25,
+        "headings": 2,
+        "paragraphs": 59,
+        "list_items": 10
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-children-02",
+      "id": "en-children-elbow",
+      "source_url": "https://orthopaedic.lk/elbow-children/",
+      "source_file": "english/en-children-02.md",
+      "source_sha256": "0cb3ddb555fcc7e7d5d4ee8275a2343cdb7f45af423901e92a19a1ea4990ed6a",
+      "destination": "articles/en-children-elbow.html",
+      "counts": {
+        "images": 7,
+        "headings": 1,
+        "paragraphs": 10
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-children-03",
+      "id": "en-children-upper-arm",
+      "source_url": "https://orthopaedic.lk/upper-arm-children/",
+      "source_file": "english/en-children-03.md",
+      "source_sha256": "69c8a8805cf8f2c841430ef0fd4cdf46a81edbb2b973e4bce162ddf42901467b",
+      "destination": "articles/en-children-upper-arm.html",
+      "counts": {
+        "images": 26,
+        "headings": 2,
+        "paragraphs": 61,
+        "list_items": 21
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-children-04",
+      "id": "en-children-wrist-hand",
+      "source_url": "https://orthopaedic.lk/wrist-hand-children/",
+      "source_file": "english/en-children-04.md",
+      "source_sha256": "70a590a345ffae74a462fc76d3e285d506ef3c875ab0232cf5b35860f2ef5783",
+      "destination": "articles/en-children-wrist-hand.html",
+      "counts": {
+        "images": 8,
+        "headings": 1,
+        "paragraphs": 15
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-children-05",
+      "id": "en-children-knee",
+      "source_url": "https://orthopaedic.lk/knee-children/",
+      "source_file": "english/en-children-05.md",
+      "source_sha256": "fb2d6799445d8c50cabdb68f860a1fd2be5fcb115456298e3cb1f5752e0a66e0",
+      "destination": "articles/en-children-knee.html",
+      "counts": {
+        "images": 3,
+        "headings": 1,
+        "paragraphs": 4
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-children-06",
+      "id": "en-children-foot-ankle",
+      "source_url": "https://orthopaedic.lk/foot-ankle-children/",
+      "source_file": "english/en-children-06.md",
+      "source_sha256": "17966ef28a7a661b17262462dde154599962d88de53608f269595aa048394243",
+      "destination": "articles/en-children-foot-ankle.html",
+      "counts": {
+        "images": 3,
+        "headings": 1,
+        "paragraphs": 4
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "en-children-07",
+      "id": "en-children-leg",
+      "source_url": "https://orthopaedic.lk/leg-children/",
+      "source_file": "english/en-children-07.md",
+      "source_sha256": "16df922a5059b76b64b56f65ec24909650a8c5efca9c563bfeed7f3665275d86",
+      "destination": "articles/en-children-leg.html",
+      "counts": {
+        "images": 6,
+        "headings": 1,
+        "paragraphs": 13
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-01",
+      "id": "si-adult-fractures",
+      "source_url": "https://orthopaedic.lk/අස්ථි-බිදීම්/",
+      "source_file": "sinhala/si-adult-01.md",
+      "source_sha256": "fb3903850679fee84c77d34db11c6cba3240c56f3469c186ec354db724ee137f",
+      "destination": "articles/si-adult-fractures.html",
+      "counts": {
+        "images": 19,
+        "headings": 2,
+        "paragraphs": 35
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-02",
+      "id": "si-adult-hip-replacement",
+      "source_url": "https://orthopaedic.lk/උකුල-සන්දිය-දැමීම/",
+      "source_file": "sinhala/si-adult-02.md",
+      "source_sha256": "a7746ff5d18e2df18f2f583a0528d80a4bfbad010c3b6aa5bff84770d8325cbf",
+      "destination": "articles/si-adult-hip-replacement.html",
+      "counts": {
+        "images": 7,
+        "headings": 1,
+        "paragraphs": 15
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-03",
+      "id": "si-adult-knee-replacement",
+      "source_url": "https://orthopaedic.lk/දණහිස-සන්දිය-දැමීම/",
+      "source_file": "sinhala/si-adult-03.md",
+      "source_sha256": "c1af228143ed0a40bbc04a12af718b6dab3b1efc9c263e7644d8e18a55df7719",
+      "destination": "articles/si-adult-knee-replacement.html",
+      "counts": {
+        "images": 7,
+        "headings": 1,
+        "paragraphs": 15
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-04",
+      "id": "si-adult-common-pains",
+      "source_url": "https://orthopaedic.lk/සුලබව-දක්නට-ලැබෙන-ඇඟපතේ-ව/",
+      "source_file": "sinhala/si-adult-04.md",
+      "source_sha256": "2d4f71ee29a29a81f79f999c01728c01a9cbb444017fd7ddf95dd85453a23e1f",
+      "destination": "articles/si-adult-common-pains.html",
+      "counts": {
+        "images": 9,
+        "headings": 10,
+        "paragraphs": 8
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-05",
+      "id": "si-adult-complex-fractures",
+      "source_url": "https://orthopaedic.lk/සංකීර්ණ-වූ-අස්ථි-බිඳීම්-ව/",
+      "source_file": "sinhala/si-adult-05.md",
+      "source_sha256": "0e8c7a0d8cbf509fdb5a90e12c6c0f89973cc42935a1a0a1c34f0f19be6ae800",
+      "destination": "articles/si-adult-complex-fractures.html",
+      "counts": {
+        "images": 8,
+        "headings": 1,
+        "paragraphs": 25
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-06",
+      "id": "si-adult-foot-ankle-surgery",
+      "source_url": "https://orthopaedic.lk/පාදය-හා-වළලුකර-ආශ්‍රිත-කො/",
+      "source_file": "sinhala/si-adult-06.md",
+      "source_sha256": "b35b741f3e06d69270aaebeddf17f7024337fbba6cc8157ef1c1e0bd573ea7f8",
+      "destination": "articles/si-adult-foot-ankle-surgery.html",
+      "counts": {
+        "images": 5,
+        "headings": 1,
+        "paragraphs": 10
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-07",
+      "id": "si-adult-deformity-correction",
+      "source_url": "https://orthopaedic.lk/ඇද-කුද-කෙලින්-කිරීම/",
+      "source_file": "sinhala/si-adult-07.md",
+      "source_sha256": "cdcc1ef32359e05e337ae010f990d557f5f4f78425c5c41a572b33d358664be5",
+      "destination": "articles/si-adult-deformity-correction.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 3
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-08",
+      "id": "si-adult-unhealed-fractures",
+      "source_url": "https://orthopaedic.lk/සුව-නොවූ-අස්ථි-බිඳීම්/",
+      "source_file": "sinhala/si-adult-08.md",
+      "source_sha256": "e4dbc6bbd0a7f34d0ef60b1602e588eecba16f37d409dc8e57849c824dbec17a",
+      "destination": "articles/si-adult-unhealed-fractures.html",
+      "counts": {
+        "images": 1,
+        "headings": 1,
+        "paragraphs": 1
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-adult-09",
+      "id": "si-adult-osteoporosis",
+      "source_url": "https://orthopaedic.lk/e0-b6-94-e0-b7-83-e0-b7-8a-e0-b6-a7-e0-b7-92-e0-b6-ba-e0-b7-9d-e0-b6-b4-e0-b7-9c-e0-b6-bb-e0-b7-9d-e0-b7-83-e0-b7-92-e0-b7-83-e0-b7-8a/",
+      "source_file": "sinhala/si-adult-09.md",
+      "source_sha256": "b5f4781b2a80aaf4575b06b3e71797db0e9b4493613a308207a9bb223e241b7c",
+      "destination": "articles/si-adult-osteoporosis.html",
+      "counts": {
+        "images": 9,
+        "headings": 1,
+        "paragraphs": 24,
+        "list_items": 4
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-01",
+      "id": "si-children-infant-problems",
+      "source_url": "https://orthopaedic.lk/වයස-අවුරුද්ද-දක්වා-ළදරුව/",
+      "source_file": "sinhala/si-children-01.md",
+      "source_sha256": "9085a5663c62d0fa755788094db7de2b1083ebdf4e2960f7dc2ccef38fc6d253",
+      "destination": "articles/si-children-infant-problems.html",
+      "counts": {
+        "images": 6,
+        "headings": 1,
+        "paragraphs": 17
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-02",
+      "id": "si-children-fractures",
+      "source_url": "https://orthopaedic.lk/අස්ථි-බිඳීම්/",
+      "source_file": "sinhala/si-children-02.md",
+      "source_sha256": "74c516953a253b3a4c238708cf9dc064e37e81aef2c001d80159c3564061478e",
+      "destination": "articles/si-children-fractures.html",
+      "counts": {
+        "images": 5,
+        "headings": 1,
+        "paragraphs": 7
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-03",
+      "id": "si-children-dislocations",
+      "source_url": "https://orthopaedic.lk/සන්ධි-පැනීම්/",
+      "source_file": "sinhala/si-children-03.md",
+      "source_sha256": "d16584d6e504997da2ee9fbf71c5241fe259be66d52c22d484c40404b1c286c2",
+      "destination": "articles/si-children-dislocations.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 2
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-04",
+      "id": "si-children-leg-deformities",
+      "source_url": "https://orthopaedic.lk/කකුල්-වල-ඇද-කුද/",
+      "source_file": "sinhala/si-children-04.md",
+      "source_sha256": "421d97da6ac43e62fee5e8ed1682b56f33b0144e97a07959a358fac3ed91717a",
+      "destination": "articles/si-children-leg-deformities.html",
+      "counts": {
+        "images": 3,
+        "headings": 1,
+        "paragraphs": 4
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-05",
+      "id": "si-children-walking-problems",
+      "source_url": "https://orthopaedic.lk/දරුවන්ගේ-ඇවිදීමේ-අසාමාන්/",
+      "source_file": "sinhala/si-children-05.md",
+      "source_sha256": "4f11ecb32aca35b1696033ca0850ec51807b044644a62c6cb34b7ac64c840fc9",
+      "destination": "articles/si-children-walking-problems.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 2
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-06",
+      "id": "si-children-bone-tumours",
+      "source_url": "https://orthopaedic.lk/අස්ථි-තුළින්-හටගන්නා-ගෙඩ/",
+      "source_file": "sinhala/si-children-06.md",
+      "source_sha256": "21ec317fff5610b6a6b26f039b973752592ec104967354e9377ee34ebd0eb02d",
+      "destination": "articles/si-children-bone-tumours.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 2
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-07",
+      "id": "si-children-infections",
+      "source_url": "https://orthopaedic.lk/අස්ථි-හා-සන්ධිවල-සිදුවන-ආ/",
+      "source_file": "sinhala/si-children-07.md",
+      "source_sha256": "76990ea045c6d89bb4a8bba57ab31b014c65050d74c0a92178174fcccf1231bc",
+      "destination": "articles/si-children-infections.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 2
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-08",
+      "id": "si-children-spinal-deformities",
+      "source_url": "https://orthopaedic.lk/කොන්දුනරටියේ-ඇද-වීම්/",
+      "source_file": "sinhala/si-children-08.md",
+      "source_sha256": "9383917293e8c1a680abf0b78474fc66c1024fdbff82c66c8601c0144a248c2d",
+      "destination": "articles/si-children-spinal-deformities.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 2
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-09",
+      "id": "si-children-pains",
+      "source_url": "https://orthopaedic.lk/වේදනාවන්/",
+      "source_file": "sinhala/si-children-09.md",
+      "source_sha256": "7dc191d4bd054a6598e71865aa784e580dec65b852ca7e5f9618e19ec486600e",
+      "destination": "articles/si-children-pains.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 2
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-10",
+      "id": "si-children-longstanding-deformities",
+      "source_url": "https://orthopaedic.lk/දිඟු-කාලීනව-පවතින-අන්ගවි/",
+      "source_file": "sinhala/si-children-10.md",
+      "source_sha256": "5ea172c74b2edf8c5ed56361f7bb9bff267ecb9964832f72ca586536ca3963b6",
+      "destination": "articles/si-children-longstanding-deformities.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 2
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-children-11",
+      "id": "si-children-previous-treatment",
+      "source_url": "https://orthopaedic.lk/ගොඩ-වෙදකමින්-අතරමං-වූ-ඔබේ/",
+      "source_file": "sinhala/si-children-11.md",
+      "source_sha256": "9311d020760177145b8284f3664c835bd50637340d723dfabce2308d2f5fafb3",
+      "destination": "articles/si-children-previous-treatment.html",
+      "counts": {
+        "images": 2,
+        "headings": 1,
+        "paragraphs": 2
+      },
+      "outcome": "separate-draft"
+    },
+    {
+      "source_id": "si-overview-01",
+      "id": "si-children-overview",
+      "source_url": "https://orthopaedic.lk/ළමා-පිටුව/",
+      "source_file": "sinhala/si-overview-01.md",
+      "source_sha256": "df3cf9f30b3fb0e031fd586f7ee930018828da9be2d7169c661cbcd3bb9ccfa4",
+      "destination": "articles/si-children-overview.html",
+      "counts": {
+        "images": 15,
+        "headings": 17,
+        "paragraphs": 30
+      },
+      "outcome": "guide-with-full-source"
+    }
+  ],
+  "events": [
+    {
+      "source_id": "en-adult-01",
+      "reason": "placeholder",
+      "text": "On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresee. Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore \net dolore magna aliqua."
+    },
+    {
+      "source_id": "en-adult-01",
+      "reason": "placeholder",
+      "text": "On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresee. Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore \net dolore magna aliqua."
+    },
+    {
+      "source_id": "en-adult-02",
+      "reason": "placeholder",
+      "text": "On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresee. Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore \net dolore magna aliqua."
+    },
+    {
+      "source_id": "en-adult-05",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed"
+    },
+    {
+      "source_id": "en-adult-05",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please send us your inquery"
+    },
+    {
+      "source_id": "en-adult-06",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed"
+    },
+    {
+      "source_id": "en-adult-07",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed"
+    },
+    {
+      "source_id": "en-adult-07",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please send us your inquery"
+    },
+    {
+      "source_id": "en-adult-07",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed?"
+    },
+    {
+      "source_id": "en-adult-07",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please contact us"
+    },
+    {
+      "source_id": "en-adult-08",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed ?"
+    },
+    {
+      "source_id": "en-adult-08",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please contact us."
+    },
+    {
+      "source_id": "en-adult-10",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed"
+    },
+    {
+      "source_id": "en-adult-10",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please contact us"
+    },
+    {
+      "source_id": "en-adult-11",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed"
+    },
+    {
+      "source_id": "en-adult-11",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please contact us"
+    },
+    {
+      "source_id": "en-adult-12",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed"
+    },
+    {
+      "source_id": "en-children-01",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Your Problem Is Not Listed ?"
+    },
+    {
+      "source_id": "en-children-01",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please send us your problem."
+    },
+    {
+      "source_id": "en-children-01",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed"
+    },
+    {
+      "source_id": "en-children-01",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please contact us"
+    },
+    {
+      "source_id": "en-children-02",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Your Problem Is Not Listed ?"
+    },
+    {
+      "source_id": "en-children-02",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please send us your problem."
+    },
+    {
+      "source_id": "en-children-03",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Your Problem Is Not Listed ?"
+    },
+    {
+      "source_id": "en-children-03",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please send us your problem."
+    },
+    {
+      "source_id": "en-children-03",
+      "reason": "legacy-enquiry-prompt",
+      "text": "My Problem Is Not Listed"
+    },
+    {
+      "source_id": "en-children-03",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please contact us"
+    },
+    {
+      "source_id": "en-children-04",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Your Problem Is Not Listed ?"
+    },
+    {
+      "source_id": "en-children-04",
+      "reason": "legacy-enquiry-prompt",
+      "text": "Please send us your problem."
+    },
+    {
+      "source_id": "si-adult-01",
+      "reason": "gallery-formatting",
+      "text": "Linked gallery retained as local inline figures, in source order."
+    },
+    {
+      "source_id": "si-adult-09",
+      "reason": "formatting-separator",
+      "text": "---"
+    }
+  ],
+  "retired_articles": [
+    "fracture-surgery-questions",
+    "hip-replacement-expectations",
+    "knee-pain-assessment",
+    "knee-replacement-questions",
+    "ligament-injury-questions"
+  ]
+}

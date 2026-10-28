@@ -1,0 +1,319 @@
+{
+  "id": "en-adult-foot-ankle",
+  "title": "Foot & Ankle – Adults",
+  "summary": "Ankle fractures, foot concerns and questions about treatment.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "foot-ankle"
+  ],
+  "topics": [
+    "fractures",
+    "foot-ankle-surgery"
+  ],
+  "keywords": [
+    "Foot and ankle"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/9ca3513df1d5fe0b46ee.jpg",
+          "alt": "Illustration highlighting the ankle region",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "ANKLE FRACTURES",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Comprehensive solutions for the correction of the full spectrum of deformities associated with Hallux Valgus (bunion)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ankle injuries are serious. Any injury which did not have proper care can result in severe walking difficulties and a painful ankle."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c610bbb6358909e121a6.jpg",
+          "alt": "Ankle X-ray",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Why Should This Fracture Fixed Without Delay?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "We want you to be up and about immediately after your injury. Next point is we want you to be back in your normal level of activities and get back to your job as early as possible. Why should you waste time when there is a very good treatment option is available?"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a33ad63032b4b178ecb7.jpg",
+          "alt": "Illustration highlighting bones in the foot",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Bones Are Broken?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There will be immediate swelling on the either side of the joint. Bluish discoloration, bleeding under the skin, ankle going out of shape, water filled skin bubbles (blisters) could be seen. Foot may also swell if you keep the leg on dependent position. Weight bearing is difficult and painful."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/36afc60ab5ebe0a8cf99.jpg",
+          "alt": "Runner touching the back of an ankle",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Could You See If The Ankle Is Fractured ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There needs to be some form of trauma to the joint. Your arm is held bent at the elbow. There will be a bulge appearing in front of the joint. The joint and slightest movement will be very painful."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0ebd914baee658b3b936.jpg",
+          "alt": "Green blocks spelling first aid",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any First Aids ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes. You could splint the injured ankle with two strips of wood placed either side of the ankle over a clean cloth. Keep the ankle Elevated on a couple of pillows. Application of ice will also be helpful. Do not give anything to eat or drink until medical advice is available."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0904ec845338f98dbef7.jpg",
+          "alt": "Patient entering a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Tests Need To Be Done?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is usually an Xray of the ankle joint taken from the front and side. Complex fractures will require a CT scan."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d9a54429b6a18c6e52e2.jpg",
+          "alt": "Surgical team working in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will I Need An Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Ankle sprains are usually not operated. The ankle will be put on an ankle brace/plaster of Paris half cast for a period of two to three weeks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures of the smaller bone (fibula) with broken pieces remaining in the original position may be managed with a plaster half cast. These fractures only need an adequate period of immobilization until the body heals it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures with displaced bone ends and those which involve both bones need operative fixation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please read anesthesia for operations of the hips and lower limbs."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/3ec1483853e00bd2fbe3.jpg",
+          "alt": "Drawing of plates and screws around the ankle",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Is It Fixed ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It takes about 45 minute to perform this operation. A small plate is used to fix the break in the smaller bone. Either two pins or a small screw are used to fix the tip of the other bone. The ankle will be secured with a plaster half cast."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/056da0bdfd9ece5edb13.jpg",
+          "alt": "Discharge order on a clipboard",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Go Home?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "When you are pain free and after the swelling settles. One-two days after operation.",
+          "question": true
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/910600dcb063488ca478.jpg",
+          "alt": "Carer supporting an older person at home",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Walk?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It takes about six weeks to heal. You are not supposed to put on weight on the leg. However you could walk on the other leg with help of a pair of crutches/walking frame."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/3ee1cbafc392e3c30c27.jpg",
+          "alt": "Person holding a crutch",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Put On Weight On The Leg ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your plaster half cast will be taken off at six weeks after operation. You will be advised to wear an ankle brace and commence on partial weight bearing for about two weeks before you put on full weight.Then onwards you will improve gradually."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ca6fab4ab68a67fb2eea.jpg",
+          "alt": "Lower leg and foot supported in a plaster cast",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Should I Look After My Leg ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You should not run/jump until you are advised to do so. There will be some swelling especially towards the end of the day. This settles by the next day morning. You will notice swelling gets worse if you hang it down. Please keep the leg elevated when you sleep or keep it on a similar height when you are seated."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d6751f11d5fcd0aaf66c.jpg",
+          "alt": "Lower leg supported in a plaster cast",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Will My Leg Look Like?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Please see pictures"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/9689ee8bc1668e9bb072.jpg",
+          "alt": "Close-up of the face of a clock",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Do I Have To Stay In The Hospital??",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is about two to three days. You need to keep the leg elevated on a pillow to prevent swelling. As it is a minor operation, there will not be much pain. However you will be given pain killers."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/31571e583573becf1505.jpg",
+          "alt": "Roll of a supportive bandage",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Is The Wound Check ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Please Read wound care for info one dressing change and stich removal."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/630d097bd51eebf1509d.jpg",
+          "alt": "Ankle support brace",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ankle Brace"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please see pictures"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+          "alt": "Clinician working at a laptop",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-elbow"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-10",
+    "url": "https://orthopaedic.lk/foot-ankle-adults/",
+    "file": "english/en-adult-10.md",
+    "sha256": "d58d98d6ba5dc1993ad6b63a1d047049056d07301f12e96df3e490f1ff914e5d",
+    "original_title": "Foot & Ankle – Adults",
+    "extracted_utc": "2026-10-24T18:30:11+00:00"
+  }
+}

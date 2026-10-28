@@ -1,0 +1,82 @@
+{
+  "id": "si-children-previous-treatment",
+  "title": "ගොඩ වෙදකමින් අතරමං වූ ඔබේ දරුවට (ළමා)",
+  "summary": "දරුවන්ගේ අස්ථි හා සන්ධි තුවාලවලට කළ පෙර ප්‍රතිකාරවලින් පසු ඇති ගැටලු පිළිබඳ තොරතුරු.",
+  "category": "පෙර ප්‍රතිකාරවලින් පසු ගැටලු",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "bones-joints"
+  ],
+  "topics": [
+    "previous-treatment",
+    "fractures"
+  ],
+  "keywords": [
+    "Complications following traditional bone-setting"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/363070b9d94865e8b692.jpg",
+          "alt": "Bottles of oils with herbs and flowers",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "ගොඩ වෙදකමින් අතරමං වූ ඔබේ දරුවට",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/7b9106a8db08f565c0de.jpg",
+          "alt": "Herbs and a small bottle of oil",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "ගොඩ වෙදකමින් අතරමං වූ ඔබේ දරුවට"
+        },
+        {
+          "type": "paragraph",
+          "text": "අස්ථි බිඳීම් වලට, හන්දි උලුක් වීම් වලට තෙල් වර්ග ආලේප කිරීම, උණුසුම් කල පත්තු ගැලවීම මෙරට තුල සුලබව දක්නට ලැබේ. දෙමාපියන් බොහෝවිට මෙවැනි යල්පැනගිය ක්රම වලට යොමුවන්නේ වැඩිහිටියන්ගේ, \nඅසල්වැසියන්ගේ හෝ ගම්ම්බද මහාචර්ය වරුන්ගේ උපදෙස් පිළිපැදීමෙනි. මෙම ක්රම වලින් සුවවන අවස්ථාද නැත්තේම නැත. එසේ සුවවන්නේ නිකන් නිසොල්මන්ව බිඳුණු කොටස තැබුවත් සුවවන බින්දීම්ය. නොඑසේනම් නොපැන්න හන්දියකට එය පැන ඇතිලෙස ප්රතිකාර කර සුවකළ විටය. හන්දි ආසන්නයේ සිදු වන කැඩීම් වලට පත්තු බැඳීම නිසා නොයෙක් සන්කුඋලතා ඇති වේ. අත් පා අකර්මන්ය වීම්, කොටස් මැරී යාම්, ඇද වී සවිවීම්, පැසවීම නිසා අත කපා ඉවත් කිරීමට සිදුවීම, හන්දි සදා කාලිකව සවිවීම්උ දාහරණ ලෙස දැක්විය හැක. අවාසනාවකට, ගොඩ වෙදුන් කරන මේ විනාශයට නඩු නැත, රූපවහිනියෙ, ගුවන්විදුලියේ හෝ පත්තරේ මේ ගැන කියන්නේ ද නැත. මේ හා සමාන ගැටළු ඔබටත් ඇත්නම් අප හා සම්භන්ද වන්න."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-children-overview"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-complex-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-dislocations"
+    }
+  ],
+  "archive": {
+    "source_id": "si-children-11",
+    "url": "https://orthopaedic.lk/ගොඩ-වෙදකමින්-අතරමං-වූ-ඔබේ/",
+    "file": "sinhala/si-children-11.md",
+    "sha256": "9311d020760177145b8284f3664c835bd50637340d723dfabce2308d2f5fafb3",
+    "original_title": "ගොඩ වෙදකමින් අතරමං වූ ඔබේ දරුවට (ළමා)",
+    "extracted_utc": "2026-10-24T18:34:32+00:00"
+  }
+}

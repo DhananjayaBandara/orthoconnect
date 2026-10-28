@@ -1,0 +1,3606 @@
+{
+  "assets": [
+    {
+      "file": "assets/images/articles/340502fc2fc6d91c96e8.jpg",
+      "sha256": "340502fc2fc6d91c96e88976c1ca1ab5cc6b896ed429a0cbd8abdd6069c44612",
+      "bytes": 522947,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/slider-a986647bb5.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/slider.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a9391ac937e3edac53ca.jpg",
+      "sha256": "a9391ac937e3edac53cae447faf08266f7e5cabcda7f14fd5971f9422ff34946",
+      "bytes": 57844,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/1-8e0f0bf9e1.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/1.jpg"
+        },
+        {
+          "article_id": "en-children-02",
+          "archive_file": "images/en-children-02/1-8e0f0bf9e1.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/0a2533d00113221fb490.jpg",
+      "sha256": "0a2533d00113221fb490917185bb71f3b628c040f697cf66419aad19e046b876",
+      "bytes": 72820,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/2-d97dc34b61.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c15e6c5ffcb17d89cd30.jpg",
+      "sha256": "c15e6c5ffcb17d89cd30b7cae01c714cfbfdb00469c6906cafe888c40e6435d5",
+      "bytes": 47335,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/3-5f69b0d2f9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/3.jpg"
+        },
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/3-5f69b0d2f9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/3.jpg"
+        },
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/3-5f69b0d2f9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/3.jpg"
+        },
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/3-5f69b0d2f9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/0904ec845338f98dbef7.jpg",
+      "sha256": "0904ec845338f98dbef7ba29bafbac090aa785c6ce32e356037e6eb3f2febcb6",
+      "bytes": 9701,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/5-b0728c0234.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5.jpg"
+        },
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/19-5a72da580f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/19.jpg"
+        },
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/7-4-8a16368da6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-4.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/7-4-8a16368da6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-4.jpg"
+        },
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/5-b0728c0234.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/5-b0728c0234.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/7-4-8a16368da6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2767034643ce2ab49ebb.jpg",
+      "sha256": "2767034643ce2ab49ebbfca8e1f3e3776e4da23b8d35b5358ddab4b2b7b375a0",
+      "bytes": 63723,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/6-224e30142d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/6.jpg"
+        },
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/7-1-50806af878.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-1.jpg"
+        },
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/7-1-50806af878.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/144c654c462db4a69856.jpg",
+      "sha256": "144c654c462db4a69856c49071ffd2ef03bf22e2f0fdda82531c98fcc7ccf0d4",
+      "bytes": 37535,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/7-e5be1e44ba.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7.jpg"
+        },
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/15-1-9cec0eda10.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-1.jpg"
+        },
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/15-1-9cec0eda10.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-1.jpg"
+        },
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/15-1-9cec0eda10.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-1.jpg"
+        },
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/15-1-9cec0eda10.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-1.jpg"
+        },
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/15-1-9cec0eda10.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-1.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/15-1-9cec0eda10.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-1.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/13-2-40d1d80955.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/13-2.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/13-2-40d1d80955.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/13-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d9a54429b6a18c6e52e2.jpg",
+      "sha256": "d9a54429b6a18c6e52e283d34064f835ba04430f5f2798ea7ffbe3eb9cd6bcdd",
+      "bytes": 75850,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/8-7fd1264cce.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8.jpg"
+        },
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/5-1-6b192bc05c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5-1.jpg"
+        },
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/8-7fd1264cce.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/5-1-6b192bc05c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5-1.jpg"
+        },
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/8-7fd1264cce.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/5-1-6b192bc05c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/53fdf9fc21e38aaad8d2.jpg",
+      "sha256": "53fdf9fc21e38aaad8d2d095030ce0d1645f7ada275ec3ae92e733a0ac7e22c4",
+      "bytes": 71826,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/9-849b3b9051.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/9.jpg"
+        },
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/14-1-0b5e4f01b1.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/14-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2057541f8c0d47b0a3fb.jpg",
+      "sha256": "2057541f8c0d47b0a3fbcf46a795835b581963e68fde3c61ee98dcfd60c090ba",
+      "bytes": 53579,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/10-32f2197f95.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/10.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/662bacc48e8be11f908e.jpg",
+      "sha256": "662bacc48e8be11f908e44f6f000ca500a83ca331747dd1567e9eeefe4d43f41",
+      "bytes": 32909,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/11-4450acb185.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/11.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a3faeb5d97126a2bf481.jpg",
+      "sha256": "a3faeb5d97126a2bf481367b3b9b20d525462aa0e1aff2b70b417cc2a1c0e7dc",
+      "bytes": 89621,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/12-089da3183f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/12.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d47a0711a198f29c7be8.jpg",
+      "sha256": "d47a0711a198f29c7be8e0155058a3ea7d0e19cf34c7a37aeca3fdf410d0df37",
+      "bytes": 18833,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/13-518b6640a5.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/13.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ddb44be059717409f5e1.jpg",
+      "sha256": "ddb44be059717409f5e1f2982c7fd3532e5b3d3b867cfea9a6c531946abdfc45",
+      "bytes": 66728,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/14-548d56fd25.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/14.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/8a3ef7e0bd116fee4095.jpg",
+      "sha256": "8a3ef7e0bd116fee4095cac0876d8390c7ec45d0e0a278d3d8855d4a9609cde3",
+      "bytes": 47923,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/15-69e17ba264.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15.jpg"
+        },
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/15-69e17ba264.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/15-69e17ba264.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ea468a142cf6e6e3a757.jpg",
+      "sha256": "ea468a142cf6e6e3a75714f15e72174cc4e6d07b7bf70af29d6343f6c0952e7d",
+      "bytes": 32536,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/18-c9d5fa6485.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/18.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/18-c9d5fa6485.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/18.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+      "sha256": "a7fbb0f729b1211f5288c00b61099e38185dd65dafc5df030d259a2c3be7c9b0",
+      "bytes": 42846,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/17-fddff3452c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17.jpg"
+        },
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/17-fddff3452c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17.jpg"
+        },
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/17-fddff3452c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17.jpg"
+        },
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/17-fddff3452c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/17-fddff3452c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17.jpg"
+        },
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/17-fddff3452c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/17-fddff3452c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17.jpg"
+        },
+        {
+          "article_id": "en-adult-12",
+          "archive_file": "images/en-adult-12/17-fddff3452c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17.jpg"
+        },
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/22-2-55f35d15fc.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/22-2.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/22-2-55f35d15fc.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/22-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c9719a7af0231496b4b7.jpg",
+      "sha256": "c9719a7af0231496b4b760caa5ac08c68a655d38288c9b83069ffe6c8fee5be4",
+      "bytes": 57146,
+      "sources": [
+        {
+          "article_id": "en-adult-01",
+          "archive_file": "images/en-adult-01/16-82c2113ac6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/16.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/6b4e87a661c94c5bf089.jpg",
+      "sha256": "6b4e87a661c94c5bf089061cf7c89b59e7f7a8052181115a9c966c8dd9699fa3",
+      "bytes": 512594,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/slider-1-3116dd95b8.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/slider-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/6bbdf1bc0149a30b8374.jpg",
+      "sha256": "6bbdf1bc0149a30b8374dbfa47148b8b3efcf037841eb7295d0851d63c2aadaf",
+      "bytes": 66558,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/4-1-c49fa3c3e9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/4-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/40138be7f13d2ea80a7f.jpg",
+      "sha256": "40138be7f13d2ea80a7fbdf388614076783020cc55568fc260c8668dc95c1be5",
+      "bytes": 42797,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/2-1-9fa35b91b4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/dd7b2c1732cdec7b1441.jpg",
+      "sha256": "dd7b2c1732cdec7b1441e0ae1bf1d142f69cca5d5f022238c568cd24762932dc",
+      "bytes": 32338,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/1-1-aaa20ecf4d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/1-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ab61ecb9b4833c3c97cf.jpg",
+      "sha256": "ab61ecb9b4833c3c97cf844478ce0ab8f2ec23dd1ae21953bdfd0493ceb6a7a5",
+      "bytes": 61204,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/6-1-5feba77ca2.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/6-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d0afed046e5a8636bebb.jpg",
+      "sha256": "d0afed046e5a8636bebb004ae3596de7290ee73d7a3de6941bfe2ae614928dcb",
+      "bytes": 46005,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/8-1-c1b0456f4e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8-1.jpg"
+        },
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/8-1-c1b0456f4e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8-1.jpg"
+        },
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/8-1-c1b0456f4e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/9846fa8813d02c19e4ba.jpg",
+      "sha256": "9846fa8813d02c19e4ba60d7ac1ed4f2104e4cf7e6ff57f2bbf60fee058db6c8",
+      "bytes": 46634,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/9-1-64dc9d9da5.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/9-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/14042c80149d230a4539.jpg",
+      "sha256": "14042c80149d230a45390d5dc0cfba4ddc73637936d64cda05f98d5dfcacdfb3",
+      "bytes": 47511,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/10-1-31f04197f9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/10-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/be683712f685024d7eb1.jpg",
+      "sha256": "be683712f685024d7eb17306517980a5be7fdddd29908c0da574b5f52513ef93",
+      "bytes": 77122,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/13-1-b92e556484.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/13-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/57b2b1460d5bc21d2be0.jpg",
+      "sha256": "57b2b1460d5bc21d2be03f017f7aec3073863ffcd6c96be5e5e201bb90f45c5e",
+      "bytes": 44736,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/16-1-49b847ab12.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/16-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2fa14fcc25aba92e3dda.jpg",
+      "sha256": "2fa14fcc25aba92e3ddaac13cabbe18acb6ce49a2a13b48fd6cbf2beae065351",
+      "bytes": 41756,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/17-1-7f3bb6eaa9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/17-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/0ebd914baee658b3b936.jpg",
+      "sha256": "0ebd914baee658b3b9368a230a2922aa8704925e6da2547ac3de2b28fc3ec47e",
+      "bytes": 55400,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/18-1-c2bfd20f74.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/18-1.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/18-1-c2bfd20f74.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/18-1.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/18-1-c2bfd20f74.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/18-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/b46adc1ac4c31e582c08.jpg",
+      "sha256": "b46adc1ac4c31e582c08f87bb46b9a3fe5aaf121316775645f05f82b239c6d24",
+      "bytes": 29460,
+      "sources": [
+        {
+          "article_id": "en-adult-02",
+          "archive_file": "images/en-adult-02/20-4dcd0a8fe9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/20.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/21-3-6b025da8e1.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/21-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/429a7c2f3bd184744c8c.jpg",
+      "sha256": "429a7c2f3bd184744c8cf14bd4dc1db68b4ebbc807ba40893ca422b72519c0ca",
+      "bytes": 410454,
+      "sources": [
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/slider-2-e309c3f8fa.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/slider-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/75896548bd0f46d8e8d2.jpg",
+      "sha256": "75896548bd0f46d8e8d239fa39b1cad130927ff808798c85912a10de9f28ccaa",
+      "bytes": 58827,
+      "sources": [
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/1-2-3e84acd92a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/1-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/9bb160fafd2fd1a8b50e.jpg",
+      "sha256": "9bb160fafd2fd1a8b50eb36565db7f1e53e36f00f4d68023e08550eb3d98192c",
+      "bytes": 41477,
+      "sources": [
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/2-2-d6b3a23c84.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d7183ae9f057c1e55dce.jpg",
+      "sha256": "d7183ae9f057c1e55dcef904fb7487eddcb0bdbeddce1517b078ca069b7a2306",
+      "bytes": 54658,
+      "sources": [
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/3-2-f4e01fba83.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/3-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ef3230d4bc3313a9c274.jpg",
+      "sha256": "ef3230d4bc3313a9c2740cbd772fde60b125b766d93d3d558925a8b43f0cd8db",
+      "bytes": 52446,
+      "sources": [
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/4-2-d071d406d6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/4-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2dce90072c7d12df53ec.jpg",
+      "sha256": "2dce90072c7d12df53ec22f17361964ab5e688cf928928808683d4c2784ea4a1",
+      "bytes": 66768,
+      "sources": [
+        {
+          "article_id": "en-adult-03",
+          "archive_file": "images/en-adult-03/7-2-b9f50d9655.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-2.jpg"
+        },
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/7-2-b9f50d9655.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/941186c6621bd4cc339d.jpg",
+      "sha256": "941186c6621bd4cc339ddd311150af3c30ffb182fc02a7cb5e52b7533fa36472",
+      "bytes": 58778,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/slider-3-d2f1263591.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/slider-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/0aa151de803af0939990.jpg",
+      "sha256": "0aa151de803af0939990a00d18beb53a81fa845c3093aee0cac2dc6f93b968c1",
+      "bytes": 66344,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/1-3-b103553cb9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/1-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/99b31ab0981dca3fd706.jpg",
+      "sha256": "99b31ab0981dca3fd706b4aa843b9fbda8f7d79cf6f10e715d40c4b245c887fc",
+      "bytes": 13418,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/2-3-42a56db3ef.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/5c8bca5df86a26cb7d3b.jpg",
+      "sha256": "5c8bca5df86a26cb7d3b27217376ab387894d8a98c3f557ee7db94987847df2e",
+      "bytes": 7451,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/5-2-688c2d270a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/0ef02edb87dad905c97b.jpg",
+      "sha256": "0ef02edb87dad905c97b0307abd59225bb00c163abb833da699c857a0eebdfd8",
+      "bytes": 45958,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/7-3-93066397c3.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-3.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/7-3-93066397c3.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-3.jpg"
+        },
+        {
+          "article_id": "si-adult-05",
+          "archive_file": "images/si-adult-05/7-3-93066397c3.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/7-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/128f98a56a06e48301bc.jpg",
+      "sha256": "128f98a56a06e48301bc92f56ae81024b13fd1ed72954f17b56ef5ad661eb8d8",
+      "bytes": 33821,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/8-2-1a93918579.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/1ea8006cf0c3ab77d8d3.jpg",
+      "sha256": "1ea8006cf0c3ab77d8d32a04a4d9f9f4c3863a1963cca7dfd584e817a0174034",
+      "bytes": 56867,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/10-2-3c63b9ad95.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/10-2.jpg"
+        },
+        {
+          "article_id": "si-adult-05",
+          "archive_file": "images/si-adult-05/10-2-3c63b9ad95.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/10-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/96e7e43bf940272e2f6f.jpg",
+      "sha256": "96e7e43bf940272e2f6f4576259d04dd8e383bb9a5b4816fbe2537a59df5aeb4",
+      "bytes": 46656,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/11-1-3e772dd3c7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/11-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/9c6d25acf65e9f50885f.jpg",
+      "sha256": "9c6d25acf65e9f50885f0a1fa370688fec4224adce8e36b14baa8ae4d82d31db",
+      "bytes": 61765,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/12-1-bfcbc6d986.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/12-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/06f370a750db4d68745e.jpg",
+      "sha256": "06f370a750db4d68745e02ff1edf57993b8d69b96a6eb97a64087518e973fdcb",
+      "bytes": 52975,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/15-2-9e7dc4b578.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/f189e49439513a13baa5.jpg",
+      "sha256": "f189e49439513a13baa5743d66dbfa78abfacbdc7222c21c51b48ace8ab2c6eb",
+      "bytes": 15810,
+      "sources": [
+        {
+          "article_id": "en-adult-04",
+          "archive_file": "images/en-adult-04/16-2-43276ab6e4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/16-2.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/16-2-43276ab6e4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/16-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/f0554fab74fd9602213f.jpg",
+      "sha256": "f0554fab74fd9602213fa28596ca7052cdb696605cad412c7456a5f72f8deaf8",
+      "bytes": 67574,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/slider-4-837c0dcb81.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/slider-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/5856f7754a0c295574bb.jpg",
+      "sha256": "5856f7754a0c295574bb226d898e288f00a1190c78d52c971dc77247511af0e6",
+      "bytes": 45133,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/1-4-a1efff06da.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/1-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/8c2876d11e1adc3a78fb.jpg",
+      "sha256": "8c2876d11e1adc3a78fb592526504c57e64e1c87982a594508cc4b44f5af9d52",
+      "bytes": 79697,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/2-4-6b5b444798.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/9fffecfc7b8265502c1a.jpg",
+      "sha256": "9fffecfc7b8265502c1a4ca78c5f6109cc3fe5947b8b15c136f7457b77c448ba",
+      "bytes": 55095,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/3-3-e7c81b3936.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/3-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a847e409f026537e2fb0.jpg",
+      "sha256": "a847e409f026537e2fb09393da4e8466313a119960c7adbb45be005f98de5997",
+      "bytes": 59269,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/5-3-7ecd6340a6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5-3.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/5-3-7ecd6340a6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/78bb7d685636e61a5dd6.jpg",
+      "sha256": "78bb7d685636e61a5dd658236cee0b5d303791624e210e6f931fab88c79ae95a",
+      "bytes": 66540,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/6-2-5709a44f7d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/6-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/06cca1c78c30be22c8c9.jpg",
+      "sha256": "06cca1c78c30be22c8c9f4dd981f8f16f9ccea9485121b2f3b62283bd806c404",
+      "bytes": 52708,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/8-3-895c4f96f7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/4ba202156f962adc8558.jpg",
+      "sha256": "4ba202156f962adc85587d97b6655fcfeaa2134a49d17d658470ec81116766f1",
+      "bytes": 51411,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/9-2-7608deab5b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/9-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e5385a5b3d404e3c9af0.jpg",
+      "sha256": "e5385a5b3d404e3c9af012eebee60d77f69b63c6fad4dd8ae4cfb7f42abfe504",
+      "bytes": 42667,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/11-2-44c5e0e36e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/11-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/6d3514d9bbcd49668c92.jpg",
+      "sha256": "6d3514d9bbcd49668c928019a17366c5065a5ee87c91c056034974067cbd892e",
+      "bytes": 66463,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/12-2-78d31c938a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/12-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/b8f837e7e993ccbe20c0.jpg",
+      "sha256": "b8f837e7e993ccbe20c0f6dad265b5bf8a2d89410da9d0a9887a835b77c91164",
+      "bytes": 59032,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/14-2-bd1b3cd892.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/14-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+      "sha256": "ad6b01a0bb2b46cb04c74371b57d416d043da53df81d9950762418ad6fc83b6a",
+      "bytes": 59578,
+      "sources": [
+        {
+          "article_id": "en-adult-05",
+          "archive_file": "images/en-adult-05/15-3-39234aa76e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-3.jpg"
+        },
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/15-3-39234aa76e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-3.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/15-3-39234aa76e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-3.jpg"
+        },
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/15-3-39234aa76e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-3.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/15-3-39234aa76e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-3.jpg"
+        },
+        {
+          "article_id": "en-adult-11",
+          "archive_file": "images/en-adult-11/15-3-39234aa76e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-3.jpg"
+        },
+        {
+          "article_id": "en-adult-12",
+          "archive_file": "images/en-adult-12/15-3-39234aa76e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/15-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/66114ca24f3be403977c.jpg",
+      "sha256": "66114ca24f3be403977ccf93ff1ca4a5068eac0227587af12699d607c933a834",
+      "bytes": 111397,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/slider-5-8f330d6a4c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/slider-5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/5f60be343a695585d0e6.jpg",
+      "sha256": "5f60be343a695585d0e6ab69189bdc83ca25f34b171ace65857f73c56c9a321d",
+      "bytes": 49762,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/1-5-7e2dd81f50.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/1-5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d0673fda4ff156fc4bdb.jpg",
+      "sha256": "d0673fda4ff156fc4bdbd0f58d411114a12f5cdabe1b8c1be3cc88262e99d275",
+      "bytes": 49820,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/2-5-a657f4de69.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2-5.jpg"
+        },
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/2-5-a657f4de69.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2-5.jpg"
+        },
+        {
+          "article_id": "si-adult-02",
+          "archive_file": "images/si-adult-02/2-5-a657f4de69.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2-5.jpg"
+        },
+        {
+          "article_id": "si-adult-03",
+          "archive_file": "images/si-adult-03/2-5-a657f4de69.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/2-5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2b9b09f0aaaca0f8de93.jpg",
+      "sha256": "2b9b09f0aaaca0f8de9383060d44464f5f41c96da5d26a6c869d838cc3935cab",
+      "bytes": 49508,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/4-4-db9beabf3d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/4-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2af037ff1cd0c40cb8c3.jpg",
+      "sha256": "2af037ff1cd0c40cb8c3d3f6e8c3fcbf14c3caac3ce5976ef2dda963e87a6e07",
+      "bytes": 34945,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/5-4-1be2ebeb6f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/5-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d48f24b1a0ca66c8cd5d.jpg",
+      "sha256": "d48f24b1a0ca66c8cd5dee2bcc9c090eaadde6370efb041cc52cc6590cc2338e",
+      "bytes": 60078,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/6-3-d5f27f683a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/6-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/30256903d0c807abd177.jpg",
+      "sha256": "30256903d0c807abd177ac2c8f863dd42b7e68a7ece5c8e5bdb3b6a9dc501e32",
+      "bytes": 43818,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/8-4-abdba72d7e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/8-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/0c8dff8e228c2f5da3c9.jpg",
+      "sha256": "0c8dff8e228c2f5da3c90c5596a5000c6377f9b7c4f9ed08ff82d8694542f138",
+      "bytes": 41593,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/9-3-9ed0dcd026.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/9-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/5f3181c3aa301a2833df.jpg",
+      "sha256": "5f3181c3aa301a2833dfdac81377429d59a992eabfdf3087d8a934248e3ecfb4",
+      "bytes": 62404,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/10-3-c0a4a3affb.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/10-3.jpg"
+        },
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/10-3-c0a4a3affb.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/10-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/910600dcb063488ca478.jpg",
+      "sha256": "910600dcb063488ca47832912f486a77e8ddcbb5b527f2b1cfdb09edf894cb8e",
+      "bytes": 72853,
+      "sources": [
+        {
+          "article_id": "en-adult-06",
+          "archive_file": "images/en-adult-06/11-3-a33d7c242c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/10/11-3.jpg"
+        },
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/24-6b3f8cff42.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/24.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/24-6b3f8cff42.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/24.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/fa9e19ce886979555d19.jpg",
+      "sha256": "fa9e19ce886979555d19066f97876a4b64468c30fd4ea4462b1dd2c391bc3c07",
+      "bytes": 161123,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/slider-df6a319534.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/dcfda01c92f547c81ad4.jpg",
+      "sha256": "dcfda01c92f547c81ad4fcda9a6dfa395df41fb5333fc118929920450b879ae4",
+      "bytes": 67590,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/1-d62d5d07c9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/13da7b04302fcaa259ec.jpg",
+      "sha256": "13da7b04302fcaa259ec2dcba444f14ff4bdb9194f7e04cf800436d16b565569",
+      "bytes": 43070,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/2-384bddb12e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/6975bc07727b659d3108.jpg",
+      "sha256": "6975bc07727b659d31082bd8ea6420260fcb31b6f398b7d8296af9d691e64e98",
+      "bytes": 32500,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/4-948b8f4b06.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/4.jpg"
+        },
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/15-3-5a814f97bf.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/15-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/8c016e7d53f2a04504d6.jpg",
+      "sha256": "8c016e7d53f2a04504d6e24a5d1f003f9d10709b36a1b4a19331d48905ded11f",
+      "bytes": 26361,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/7-1a3d84da21.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3691c51866dff2600096.jpg",
+      "sha256": "3691c51866dff2600096423046f69ca62048771f0043270c2561edf4ddf6fced",
+      "bytes": 52306,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/8-6797f602fc.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/8.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/660dd9e9183d9cb9e782.jpg",
+      "sha256": "660dd9e9183d9cb9e7826d29df99e9d0ea69baace6cc0af2cbc55f8ae24cb697",
+      "bytes": 48588,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/9-26f05d7461.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/9.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/18-1-6ce9e6a87d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/18-1.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/9-26f05d7461.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/9.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/8ea32a424365272bc74a.jpg",
+      "sha256": "8ea32a424365272bc74af39e513eaa85eed27794bb02e3e17bc969fe11aaee90",
+      "bytes": 59218,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/10-9211ceb3b7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/10.jpg"
+        },
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/10-9211ceb3b7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/10.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d933b092318dcebac964.jpg",
+      "sha256": "d933b092318dcebac964ce7fb7dd0b0be3431cbe804c44d1e9080aa3f3e16e13",
+      "bytes": 12505,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/11-295133afc4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11.jpg"
+        },
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/11-1-734353005b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-1.jpg"
+        },
+        {
+          "article_id": "si-adult-02",
+          "archive_file": "images/si-adult-02/11-1-734353005b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-1.jpg"
+        },
+        {
+          "article_id": "si-adult-03",
+          "archive_file": "images/si-adult-03/11-1-734353005b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/31571e583573becf1505.jpg",
+      "sha256": "31571e583573becf150589b2168f8d9a7b3f168b4ed58d96625c326229a45b9b",
+      "bytes": 41952,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/12-b47d86fb7a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/12.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/12-b47d86fb7a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/12.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/584a980da397b34d5a58.jpg",
+      "sha256": "584a980da397b34d5a5828d31e21a59d5f7627c12c8e71bf93f666d05757e09c",
+      "bytes": 44160,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/14-abdd792ca5.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14.jpg"
+        },
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/14-abdd792ca5.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/09d47d9ce6cc676f64bd.jpg",
+      "sha256": "09d47d9ce6cc676f64bd52369ccf43a0eab796de44b0b3318bb6f7b5ed9ccff0",
+      "bytes": 44136,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/15-36b0d7186b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/15.jpg"
+        },
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/15-36b0d7186b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/15.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c007720c8884e90da504.jpg",
+      "sha256": "c007720c8884e90da50416f8c828956bc7ecc2ee6685f535a370b25b90ce8b3b",
+      "bytes": 35709,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/17-e76a36f614.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/17.jpg"
+        },
+        {
+          "article_id": "si-adult-05",
+          "archive_file": "images/si-adult-05/17-e76a36f614.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/17.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2aedfd416dd936dbb826.jpg",
+      "sha256": "2aedfd416dd936dbb82609d5cda3b67eae6b6fcc5442a9df52a91a785146f5bf",
+      "bytes": 28223,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/18-d33e3ee275.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/18.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/64c24488926dadc80a3a.jpg",
+      "sha256": "64c24488926dadc80a3a4df51626d12f125210aa2d0b4d4c2108fc3dff6545ad",
+      "bytes": 57241,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/19-5d220e7205.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/19.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/59dacc5324a1e0c152f7.jpg",
+      "sha256": "59dacc5324a1e0c152f7c0cac18986b0c7d126f79d5655367f88606f6853e5e8",
+      "bytes": 32711,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/21-a1e2f502af.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/21.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/5fe58569ac72dafd3349.jpg",
+      "sha256": "5fe58569ac72dafd3349aa62e720b0186f7c1587129151e84bbd73800ba347bd",
+      "bytes": 9036,
+      "sources": [
+        {
+          "article_id": "en-adult-07",
+          "archive_file": "images/en-adult-07/22-b08b10e350.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/22.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d390fbf5392897f3abf5.jpg",
+      "sha256": "d390fbf5392897f3abf5b015ca636bad7141e46b08f4968db4f23be612ed6532",
+      "bytes": 109172,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/slider-1-96eddca769.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3770c95048e30323776f.jpg",
+      "sha256": "3770c95048e30323776f82902dd79c0dccb89230522d2d11574d54b23c5c6114",
+      "bytes": 55528,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/1-1-aa0802569c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c6ba87b62d44f1ddafb6.jpg",
+      "sha256": "c6ba87b62d44f1ddafb674dbb280b2e8eaae7f5b8462708ed9aab89799b3ca54",
+      "bytes": 27279,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/2-1-5b54931efe.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d27fc1292e20eefad675.jpg",
+      "sha256": "d27fc1292e20eefad6754c1e370c475341a9a33d3093ff81c80c96b634425cab",
+      "bytes": 54178,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/3-21559afdab.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c054bcad9474860b736e.jpg",
+      "sha256": "c054bcad9474860b736e8b42831a1343a30494978cdc555a161b15c440398443",
+      "bytes": 52496,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/4-1-621de6b788.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/4-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a0db29efcd225789ca54.jpg",
+      "sha256": "a0db29efcd225789ca5450a12faf576e8c262fe54529d409c2d20855cc2ce9d7",
+      "bytes": 69173,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/8-1-b84f878270.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/8-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/bcaf322ab2945e24d813.jpg",
+      "sha256": "bcaf322ab2945e24d813fa62e01195959f8817a7805c7bed69e3c318b6c8f45b",
+      "bytes": 10219,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/9-1-1ead07672c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/9-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/57717ed2ac274c7b24ec.jpg",
+      "sha256": "57717ed2ac274c7b24ec2f91b5797a07a76a0a2f258ad2f0edc4101a34737fad",
+      "bytes": 52325,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/13-9fdf5d1e16.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/13.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/68fbbe676482b573cca3.jpg",
+      "sha256": "68fbbe676482b573cca3966ca666268f2ca65d5227e377504ca0c2906140f5dc",
+      "bytes": 27010,
+      "sources": [
+        {
+          "article_id": "en-adult-08",
+          "archive_file": "images/en-adult-08/14-1-5c387be908.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/f428ec842af61012434c.jpg",
+      "sha256": "f428ec842af61012434ce917d350f51cb208981ccbc7beb61e08e7d8a5dc2519",
+      "bytes": 68729,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/slider-2-4e4fdd78cb.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e00cae58fb519e449640.jpg",
+      "sha256": "e00cae58fb519e4496400e0bc1bff537c2044e38faa7412ce8871b8b15ddbbf2",
+      "bytes": 56485,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/1-2-b2f327524b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d0277ac196b2ba00957f.jpg",
+      "sha256": "d0277ac196b2ba00957f019055fef1d2b08aa732001ea017c8944a5f58b8fd21",
+      "bytes": 60177,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/2-2-55380dedd9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/dce55144f5392a1d3203.jpg",
+      "sha256": "dce55144f5392a1d3203e814992c229f49e9d32258ac02c5fddf26529bb00611",
+      "bytes": 70579,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/16-65e32d6ee9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/16.jpg"
+        },
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/9-3-e89b5df3d1.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/9-3.jpg"
+        },
+        {
+          "article_id": "en-children-02",
+          "archive_file": "images/en-children-02/17-2-270164c470.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/17-2.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/17-2-270164c470.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/17-2.jpg"
+        },
+        {
+          "article_id": "en-children-04",
+          "archive_file": "images/en-children-04/17-2-270164c470.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/17-2.jpg"
+        },
+        {
+          "article_id": "en-children-07",
+          "archive_file": "images/en-children-07/17-2-270164c470.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/17-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2a41f19944c8d0f7eff9.jpg",
+      "sha256": "2a41f19944c8d0f7eff92119ea049c200dacb5fc3bd08a704444b9fd5c2ca5e1",
+      "bytes": 51299,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/7-1-22827f752c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/056da0bdfd9ece5edb13.jpg",
+      "sha256": "056da0bdfd9ece5edb139c553cdb56ace8e113fac178ab98616f33d0ee153e46",
+      "bytes": 61754,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/8-2-83ab7473d4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/8-2.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/8-2-83ab7473d4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/8-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/eb6e44c969ebab56f29e.jpg",
+      "sha256": "eb6e44c969ebab56f29ea78e1b8c2db063f04eafb8f6221484bfaaebd8fd03b8",
+      "bytes": 45153,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/11-2-aed4bbd51c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d6751f11d5fcd0aaf66c.jpg",
+      "sha256": "d6751f11d5fcd0aaf66c89a2329af537b00ddb698de36ac80df4315aa6c12f96",
+      "bytes": 59532,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/12-1-4722ff682a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/12-1.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/12-1-4722ff682a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/12-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3ee1cbafc392e3c30c27.jpg",
+      "sha256": "3ee1cbafc392e3c30c2733e2b981d2fc7cbfecf2875e4fc6b2e537963d03bf0a",
+      "bytes": 45166,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/13-1-8cdb193153.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/13-1.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/13-1-8cdb193153.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/13-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/184f8e078dc131d8e172.jpg",
+      "sha256": "184f8e078dc131d8e172d799dd64cbedeed12692e367a94556018d05392789e9",
+      "bytes": 47779,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/15-1-cff2088505.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/15-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/192342d10d3f27691d1e.jpg",
+      "sha256": "192342d10d3f27691d1eb15652d3473b60614204298a96842a203a1930427090",
+      "bytes": 51889,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/17-1-f88f9b1847.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/17-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ca6fab4ab68a67fb2eea.jpg",
+      "sha256": "ca6fab4ab68a67fb2eeadce18503aa97c3cbfb91fe004c0dedfa6237c628dcef",
+      "bytes": 53432,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/20-9bd980925f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/20.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/20-9bd980925f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/20.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/9689ee8bc1668e9bb072.jpg",
+      "sha256": "9689ee8bc1668e9bb0724cbc62a12e4087d5f707a5893b518a9efd7ab19e98fd",
+      "bytes": 72799,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/21-1-f5b4b047d0.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/21-1.jpg"
+        },
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/21-1-f5b4b047d0.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/21-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3dc0915b2b98c3b107fc.jpg",
+      "sha256": "3dc0915b2b98c3b107fc1bd8afa85119e25ce62fd14e67c0f9e42664efa9cbe0",
+      "bytes": 80096,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/23-87a17b658c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/23.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ddcc8b3560fe53497956.jpg",
+      "sha256": "ddcc8b3560fe534979568f489418722ade48b53b4f6507f9d240e25637701cbf",
+      "bytes": 21982,
+      "sources": [
+        {
+          "article_id": "en-adult-09",
+          "archive_file": "images/en-adult-09/25-4d0932770c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/25.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/9ca3513df1d5fe0b46ee.jpg",
+      "sha256": "9ca3513df1d5fe0b46ee805ded0e6a366619b3c17a46aaab79d532dda628f86c",
+      "bytes": 344851,
+      "sources": [
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/slider-3-bc516c4c25.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c610bbb6358909e121a6.jpg",
+      "sha256": "c610bbb6358909e121a6db090975a5256f8746a87dfdfa1440c2c4f21c29c267",
+      "bytes": 38810,
+      "sources": [
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/1-3-bef7ba2ef3.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a33ad63032b4b178ecb7.jpg",
+      "sha256": "a33ad63032b4b178ecb79a8e3afd930d623a49c7aa69fe61b5ba792a575277ca",
+      "bytes": 36443,
+      "sources": [
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/2-3-a8b127ba52.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/36afc60ab5ebe0a8cf99.jpg",
+      "sha256": "36afc60ab5ebe0a8cf99513c16367f23749c3b6a1a9ce3437373666c6480501e",
+      "bytes": 56642,
+      "sources": [
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/3-1-d5c1e0fbff.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3ec1483853e00bd2fbe3.jpg",
+      "sha256": "3ec1483853e00bd2fbe39e7c1b7132350289d33b650de60d4d36f910624093e7",
+      "bytes": 30853,
+      "sources": [
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/7-2-e0e03dd56b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/630d097bd51eebf1509d.jpg",
+      "sha256": "630d097bd51eebf1509d4a071587aadb2c412901941bc118e864089a89ee730b",
+      "bytes": 51460,
+      "sources": [
+        {
+          "article_id": "en-adult-10",
+          "archive_file": "images/en-adult-10/15-2-15527dc757.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/15-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c6ba226a073d1bc95621.jpg",
+      "sha256": "c6ba226a073d1bc956212900bcd09789b7af4e7ff7f24641786470f2b9b8f6ed",
+      "bytes": 127328,
+      "sources": [
+        {
+          "article_id": "en-adult-11",
+          "archive_file": "images/en-adult-11/slider-4-eac9612784.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/16fe1245489e78b010d7.jpg",
+      "sha256": "16fe1245489e78b010d7ce525f15a80db0a28b7174d85603ad6ef1c178f107d0",
+      "bytes": 53004,
+      "sources": [
+        {
+          "article_id": "en-adult-11",
+          "archive_file": "images/en-adult-11/1-4-ba9d9c3ee0.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ea2080c0252ab458aa00.jpg",
+      "sha256": "ea2080c0252ab458aa0003d63a8277d0a25595674a70563402513266d5938597",
+      "bytes": 49125,
+      "sources": [
+        {
+          "article_id": "en-adult-11",
+          "archive_file": "images/en-adult-11/2-4-ff0e0ff865.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2cc2ec396307cb1569b2.jpg",
+      "sha256": "2cc2ec396307cb1569b21b41652bdc7b74d71418c4c770f0045c5abfadc01fc4",
+      "bytes": 79531,
+      "sources": [
+        {
+          "article_id": "en-adult-11",
+          "archive_file": "images/en-adult-11/3-2-5b5942e0d8.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/9b3f2df2f86441471308.jpg",
+      "sha256": "9b3f2df2f864414713089199519a3f2be70922c99530300be18aa48d9069f750",
+      "bytes": 146470,
+      "sources": [
+        {
+          "article_id": "en-adult-12",
+          "archive_file": "images/en-adult-12/slider-5-4e96e2b124.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/de9d29f05a0e037fca3c.jpg",
+      "sha256": "de9d29f05a0e037fca3c49cb36e3082444c4309902cc2a82f19a4d7f75d158da",
+      "bytes": 74690,
+      "sources": [
+        {
+          "article_id": "en-adult-12",
+          "archive_file": "images/en-adult-12/1-5-e81a9d0c78.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/cbc9772793bb68985b13.jpg",
+      "sha256": "cbc9772793bb68985b13cd8fbd60f3590d95a19444d3a9b61de9cc80e5988d90",
+      "bytes": 70793,
+      "sources": [
+        {
+          "article_id": "en-adult-12",
+          "archive_file": "images/en-adult-12/2-5-0438eaadbc.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e4f448c58391d35d76ad.jpg",
+      "sha256": "e4f448c58391d35d76ad41a482a3aad6c56154e061b2128ec7117aea9ca37722",
+      "bytes": 67656,
+      "sources": [
+        {
+          "article_id": "en-adult-12",
+          "archive_file": "images/en-adult-12/3-3-396967ef77.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/29b178e158ea812bb3cb.jpg",
+      "sha256": "29b178e158ea812bb3cb48c17ddd6483e2fb3faf0ddc6820395f351a00736f9b",
+      "bytes": 38617,
+      "sources": [
+        {
+          "article_id": "en-adult-12",
+          "archive_file": "images/en-adult-12/6-b823eb74f8.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/6.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/49a9769737289c9b3e7b.jpg",
+      "sha256": "49a9769737289c9b3e7b4321ea97396dc63b0b41074b343f968543ea9ff4e00e",
+      "bytes": 55147,
+      "sources": [
+        {
+          "article_id": "en-adult-12",
+          "archive_file": "images/en-adult-12/7-3-e099564076.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/91e8d1dbbfaaa3df38b1.jpg",
+      "sha256": "91e8d1dbbfaaa3df38b1b99360e85e2d99e17637e880ff49ba87ced82076ad11",
+      "bytes": 380617,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/slider-87-d841c69973.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/02/slider-87.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3bac4c7e492420f69fe7.jpg",
+      "sha256": "3bac4c7e492420f69fe7e7a93d7b96291ac809465c5c6258431bcefb268909aa",
+      "bytes": 54143,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/1-6-8fd0e5d41d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-6.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/565e00bada36b4506ef8.jpg",
+      "sha256": "565e00bada36b4506ef89da5886bf9b4a306e54417dd3cdf93e56b9b4e990ea8",
+      "bytes": 48457,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/2-6-a7e1e614fa.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-6.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/6fcb2193f8756f6feb0f.jpg",
+      "sha256": "6fcb2193f8756f6feb0fed3d582805fb4eee960f0c4d0130db7b1edfc62d98c6",
+      "bytes": 42379,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/3-4-3a9c607aff.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-4.jpg"
+        },
+        {
+          "article_id": "en-children-02",
+          "archive_file": "images/en-children-02/3-4-3a9c607aff.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-4.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/3-4-3a9c607aff.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-4.jpg"
+        },
+        {
+          "article_id": "en-children-04",
+          "archive_file": "images/en-children-04/3-4-3a9c607aff.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/159e253bc14844fa383d.jpg",
+      "sha256": "159e253bc14844fa383d104c5a7aa21edbb0f5ff3a37a89398a12acfcfb58feb",
+      "bytes": 87016,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/4-2-92dbe0f8c6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/4-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/7173e3c01108fccc072a.jpg",
+      "sha256": "7173e3c01108fccc072a24eb78c5a063dff51737d45a5624be7cf6624734a9e9",
+      "bytes": 31831,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/5-09c6729093.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/424b9d81d092e526c09a.jpg",
+      "sha256": "424b9d81d092e526c09a4c12dd2c2348aa4d41af4afb136d6107ba8f75a90819",
+      "bytes": 13302,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/6-1-21cf8767d7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/6-1.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/6-1-21cf8767d7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/6-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/228c915205c10c16ce9e.jpg",
+      "sha256": "228c915205c10c16ce9efda0c5bea231d2b5cbe81059b631de13ff46fdac68ab",
+      "bytes": 71681,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/7-4-dce4fe9842.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7-4.jpg"
+        },
+        {
+          "article_id": "en-children-02",
+          "archive_file": "images/en-children-02/7-4-dce4fe9842.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/fa185914a6a54971449e.jpg",
+      "sha256": "fa185914a6a54971449ea6d57c25eda9b82b54f479ed97e083d2ee08cbba3da2",
+      "bytes": 58065,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/8-3-7d86cd9c5f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/8-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/78936febda0ac01fd9e6.jpg",
+      "sha256": "78936febda0ac01fd9e6e31384b3cfcddc5c80b8c389a057c5ba02edd3d47be7",
+      "bytes": 50496,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/10-2-ede9450dc9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/10-2.jpg"
+        },
+        {
+          "article_id": "en-children-02",
+          "archive_file": "images/en-children-02/10-2-ede9450dc9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/10-2.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/10-2-ede9450dc9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/10-2.jpg"
+        },
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/10-2-ede9450dc9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/10-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a6f245fe020e44cbfe39.jpg",
+      "sha256": "a6f245fe020e44cbfe39617c5f45888e3dd881024a5114970e45d3970916799c",
+      "bytes": 56630,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/11-3-91631f87b4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e416f7fcfeec2dca6097.jpg",
+      "sha256": "e416f7fcfeec2dca6097cdd38b637d1b964a03fc37bd0abedbddd0e460c97a0c",
+      "bytes": 56657,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/12-2-867a7c5c96.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/12-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/0b54ca74b25ff5b9165a.jpg",
+      "sha256": "0b54ca74b25ff5b9165ac588729e748cd813493e2c3d1afb8acd6242dcb98747",
+      "bytes": 87780,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/13-2-622f015293.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/13-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/6155fa711209813789d7.jpg",
+      "sha256": "6155fa711209813789d7390347eb051af889fc3b383c09681fab7065e17a7b05",
+      "bytes": 81298,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/14-2-b82c0d4605.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/7b9106a8db08f565c0de.jpg",
+      "sha256": "7b9106a8db08f565c0deb1c9a93b6e3b48485b7c0e94878efcfffcf88faf9255",
+      "bytes": 94829,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/16-1-2989e4c750.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/16-1.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/16-1-2989e4c750.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/16-1.jpg"
+        },
+        {
+          "article_id": "si-children-11",
+          "archive_file": "images/si-children-11/16-1-2989e4c750.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/16-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/4800135b1600f995f445.jpg",
+      "sha256": "4800135b1600f995f4458ac68192142e4846ea483845a11d52f7ef1bc7552588",
+      "bytes": 32109,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/19-1-7dbeed4b50.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/19-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/79aea6f2fdd0e0266f5f.jpg",
+      "sha256": "79aea6f2fdd0e0266f5fb7d59c0bfbba740a1dc628a1813ad701fa3201cc0c48",
+      "bytes": 22299,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/20-1-4cc74d3f8f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/20-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c69164c2e31969f37ce7.jpg",
+      "sha256": "c69164c2e31969f37ce7f79ba603170ce4bf443eb8f1e1adb48fa185be26de50",
+      "bytes": 42254,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/21-2-b256bf6cfa.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/21-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d8bd3662517a0700f98a.jpg",
+      "sha256": "d8bd3662517a0700f98a703987a2ef59c4939843cd082dca652b7c34f34e9dc1",
+      "bytes": 31343,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/23-1-a42bdd9462.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/23-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/b03b118108960b76e59a.jpg",
+      "sha256": "b03b118108960b76e59a734575b0d01c4aa8bd2337b08c055397f4ae1969fca9",
+      "bytes": 37201,
+      "sources": [
+        {
+          "article_id": "en-children-01",
+          "archive_file": "images/en-children-01/24-1-4163daeafb.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/24-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/961f703e809bdc11cc79.jpg",
+      "sha256": "961f703e809bdc11cc79debadc03fc92d717084f3792566b13f75e46cc29b70c",
+      "bytes": 373818,
+      "sources": [
+        {
+          "article_id": "en-children-02",
+          "archive_file": "images/en-children-02/slider-88-b6af81fcc1.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/02/slider-88.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/8922670c7ac4bdca873d.jpg",
+      "sha256": "8922670c7ac4bdca873d0bbcedb6546934f3d06f0145b30d637d626cf3504d62",
+      "bytes": 67404,
+      "sources": [
+        {
+          "article_id": "en-children-02",
+          "archive_file": "images/en-children-02/5-1-a55812be24.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/5-1.jpg"
+        },
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/5-1-a55812be24.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/5-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/8274abe52ac3704afdf6.jpg",
+      "sha256": "8274abe52ac3704afdf625b56f1f1792ccb410914f3531e7aac891402292ffca",
+      "bytes": 774803,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/slider-7-1c5dbe140b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-7.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/7d52439800d6abdf9b18.jpg",
+      "sha256": "7d52439800d6abdf9b185770606f085e55e2256e6f26b971c61c9faa55199f27",
+      "bytes": 40283,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/1-7-1e1fa2c17d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-7.jpg"
+        },
+        {
+          "article_id": "si-children-01",
+          "archive_file": "images/si-children-01/1-7-1e1fa2c17d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-7.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d9dc73ba6bb6b8c69079.jpg",
+      "sha256": "d9dc73ba6bb6b8c69079219c084f80b70a372e7083f7b77214d1994c1e2f6658",
+      "bytes": 64941,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/2-7-a1800a7c88.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-7.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/010061aa8056e7e1c9ac.jpg",
+      "sha256": "010061aa8056e7e1c9ac5918c3b793480c631b4145cf4fa1e5d35914f57af578",
+      "bytes": 23842,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/4-3-620115cf4f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/4-3.jpg"
+        },
+        {
+          "article_id": "en-children-04",
+          "archive_file": "images/en-children-04/4-3-620115cf4f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/4-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/b838e44927658ff8b366.jpg",
+      "sha256": "b838e44927658ff8b366b3fe74bdefe2bc322794e50c1564f4f6cf82c6551e20",
+      "bytes": 28249,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/7-5-75a752f606.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7-5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/9e350a82c59d8fa6856f.jpg",
+      "sha256": "9e350a82c59d8fa6856fd1038a813c4fe0a69f336bfc9217430a67b4e698d999",
+      "bytes": 30233,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/23-2-0180aa139f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/23-2.jpg"
+        },
+        {
+          "article_id": "en-children-04",
+          "archive_file": "images/en-children-04/23-2-0180aa139f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/23-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2eb9194b3a90f472d1ad.jpg",
+      "sha256": "2eb9194b3a90f472d1ad1872d8253115d7067d97566f6ae3c4ddd794d35b7e23",
+      "bytes": 50218,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/11-4-2676a8882b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/1d00b92527aa5bb5b27f.jpg",
+      "sha256": "1d00b92527aa5bb5b27fd34bd9cae9d5b901f8d2e835a7bc8c3db875d816a272",
+      "bytes": 75193,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/12-3-7be7775291.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/12-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3c7158490b107ca4fe43.jpg",
+      "sha256": "3c7158490b107ca4fe431e7e013abb424121c82f06069ca5b10d4d29a8d7c0f0",
+      "bytes": 15319,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/13-3-2ca787b69a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/13-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c2f0bb451c70f618946f.jpg",
+      "sha256": "c2f0bb451c70f618946f30fda8eca3ce3a832e85aad345abf012099d5eedb6be",
+      "bytes": 10966,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/14-3-bd95c8d115.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14-3.jpg"
+        },
+        {
+          "article_id": "si-children-07",
+          "archive_file": "images/si-children-07/14-3-bd95c8d115.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3eddd1cba26ca3c7db8c.jpg",
+      "sha256": "3eddd1cba26ca3c7db8cfb7109f948bcec719a00ac8c70f322a104f705be3959",
+      "bytes": 10971,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/15-4-4286b02b8f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/15-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/b9159b444af2c85920f5.jpg",
+      "sha256": "b9159b444af2c85920f550d4bfcb872076b71f45ec25debb22a1e5720a5b257e",
+      "bytes": 13245,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/19-2-1e61b7da17.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/19-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/eabb3e39501a5474b0e6.jpg",
+      "sha256": "eabb3e39501a5474b0e6a4036053ebf181ea88d5de2a6e9cc0e822722b4c5664",
+      "bytes": 10710,
+      "sources": [
+        {
+          "article_id": "en-children-03",
+          "archive_file": "images/en-children-03/24-2-d0bf4e01fe.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/24-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/00b3208e157772156da6.jpg",
+      "sha256": "00b3208e157772156da664ba25c8dfe51cd2aedc8b10c6a256d97a77bee3cbbd",
+      "bytes": 546969,
+      "sources": [
+        {
+          "article_id": "en-children-04",
+          "archive_file": "images/en-children-04/slider-89-26c4d88af6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/02/slider-89.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/5e59bfd4562b8c7ff119.jpg",
+      "sha256": "5e59bfd4562b8c7ff1195fff92dbadd4ea9d4c5bcb47c10f8fc380ad0ede6e81",
+      "bytes": 52891,
+      "sources": [
+        {
+          "article_id": "en-children-04",
+          "archive_file": "images/en-children-04/1-9-74df94abb0.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-9.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/59448dc75a6dffa78b3f.jpg",
+      "sha256": "59448dc75a6dffa78b3f624e0c913bbe740cfbc97e4288937bca6461bdbaa64f",
+      "bytes": 55804,
+      "sources": [
+        {
+          "article_id": "en-children-04",
+          "archive_file": "images/en-children-04/2-8-2d7274857a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-8.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/abae56e2128a76e1a063.jpg",
+      "sha256": "abae56e2128a76e1a06320eb9ff8f8b512a4624b6adc8db006455f0499f011f5",
+      "bytes": 67027,
+      "sources": [
+        {
+          "article_id": "en-children-04",
+          "archive_file": "images/en-children-04/3-5-002cd0821a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/41b4754cc9579928738f.jpg",
+      "sha256": "41b4754cc9579928738fdc0162ffd4ba535cc8b027ca6c836edffbcf13eb9859",
+      "bytes": 823737,
+      "sources": [
+        {
+          "article_id": "en-children-05",
+          "archive_file": "images/en-children-05/slider-10-3b8f84f1c7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-10.jpg"
+        },
+        {
+          "article_id": "si-children-09",
+          "archive_file": "images/si-children-09/slider-10-3b8f84f1c7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-10.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2dcfdc2cc923ad98e46e.jpg",
+      "sha256": "2dcfdc2cc923ad98e46ee92fcaea8c0707d9d2ed9d8713cb1e61be26e72753cb",
+      "bytes": 38007,
+      "sources": [
+        {
+          "article_id": "en-children-05",
+          "archive_file": "images/en-children-05/1-10-f5e4412e25.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-10.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/732051f145dea2d6bda7.jpg",
+      "sha256": "732051f145dea2d6bda7f2350cd2df0583dbcfc054501e4701c2d279252158cd",
+      "bytes": 56545,
+      "sources": [
+        {
+          "article_id": "en-children-05",
+          "archive_file": "images/en-children-05/2-9-79706fb57f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-9.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/bd2e8ba0d7a34cfdd800.jpg",
+      "sha256": "bd2e8ba0d7a34cfdd8008d990e2b441265501da1205ba5dfa997a5dee60ad2e6",
+      "bytes": 663842,
+      "sources": [
+        {
+          "article_id": "en-children-06",
+          "archive_file": "images/en-children-06/slider-12-9dd25da4b2.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-12.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/53138cb002de441d81c2.jpg",
+      "sha256": "53138cb002de441d81c2298ce16b9b56d25d34cd1068514bff58aca15395020a",
+      "bytes": 45082,
+      "sources": [
+        {
+          "article_id": "en-children-06",
+          "archive_file": "images/en-children-06/1-12-be8ebe60b1.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-12.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/4e4905664cf189f606d5.jpg",
+      "sha256": "4e4905664cf189f606d5a5f5b490ac849f80c7e56abfb8a287307bf07309cbf0",
+      "bytes": 52256,
+      "sources": [
+        {
+          "article_id": "en-children-06",
+          "archive_file": "images/en-children-06/ldc-8dd468b1b2.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/ldc.jpg"
+        },
+        {
+          "article_id": "si-adult-05",
+          "archive_file": "images/si-adult-05/ldc-8dd468b1b2.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/ldc.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/972c6d9a50f3a072893b.jpg",
+      "sha256": "972c6d9a50f3a072893b8f502fc745667d5f5bb04c14d0e8f9e9b9e7e52cd2db",
+      "bytes": 891360,
+      "sources": [
+        {
+          "article_id": "en-children-07",
+          "archive_file": "images/en-children-07/slider-11-64543e28bb.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-11.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/eb8d437c019c3ccaa5d0.jpg",
+      "sha256": "eb8d437c019c3ccaa5d0dc4b60139ad5d1179d6d2cb09b99fa32beabea954bb4",
+      "bytes": 28451,
+      "sources": [
+        {
+          "article_id": "en-children-07",
+          "archive_file": "images/en-children-07/1-11-5b489bb3ee.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-11.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2d81603cb48500de03c4.jpg",
+      "sha256": "2d81603cb48500de03c4b06284b3dfeb3ebc859968a20fb02249008aa102a54f",
+      "bytes": 53350,
+      "sources": [
+        {
+          "article_id": "en-children-07",
+          "archive_file": "images/en-children-07/3-6-3a5ed64cb5.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-6.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e54ad9c5de4216dd4c5c.jpg",
+      "sha256": "e54ad9c5de4216dd4c5c86c7029cea53f4ecb9f03281fe21d96ca84a9f91d52f",
+      "bytes": 71036,
+      "sources": [
+        {
+          "article_id": "en-children-07",
+          "archive_file": "images/en-children-07/4-4-32c26e4e21.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/4-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/960a099562e4a9616c49.jpg",
+      "sha256": "960a099562e4a9616c495ee1ad4b8c1481564512aab3342294bf3ecdd352eb6e",
+      "bytes": 43849,
+      "sources": [
+        {
+          "article_id": "en-children-07",
+          "archive_file": "images/en-children-07/5-2-9027f38718.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/5-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/81444d908f14c6d0f231.jpg",
+      "sha256": "81444d908f14c6d0f231acb13b3621d02114ef213536d1eca998780de7c4b8fe",
+      "bytes": 682289,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/frac-d9ba8843cf.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/frac.jpg"
+        },
+        {
+          "article_id": "si-children-05",
+          "archive_file": "images/si-children-05/frac-d9ba8843cf.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/frac.jpg"
+        },
+        {
+          "article_id": "si-children-06",
+          "archive_file": "images/si-children-06/frac-d9ba8843cf.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/frac.jpg"
+        },
+        {
+          "article_id": "si-children-07",
+          "archive_file": "images/si-children-07/frac-d9ba8843cf.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/frac.jpg"
+        },
+        {
+          "article_id": "si-children-09",
+          "archive_file": "images/si-children-09/frac-d9ba8843cf.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/frac.jpg"
+        },
+        {
+          "article_id": "si-children-10",
+          "archive_file": "images/si-children-10/frac-d9ba8843cf.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/frac.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/347d2874b2437640ad71.jpg",
+      "sha256": "347d2874b2437640ad7189879b07d2145604dfd88819b4d0826b298d6b37307c",
+      "bytes": 39586,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/sh-e19fec3fb9.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/sh.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e7fb2b6f55dad1fde750.jpg",
+      "sha256": "e7fb2b6f55dad1fde750bf4190b8f721532aeb2b717d7de3b98e0d6d053fa771",
+      "bytes": 31549,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/11-6-0c96e2193d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-6.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/90ae4a122b1a643e7f66.jpg",
+      "sha256": "90ae4a122b1a643e7f66148d5aedfa53b7720bbc91ddeaae634a116d7c90998a",
+      "bytes": 40344,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/s-2h-ce7677914c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/s-2h.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e07eea443bf9b4ef3d13.jpg",
+      "sha256": "e07eea443bf9b4ef3d1330806196478882619d836162ed1bfe11f76153022e9c",
+      "bytes": 50324,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/11-1-1-bf168bc718.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-1-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/648f022e101820735103.jpg",
+      "sha256": "648f022e101820735103896043f08beb92ab7e4399106bc4cad7f53232ef6279",
+      "bytes": 116559,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/11-2-1-1ec15dd3f8.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/11-2-1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3713ee2186303c896386.jpg",
+      "sha256": "3713ee2186303c896386f8517ea9c307f3617d4539e530d723fc22cf4cbe2be4",
+      "bytes": 37887,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/lbow-9394821e84.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/lbow.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ab4cf44db0bb1dd4de02.jpg",
+      "sha256": "ab4cf44db0bb1dd4de02013c3e5b57f762fca18ac334e67204c8f956b0ed47e0",
+      "bytes": 9372,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/IMG_0362-179x300-5aa855a757.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/IMG_0362-179x300.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/59e24a23a255794192f7.jpg",
+      "sha256": "59e24a23a255794192f7048b6843980060f961a2c0744c2c7aae39459da34990",
+      "bytes": 21408,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/hb-938f22b379.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/hb.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/117f32b73962323aa126.jpg",
+      "sha256": "117f32b73962323aa12639509d52ec1c1105814efd9a36509c5d1dc33c81ba35",
+      "bytes": 25022,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/hf-958743250e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/hf.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/62044ba29d90fca1cc50.jpg",
+      "sha256": "62044ba29d90fca1cc5073527f0b291d6af702d9ac10acf44e94ff6e5963a38b",
+      "bytes": 24812,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/palm-e3702980f4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/palm.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/b304855ea31792d96b34.jpg",
+      "sha256": "b304855ea31792d96b345659e6235502813ce83130970da0fc2cb471fec0d087",
+      "bytes": 24974,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/waist-b43f187113.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/waist.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/66a3e160cfb574c3e724.jpg",
+      "sha256": "66a3e160cfb574c3e724c53fac2b75f25307df486de0df36be11422380db372a",
+      "bytes": 30815,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/thigh-de74bb7370.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/thigh.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/cfc18888503cdc235e03.jpg",
+      "sha256": "cfc18888503cdc235e0357ecd1f69897e9ac4ec5a8df7c860e3b39f71d802b31",
+      "bytes": 30955,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/knee-67e0b59b1f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/knee.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/1388bfb4117d3668394f.jpg",
+      "sha256": "1388bfb4117d3668394fc68ed0f2f728e04de512c8e49407f77e3f51c9e94e6c",
+      "bytes": 24677,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/shin-a2dd37bfd7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/shin.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/bca2f5a57fc7f43dcd01.jpg",
+      "sha256": "bca2f5a57fc7f43dcd019883c1400ba9715270f93c2077075095c9484a47466d",
+      "bytes": 22280,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/legeye-fbe86afe52.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/legeye.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c11eb3122e64e83aac1f.jpg",
+      "sha256": "c11eb3122e64e83aac1f1b699ab78bfd3cd26354439f324c4e5e16f033b1a3f4",
+      "bytes": 64027,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/legfi-03373d47b1.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/legfi.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e49a376ef7a60410b423.jpg",
+      "sha256": "e49a376ef7a60410b423fc24609abb6398f658aa35c1a4b2191159ba9af3e938",
+      "bytes": 28003,
+      "sources": [
+        {
+          "article_id": "si-adult-01",
+          "archive_file": "images/si-adult-01/spine-bfbf622cea.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/spine.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e6413593985ed38a8959.jpg",
+      "sha256": "e6413593985ed38a895931886bce606c53e0097e34761b6d5df6e30910269ed1",
+      "bytes": 157571,
+      "sources": [
+        {
+          "article_id": "si-adult-02",
+          "archive_file": "images/si-adult-02/slider-13-9c477cd72d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-13.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/60af3a1eb6c9f4aeee4f.jpg",
+      "sha256": "60af3a1eb6c9f4aeee4fbd264a787f13c574bd2c3be1ab7768737c02a521474c",
+      "bytes": 67513,
+      "sources": [
+        {
+          "article_id": "si-adult-02",
+          "archive_file": "images/si-adult-02/8-4-bc362059a3.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/8-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d43f447f42193479a1d2.jpg",
+      "sha256": "d43f447f42193479a1d2390f950049165226179cd3d3d64c52a00b2a813325e5",
+      "bytes": 79050,
+      "sources": [
+        {
+          "article_id": "si-adult-02",
+          "archive_file": "images/si-adult-02/7-6-476608354a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7-6.jpg"
+        },
+        {
+          "article_id": "si-adult-03",
+          "archive_file": "images/si-adult-03/7-6-476608354a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/7-6.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/f4c92c37c229f88470c8.jpg",
+      "sha256": "f4c92c37c229f88470c8c6f974d68557fea9a1701377c1304348b5315532c7c5",
+      "bytes": 14080,
+      "sources": [
+        {
+          "article_id": "si-adult-02",
+          "archive_file": "images/si-adult-02/6-2-c0295f1118.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/6-2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/63b3d1de8d2f7fd154e5.jpg",
+      "sha256": "63b3d1de8d2f7fd154e5a39a441ad9ecd0ecf39476622406432c7bb0f3c01b2d",
+      "bytes": 36905,
+      "sources": [
+        {
+          "article_id": "si-adult-02",
+          "archive_file": "images/si-adult-02/14-4-59316416c7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14-4.jpg"
+        },
+        {
+          "article_id": "si-adult-03",
+          "archive_file": "images/si-adult-03/14-4-59316416c7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14-4.jpg"
+        },
+        {
+          "article_id": "si-adult-05",
+          "archive_file": "images/si-adult-05/14-4-59316416c7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/14-4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/65b4039266c1188d31df.jpg",
+      "sha256": "65b4039266c1188d31df652c2d56b30aaad5960e38a023d3bb1cf274a5df3212",
+      "bytes": 472150,
+      "sources": [
+        {
+          "article_id": "si-adult-03",
+          "archive_file": "images/si-adult-03/slider-14-f3a73035de.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-14.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/5441aaaf6f5f77b8a0ec.jpg",
+      "sha256": "5441aaaf6f5f77b8a0ec1e8b4fc04a852758404a0cb627a49dec766532551ca2",
+      "bytes": 24451,
+      "sources": [
+        {
+          "article_id": "si-adult-03",
+          "archive_file": "images/si-adult-03/10-3-37d889381b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/10-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/04e3c574c47b0312f8c0.jpg",
+      "sha256": "04e3c574c47b0312f8c07673d5cf3a840ca70890f2d1ba51acda2d9ba8b51389",
+      "bytes": 27772,
+      "sources": [
+        {
+          "article_id": "si-adult-03",
+          "archive_file": "images/si-adult-03/6-3-05db190fd8.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/6-3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/4253ceb4c0b638326500.jpg",
+      "sha256": "4253ceb4c0b638326500d80f635a2ec12874d135a7c15e6dc6872481bb27d822",
+      "bytes": 222423,
+      "sources": [
+        {
+          "article_id": "si-adult-04",
+          "archive_file": "images/si-adult-04/companicon-0b32f1e122.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/companicon.jpg"
+        },
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/companicon-0b32f1e122.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/companicon.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/7519086e84896ba6dbc9.jpg",
+      "sha256": "7519086e84896ba6dbc98021ef06c72bb3b024ea7f20442dd08e87d74e09a2d7",
+      "bytes": 80251,
+      "sources": [
+        {
+          "article_id": "si-adult-04",
+          "archive_file": "images/si-adult-04/shoulder1-6c5ef7ad5b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/shoulder1.jpg"
+        },
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/shoulder1-6c5ef7ad5b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/shoulder1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/503431dc1374adbfd2a8.jpg",
+      "sha256": "503431dc1374adbfd2a843cb7b5f5f2f495ce2a0137f34f90011c3d17cef7e8e",
+      "bytes": 111587,
+      "sources": [
+        {
+          "article_id": "si-adult-04",
+          "archive_file": "images/si-adult-04/elbow1-8d780b08cd.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/elbow1.jpg"
+        },
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/elbow1-8d780b08cd.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/elbow1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/1dc97adac6b6b02b115d.jpg",
+      "sha256": "1dc97adac6b6b02b115d2833b6299e871a1b5af062c6b7370ecc896b35cb19d4",
+      "bytes": 127823,
+      "sources": [
+        {
+          "article_id": "si-adult-04",
+          "archive_file": "images/si-adult-04/triggerfinger-20b73a9836.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/triggerfinger.jpg"
+        },
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/triggerfinger-20b73a9836.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/triggerfinger.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d584db378b7ea479e169.jpg",
+      "sha256": "d584db378b7ea479e1697eab289ccb7f1d6c15f499c8a848df6c8dcffc0aaf2b",
+      "bytes": 90516,
+      "sources": [
+        {
+          "article_id": "si-adult-04",
+          "archive_file": "images/si-adult-04/carpaltunnelsyndrome-29464b9feb.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/carpaltunnelsyndrome.jpg"
+        },
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/carpaltunnelsyndrome-29464b9feb.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/carpaltunnelsyndrome.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/71a2b5982676672d1316.jpg",
+      "sha256": "71a2b5982676672d131647d9595349b18fe54e91d3c41448fb715c94fae2f6e6",
+      "bytes": 225304,
+      "sources": [
+        {
+          "article_id": "si-adult-04",
+          "archive_file": "images/si-adult-04/dequiervainstenosynovitis-5f0dab1996.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/dequiervainstenosynovitis.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d09c37455e184f7eb8d1.jpg",
+      "sha256": "d09c37455e184f7eb8d120a0b8458042746e3cb4a65d3b68004d2d88417c5861",
+      "bytes": 79666,
+      "sources": [
+        {
+          "article_id": "si-adult-04",
+          "archive_file": "images/si-adult-04/hip3-b63036feba.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/hip3.jpg"
+        },
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/hip3-b63036feba.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/hip3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2c573f5dee3532396642.jpg",
+      "sha256": "2c573f5dee35323966427e5acc4382d8e1f3e71a39e33f402bec572b36b31f19",
+      "bytes": 61480,
+      "sources": [
+        {
+          "article_id": "si-adult-04",
+          "archive_file": "images/si-adult-04/ankle1-83a3b5ccc4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/ankle1.jpg"
+        },
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/ankle1-83a3b5ccc4.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/ankle1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/fd6cd4c3a0eff5781d51.jpg",
+      "sha256": "fd6cd4c3a0eff5781d512b4ddd8bfbf35ddf484a635ba43fb40efd6d53d532fa",
+      "bytes": 199250,
+      "sources": [
+        {
+          "article_id": "si-adult-05",
+          "archive_file": "images/si-adult-05/slider_2-6db463665c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider_2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/28042e4671618d1a243c.jpg",
+      "sha256": "28042e4671618d1a243cc56428953855f06edb31f06903d627d7ec3ff42e20a0",
+      "bytes": 50811,
+      "sources": [
+        {
+          "article_id": "si-adult-05",
+          "archive_file": "images/si-adult-05/iliz-03bc17e24c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/iliz.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/3e2ef006a9f653f0d72e.jpg",
+      "sha256": "3e2ef006a9f653f0d72ebf838f9fe7dbd544b77bd071667f29a5db8d811ea4a3",
+      "bytes": 23324,
+      "sources": [
+        {
+          "article_id": "si-adult-05",
+          "archive_file": "images/si-adult-05/Charcot-Foot-Diagram-0908522448.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/Charcot-Foot-Diagram.jpg"
+        },
+        {
+          "article_id": "si-adult-07",
+          "archive_file": "images/si-adult-07/Charcot-Foot-Diagram-0908522448.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/Charcot-Foot-Diagram.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d75859e37ded4260b77e.jpg",
+      "sha256": "d75859e37ded4260b77e9b479dad9ad12fa80bad9605213fdfd297d5480d9020",
+      "bytes": 833503,
+      "sources": [
+        {
+          "article_id": "si-adult-06",
+          "archive_file": "images/si-adult-06/slider-15-db53664045.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-15.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ba0cae04a4d2152b3639.jpg",
+      "sha256": "ba0cae04a4d2152b36399449c801825597ddddbbf36aeda4d4b4e68031510a9c",
+      "bytes": 50394,
+      "sources": [
+        {
+          "article_id": "si-adult-06",
+          "archive_file": "images/si-adult-06/1-14-2d4f80687f.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/1-14.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/01cd915434113c0acfd0.jpg",
+      "sha256": "01cd915434113c0acfd0007b23f67918c05748edae1f17278b4003523d14ac49",
+      "bytes": 34247,
+      "sources": [
+        {
+          "article_id": "si-adult-06",
+          "archive_file": "images/si-adult-06/2-11-b18b8e83fc.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/2-11.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2550283e8fe4509bdd0b.jpg",
+      "sha256": "2550283e8fe4509bdd0bd22c2c5b772443a1e76bd1c16584eab574c787008bd3",
+      "bytes": 44441,
+      "sources": [
+        {
+          "article_id": "si-adult-06",
+          "archive_file": "images/si-adult-06/3-9-0400e23bd7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/3-9.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/4a899ac1cc2a5eacfc94.jpg",
+      "sha256": "4a899ac1cc2a5eacfc947bac93791f19b6ea89d89e65c9648948deee9d605614",
+      "bytes": 44144,
+      "sources": [
+        {
+          "article_id": "si-adult-06",
+          "archive_file": "images/si-adult-06/4-6-33a69a93b6.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/4-6.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ce401ffd70b8d90472ad.jpg",
+      "sha256": "ce401ffd70b8d90472ad6832e286adef7c3af37dd15cb8b9d3440dc5a23236ee",
+      "bytes": 80401,
+      "sources": [
+        {
+          "article_id": "si-adult-07",
+          "archive_file": "images/si-adult-07/slider-17-4bec688dcd.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-17.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/5e4abe83b957b2c09af8.jpg",
+      "sha256": "5e4abe83b957b2c09af819e5de9d51f7ebe6f34969cd62d751931bca9981601c",
+      "bytes": 1068333,
+      "sources": [
+        {
+          "article_id": "si-adult-08",
+          "archive_file": "images/si-adult-08/slider-16-2402ce6413.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/slider-16.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/ace98090d46b4f6c2df3.png",
+      "sha256": "ace98090d46b4f6c2df313f08c5606973f16857e82c5830aac75a4d7ba109fa4",
+      "bytes": 1501351,
+      "sources": [
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/ostio5-7907c01c3c.png",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/04/ostio5.png"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e8f3315596eb19f84231.png",
+      "sha256": "e8f3315596eb19f84231d77301b582dfb11032eb8849b2847bc6f659c986c0bc",
+      "bytes": 43830,
+      "sources": [
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/ostio-d4059a06f1.png",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/04/ostio.png"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/fd8d833bb1dece3084fd.png",
+      "sha256": "fd8d833bb1dece3084fdddafdb04af937a4a0ae290720e9b3a48e01035b11f08",
+      "bytes": 79614,
+      "sources": [
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/kr-2-0ed21e988c.png",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/03/kr-2.png"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/b18cd8a4425ad58027f5.png",
+      "sha256": "b18cd8a4425ad58027f56a662a56541f6789e19f6df7703d15155b5838aecba3",
+      "bytes": 42690,
+      "sources": [
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/ostio2-03892491b9.png",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/04/ostio2.png"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/cce23dbe67a11403037b.png",
+      "sha256": "cce23dbe67a11403037b7296d04c87b40ac31500ab8a5404755a69410c56f40e",
+      "bytes": 67525,
+      "sources": [
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/12d-2b04defcc5.png",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/04/12d.png"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/be39edf08859cb30403d.png",
+      "sha256": "be39edf08859cb30403d7b440f95a6747c4876a6a6731161e0d3a974c0e861ab",
+      "bytes": 87451,
+      "sources": [
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/ostio4-99bbeb4a6d.png",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/04/ostio4.png"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/58da0ab645786a8c272f.png",
+      "sha256": "58da0ab645786a8c272f03c4b28eb9f1ff0694aa4d1d489a21f4ae655be119db",
+      "bytes": 85356,
+      "sources": [
+        {
+          "article_id": "si-adult-09",
+          "archive_file": "images/si-adult-09/ostio3-dbbb22b043.png",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2026/04/ostio3.png"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/1fa1089832c8c4fd2b29.jpg",
+      "sha256": "1fa1089832c8c4fd2b29fc2bac69988893cbfd13887b8e0ffeb678b7791e5187",
+      "bytes": 107891,
+      "sources": [
+        {
+          "article_id": "si-children-01",
+          "archive_file": "images/si-children-01/club-cfa56380b0.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/club.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/da92a8b2ad3d067a77ce.jpg",
+      "sha256": "da92a8b2ad3d067a77cea493897e5ab451c0bd7316d5c9a9f9c316159baf9062",
+      "bytes": 54667,
+      "sources": [
+        {
+          "article_id": "si-children-01",
+          "archive_file": "images/si-children-01/Link-1-1a-fa731da214.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-1-1a.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/62d4f688c12a1b3f82ed.jpg",
+      "sha256": "62d4f688c12a1b3f82eda29b3e665ca455e2dd86741b0d1160dadf02ff87fd15",
+      "bytes": 45141,
+      "sources": [
+        {
+          "article_id": "si-children-01",
+          "archive_file": "images/si-children-01/Linik-1-1a-37fe1abee5.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Linik-1-1a.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/8f07d650eab2c25b044e.jpg",
+      "sha256": "8f07d650eab2c25b044e35ec4f987c30c83a7e157fc6743d64f7597b8e4ed810",
+      "bytes": 64860,
+      "sources": [
+        {
+          "article_id": "si-children-01",
+          "archive_file": "images/si-children-01/Link-1-1b-53fc164a63.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-1-1b.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a878decb818698dd23a1.jpg",
+      "sha256": "a878decb818698dd23a1e6764b121e657e452f225d8ab9415fb2d0f5cd91daae",
+      "bytes": 60350,
+      "sources": [
+        {
+          "article_id": "si-children-01",
+          "archive_file": "images/si-children-01/Link-1-1c-02b0710100.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-1-1c.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/18cdcb7e3cfc78c48ea7.jpg",
+      "sha256": "18cdcb7e3cfc78c48ea73bb9ec0fabb557ee5f3b5e7aad059cb73b7cb4af9f42",
+      "bytes": 95207,
+      "sources": [
+        {
+          "article_id": "si-children-02",
+          "archive_file": "images/si-children-02/bb-37a85d81fe.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/bb.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/46db63db6cc5a896fd7c.jpg",
+      "sha256": "46db63db6cc5a896fd7c335526330830cde1454be2d76305a5a220f5da2c3af3",
+      "bytes": 71819,
+      "sources": [
+        {
+          "article_id": "si-children-02",
+          "archive_file": "images/si-children-02/Link-2-2a-95fb449c5a.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-2-2a.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/498d262fb0cdd7387239.jpg",
+      "sha256": "498d262fb0cdd73872390ceaac57979ac3417cf22a9020f557fc7595434bf314",
+      "bytes": 43517,
+      "sources": [
+        {
+          "article_id": "si-children-02",
+          "archive_file": "images/si-children-02/Link-2-2b-6aa3a5decf.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-2-2b.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/445656c3f5fb58de6769.jpg",
+      "sha256": "445656c3f5fb58de6769c6e54dbf936767536d7f120a063c4dece9067a539d6c",
+      "bytes": 13912,
+      "sources": [
+        {
+          "article_id": "si-children-02",
+          "archive_file": "images/si-children-02/Link-2-b6-250x300-620a16237c.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-2-b6-250x300.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a6ff3eeadfc3b5c213b5.jpg",
+      "sha256": "a6ff3eeadfc3b5c213b5aeee60a353a1c08f18da70fda5e1f7810feac77bf468",
+      "bytes": 54655,
+      "sources": [
+        {
+          "article_id": "si-children-02",
+          "archive_file": "images/si-children-02/Link-2-c-aa687cab4e.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-2-c.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/e6131190cf245a831f06.jpg",
+      "sha256": "e6131190cf245a831f069b4655596aff88e701d69f21761d7a23c2ab240f9c03",
+      "bytes": 336076,
+      "sources": [
+        {
+          "article_id": "si-children-03",
+          "archive_file": "images/si-children-03/li-4197bf3ca7.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/li.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/c530ab9c95a9e0a3f72d.jpg",
+      "sha256": "c530ab9c95a9e0a3f72d8102cbca4671b0a648186a7004eb6f301e23589e9b29",
+      "bytes": 59817,
+      "sources": [
+        {
+          "article_id": "si-children-03",
+          "archive_file": "images/si-children-03/Link-3-c6535a1cdc.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-3-.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/fb926e3be225ce1a6762.jpg",
+      "sha256": "fb926e3be225ce1a67623d0a2e47cbe2745499dabc52961073c90daa177bbbb0",
+      "bytes": 87004,
+      "sources": [
+        {
+          "article_id": "si-children-04",
+          "archive_file": "images/si-children-04/kf-6ed22d7d53.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/kf.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2fdd6e0799c2327c388d.jpg",
+      "sha256": "2fdd6e0799c2327c388df2bd3b7c4fb7e48e49dd38ef28b53206540d461bb306",
+      "bytes": 140885,
+      "sources": [
+        {
+          "article_id": "si-children-04",
+          "archive_file": "images/si-children-04/Link4-6171bdbec8.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link4-.jpeg"
+        },
+        {
+          "article_id": "si-children-06",
+          "archive_file": "images/si-children-06/Link4-6171bdbec8.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link4-.jpeg"
+        },
+        {
+          "article_id": "si-children-10",
+          "archive_file": "images/si-children-10/Link4-6171bdbec8.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link4-.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/a1be25201f5c195fcb9a.jpg",
+      "sha256": "a1be25201f5c195fcb9ac9eaf310481c3a86823e78c53347a5bce75fdb62f11d",
+      "bytes": 25074,
+      "sources": [
+        {
+          "article_id": "si-children-04",
+          "archive_file": "images/si-children-04/Link-4-b-b63c15457b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-4-b.jpeg"
+        },
+        {
+          "article_id": "si-children-05",
+          "archive_file": "images/si-children-05/Link-4-b-b63c15457b.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-4-b.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/d98f8deedd6497fc4afa.jpg",
+      "sha256": "d98f8deedd6497fc4afa273dfef45d7cdd054ac516c11e90b23e8e19b6203439",
+      "bytes": 100722,
+      "sources": [
+        {
+          "article_id": "si-children-08",
+          "archive_file": "images/si-children-08/spi-9d752c6021.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/spi.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2d5857777b5ac52f003c.jpg",
+      "sha256": "2d5857777b5ac52f003cba48c6e67ca74b5a0b1071a802301ddda0052a48216d",
+      "bytes": 17198,
+      "sources": [
+        {
+          "article_id": "si-children-08",
+          "archive_file": "images/si-children-08/Link-8-6c8f0caeda.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/Link-8.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/363070b9d94865e8b692.jpg",
+      "sha256": "363070b9d94865e8b6929620b9c61c713b9f3902667d9b1b13f838c6b146a1b9",
+      "bytes": 273527,
+      "sources": [
+        {
+          "article_id": "si-children-11",
+          "archive_file": "images/si-children-11/oil-3dcd49de19.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2021/06/oil.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2f6b3e3ffdde4e10a910.jpg",
+      "sha256": "2f6b3e3ffdde4e10a910c6b83fb4f08744498c92492c8bca83d3ec547d720431",
+      "bytes": 93310,
+      "sources": [
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/elbow2-9ec970ac9d.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/elbow2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/2330cd285278ec0b2c56.jpg",
+      "sha256": "2330cd285278ec0b2c56876cc79414fb7d10ffe5f296d6a68a4990bf24b0fa9c",
+      "bytes": 83913,
+      "sources": [
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/hip2-005770d6dd.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/hip2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/1bcdaef00b6c59183dab.jpg",
+      "sha256": "1bcdaef00b6c59183dab4931e2b5cee0fdd9beb10480688ec5cf92399efd5f25",
+      "bytes": 90650,
+      "sources": [
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/knee1-96c4a4cc87.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/knee1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/63d1e1ab926c8ae1cdfa.jpg",
+      "sha256": "63d1e1ab926c8ae1cdfa68d3e68a118197d497f229a3668a144d99556d91bf67",
+      "bytes": 72573,
+      "sources": [
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/ankle2-6e8034bcf3.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/ankle2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "assets/images/articles/725c5cdc4fae433a8940.jpg",
+      "sha256": "725c5cdc4fae433a8940d926c4b3629ec0d40fc3f634b8a173e494f1425f2d9b",
+      "bytes": 75739,
+      "sources": [
+        {
+          "article_id": "si-overview-01",
+          "archive_file": "images/si-overview-01/ankle3-288899b9cd.jpg",
+          "url": "https://orthopaedic.lk/wp-content/uploads/2020/11/ankle3.jpg"
+        }
+      ]
+    }
+  ]
+}

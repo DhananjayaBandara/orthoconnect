@@ -1,0 +1,771 @@
+{
+  "navigation": [
+    {
+      "id": "home",
+      "label": "Home",
+      "file": "index.html"
+    },
+    {
+      "id": "about",
+      "label": "About",
+      "file": "about.html"
+    },
+    {
+      "id": "conditions",
+      "label": "Conditions",
+      "file": "conditions.html"
+    },
+    {
+      "id": "treatments",
+      "label": "Treatments",
+      "file": "treatments.html"
+    },
+    {
+      "id": "patient-information",
+      "label": "Patient Information",
+      "file": "patient-information.html"
+    },
+    {
+      "id": "clinics",
+      "label": "Clinics & Appointments",
+      "file": "clinics.html"
+    },
+    {
+      "id": "articles",
+      "label": "Articles",
+      "file": "articles.html"
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "file": "contact.html"
+    }
+  ],
+  "qualifications": [
+    {
+      "title": "MBBS",
+      "institution": "University of Colombo",
+      "description": "Medical degree",
+      "icon": "graduation"
+    },
+    {
+      "title": "MD in Orthopaedic Surgery",
+      "institution": "Postgraduate Institute of Medicine, University of Colombo",
+      "description": "Postgraduate specialist qualification",
+      "icon": "graduation"
+    },
+    {
+      "title": "MRCSEd",
+      "institution": "Royal College of Surgeons of Edinburgh",
+      "description": "Professional surgical qualification",
+      "icon": "award"
+    },
+    {
+      "title": "Hip & Knee Surgery Fellowship",
+      "institution": "International Surgical Training Programme, Royal College of Surgeons of England",
+      "description": "UK subspecialty training",
+      "icon": "award"
+    }
+  ],
+  "conditions": [
+    {
+      "id": "hip",
+      "title": "Hip conditions",
+      "category": "Hip",
+      "icon": "hip",
+      "summary": "Hip concerns, hip fractures and assessment for joint replacement.",
+      "body": [
+        "Dr. De Silva provides consultation for hip conditions and hip fractures, including assessment for hip replacement.",
+        "His UK fellowship experience included hip reconstruction and joint replacement. A consultation is the place to discuss your hip concern and the options relevant to you."
+      ],
+      "related": "treatments.html#hip-replacement",
+      "relatedLabel": "Explore hip replacement assessment"
+    },
+    {
+      "id": "knee",
+      "title": "Knee conditions",
+      "category": "Knee",
+      "icon": "knee",
+      "summary": "Knee concerns and injuries, including ligament problems.",
+      "body": [
+        "Dr. De Silva assesses knee conditions and injuries. His areas of practice include knee replacement assessment, arthroscopy and selected ligament surgery.",
+        "His hip and knee fellowship included soft-tissue knee surgery. Discuss your symptoms, an existing diagnosis or questions about treatment at consultation."
+      ],
+      "related": "treatments.html#knee-replacement",
+      "relatedLabel": "Explore knee replacement assessment"
+    },
+    {
+      "id": "shoulder-elbow",
+      "title": "Shoulder & elbow",
+      "category": "Upper limb",
+      "icon": "assessment",
+      "summary": "General information about shoulder and elbow concerns.",
+      "pending": true,
+      "body": [
+        "Patient-friendly information about shoulder and elbow concerns will be added after clinical review.",
+        "General orthopaedic assessment covers concerns affecting bones, joints, tendons and ligaments. A separate shoulder or elbow surgical service is not currently confirmed."
+      ],
+      "related": "clinics.html",
+      "relatedLabel": "Find a Consultation"
+    },
+    {
+      "id": "hand-wrist",
+      "title": "Hand & wrist",
+      "category": "Upper limb",
+      "icon": "assessment",
+      "summary": "General information about hand and wrist concerns.",
+      "pending": true,
+      "body": [
+        "Detailed hand and wrist information will be added after clinical review.",
+        "General orthopaedic assessment includes conditions affecting bones, joints, tendons and ligaments. A separate hand or wrist surgical service is not currently confirmed."
+      ],
+      "related": "clinics.html",
+      "relatedLabel": "Find a Consultation"
+    },
+    {
+      "id": "foot-ankle",
+      "title": "Foot & ankle",
+      "category": "Foot & ankle",
+      "icon": "assessment",
+      "summary": "Educational information. Specialist service scope is awaiting confirmation.",
+      "pending": true,
+      "body": [
+        "Dr. De Silva has documented foot-and-ankle training. The current scope of any separate foot-and-ankle service requires his confirmation.",
+        "Detailed condition and procedure information will be added after clinical review."
+      ],
+      "related": "treatments.html#foot-ankle-procedures",
+      "relatedLabel": "View the educational topic"
+    },
+    {
+      "id": "fractures-trauma",
+      "title": "Fractures & trauma",
+      "category": "Trauma",
+      "icon": "fracture",
+      "summary": "Broken bones, orthopaedic injuries and difficult fracture healing.",
+      "body": [
+        "Dr. De Silva assesses fractures and injuries affecting bones and joints, and provides treatment planning for orthopaedic trauma.",
+        "His practice also includes assessment of fractures that have failed to unite or have healed abnormally, and selected limb-reconstruction problems."
+      ],
+      "related": "treatments.html#fracture-care",
+      "relatedLabel": "Explore fracture and trauma care"
+    },
+    {
+      "id": "paediatric",
+      "title": "Paediatric orthopaedics",
+      "category": "Paediatric",
+      "icon": "assessment",
+      "summary": "Children’s orthopaedic information, awaiting clinical review.",
+      "pending": true,
+      "body": [
+        "Reviewed information about children’s orthopaedic concerns will be added to this section.",
+        "A separate paediatric surgical service is not currently confirmed. Please confirm the appropriate consultation route for a child’s concern through an approved contact channel."
+      ],
+      "related": "contact.html",
+      "relatedLabel": "View contact options"
+    },
+    {
+      "id": "sports-injuries",
+      "title": "Sports injuries",
+      "category": "Sports",
+      "icon": "knee",
+      "summary": "Knee injuries and selected ligament concerns within the confirmed scope.",
+      "body": [
+        "Dr. De Silva’s knee-care scope includes consultation for knee injuries, arthroscopy and selected ligament surgery.",
+        "Discuss your particular injury at consultation to clarify the assessment and treatment options appropriate to you."
+      ],
+      "related": "treatments.html#ligament-surgery",
+      "relatedLabel": "Explore selected ligament surgery"
+    },
+    {
+      "id": "arthritis",
+      "title": "Arthritis",
+      "category": "Joint conditions",
+      "icon": "hip",
+      "summary": "An educational topic linked to hip and knee assessment.",
+      "pending": true,
+      "body": [
+        "Detailed arthritis information will be added after clinical review.",
+        "Dr. De Silva’s areas of practice include assessment of hip and knee conditions and assessment for joint replacement. Individual treatment decisions require a consultation."
+      ],
+      "related": "treatments.html",
+      "relatedLabel": "Explore treatment information"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "hip-replacement",
+      "content": "content/treatments/hip-replacement.json"
+    },
+    {
+      "id": "knee-replacement",
+      "content": "content/treatments/knee-replacement.json"
+    },
+    {
+      "id": "arthroscopy",
+      "content": "content/treatments/arthroscopy.json"
+    },
+    {
+      "id": "fracture-care",
+      "content": "content/treatments/fracture-care.json"
+    },
+    {
+      "id": "ligament-surgery",
+      "content": "content/treatments/ligament-surgery.json"
+    },
+    {
+      "id": "foot-ankle-procedures",
+      "content": "content/treatments/foot-ankle-procedures.json"
+    },
+    {
+      "id": "paediatric-procedures",
+      "content": "content/treatments/paediatric-procedures.json"
+    },
+    {
+      "id": "non-operative-care",
+      "content": "content/treatments/non-operative-care.json"
+    }
+  ],
+  "guides": [
+    {
+      "id": "preparing-for-surgery",
+      "content": "content/patient-information/preparing-for-surgery.json"
+    },
+    {
+      "id": "after-surgery",
+      "content": "content/patient-information/after-surgery.json"
+    },
+    {
+      "id": "wound-care",
+      "content": "content/patient-information/wound-care.json"
+    },
+    {
+      "id": "pain-management",
+      "content": "content/patient-information/pain-management.json"
+    },
+    {
+      "id": "rehabilitation",
+      "content": "content/patient-information/rehabilitation.json"
+    },
+    {
+      "id": "walking",
+      "content": "content/patient-information/walking.json"
+    },
+    {
+      "id": "return-to-activity",
+      "content": "content/patient-information/return-to-activity.json"
+    },
+    {
+      "id": "consultation-faq",
+      "content": "content/patient-information/consultation-faq.json"
+    }
+  ],
+  "articles": [
+    {
+      "id": "en-adult-shoulder",
+      "content": "content/articles/en-adult-shoulder.json"
+    },
+    {
+      "id": "en-adult-upper-arm",
+      "content": "content/articles/en-adult-upper-arm.json"
+    },
+    {
+      "id": "en-adult-elbow",
+      "content": "content/articles/en-adult-elbow.json"
+    },
+    {
+      "id": "en-adult-forearm",
+      "content": "content/articles/en-adult-forearm.json"
+    },
+    {
+      "id": "en-adult-wrist",
+      "content": "content/articles/en-adult-wrist.json"
+    },
+    {
+      "id": "en-adult-hip",
+      "content": "content/articles/en-adult-hip.json"
+    },
+    {
+      "id": "en-adult-thigh",
+      "content": "content/articles/en-adult-thigh.json"
+    },
+    {
+      "id": "en-adult-knee",
+      "content": "content/articles/en-adult-knee.json"
+    },
+    {
+      "id": "en-adult-leg",
+      "content": "content/articles/en-adult-leg.json"
+    },
+    {
+      "id": "en-adult-foot-ankle",
+      "content": "content/articles/en-adult-foot-ankle.json"
+    },
+    {
+      "id": "en-adult-pelvis",
+      "content": "content/articles/en-adult-pelvis.json"
+    },
+    {
+      "id": "en-adult-spine",
+      "content": "content/articles/en-adult-spine.json"
+    },
+    {
+      "id": "en-children-shoulder",
+      "content": "content/articles/en-children-shoulder.json"
+    },
+    {
+      "id": "en-children-elbow",
+      "content": "content/articles/en-children-elbow.json"
+    },
+    {
+      "id": "en-children-upper-arm",
+      "content": "content/articles/en-children-upper-arm.json"
+    },
+    {
+      "id": "en-children-wrist-hand",
+      "content": "content/articles/en-children-wrist-hand.json"
+    },
+    {
+      "id": "en-children-knee",
+      "content": "content/articles/en-children-knee.json"
+    },
+    {
+      "id": "en-children-foot-ankle",
+      "content": "content/articles/en-children-foot-ankle.json"
+    },
+    {
+      "id": "en-children-leg",
+      "content": "content/articles/en-children-leg.json"
+    },
+    {
+      "id": "si-adult-fractures",
+      "content": "content/articles/si-adult-fractures.json"
+    },
+    {
+      "id": "si-adult-hip-replacement",
+      "content": "content/articles/si-adult-hip-replacement.json"
+    },
+    {
+      "id": "si-adult-knee-replacement",
+      "content": "content/articles/si-adult-knee-replacement.json"
+    },
+    {
+      "id": "si-adult-common-pains",
+      "content": "content/articles/si-adult-common-pains.json"
+    },
+    {
+      "id": "si-adult-complex-fractures",
+      "content": "content/articles/si-adult-complex-fractures.json"
+    },
+    {
+      "id": "si-adult-foot-ankle-surgery",
+      "content": "content/articles/si-adult-foot-ankle-surgery.json"
+    },
+    {
+      "id": "si-adult-deformity-correction",
+      "content": "content/articles/si-adult-deformity-correction.json"
+    },
+    {
+      "id": "si-adult-unhealed-fractures",
+      "content": "content/articles/si-adult-unhealed-fractures.json"
+    },
+    {
+      "id": "si-adult-osteoporosis",
+      "content": "content/articles/si-adult-osteoporosis.json"
+    },
+    {
+      "id": "si-children-infant-problems",
+      "content": "content/articles/si-children-infant-problems.json"
+    },
+    {
+      "id": "si-children-fractures",
+      "content": "content/articles/si-children-fractures.json"
+    },
+    {
+      "id": "si-children-dislocations",
+      "content": "content/articles/si-children-dislocations.json"
+    },
+    {
+      "id": "si-children-leg-deformities",
+      "content": "content/articles/si-children-leg-deformities.json"
+    },
+    {
+      "id": "si-children-walking-problems",
+      "content": "content/articles/si-children-walking-problems.json"
+    },
+    {
+      "id": "si-children-bone-tumours",
+      "content": "content/articles/si-children-bone-tumours.json"
+    },
+    {
+      "id": "si-children-infections",
+      "content": "content/articles/si-children-infections.json"
+    },
+    {
+      "id": "si-children-spinal-deformities",
+      "content": "content/articles/si-children-spinal-deformities.json"
+    },
+    {
+      "id": "si-children-pains",
+      "content": "content/articles/si-children-pains.json"
+    },
+    {
+      "id": "si-children-longstanding-deformities",
+      "content": "content/articles/si-children-longstanding-deformities.json"
+    },
+    {
+      "id": "si-children-previous-treatment",
+      "content": "content/articles/si-children-previous-treatment.json"
+    },
+    {
+      "id": "si-children-overview",
+      "content": "content/articles/si-children-overview.json"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I book an appointment?",
+      "answer": "Find your preferred clinic on the Clinics & Appointments page, then choose its eChannelling or Doc990 button. You will open Dr. Suneth De Silva’s sessions at that hospital. Select an available session and complete your booking with the provider."
+    },
+    {
+      "question": "Where can I find consultation dates and times?",
+      "answer": "Open the booking link for your preferred hospital to view the current session dates and times. Availability can change; the hospital or booking provider confirms your appointment."
+    },
+    {
+      "question": "Where can I check consultation fees?",
+      "answer": "Confirm current charges with your selected hospital or booking provider. Fees may vary by hospital, consultation type and treatment required. Prices are not published here."
+    },
+    {
+      "question": "Can I book or pay directly through OrthoConnect?",
+      "answer": "No. Appointments and payments are handled by the relevant hospital or external booking provider."
+    },
+    {
+      "question": "Can I upload X-rays, scans or medical reports?",
+      "answer": "No. This website does not collect or store medical reports and has no medical-file upload facility."
+    },
+    {
+      "question": "Does Dr. De Silva assess difficult fracture healing?",
+      "answer": "Yes. The documented scope includes assessment of fractures that have failed to unite or have healed abnormally, and selected limb-reconstruction problems."
+    }
+  ],
+  "clinics": [
+    {
+      "id": "asia-hospital-maharagama",
+      "name": "Asia Hospital",
+      "location": "Maharagama",
+      "source_name": "Asia Hospital - Maharagama",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H312&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H312"
+        },
+        "doc990": {
+          "url": "https://www.doc.lk/channel/21573",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "21573"
+        }
+      }
+    },
+    {
+      "id": "asiri-surgical-hospital-kirimandala-mw",
+      "name": "Asiri Surgical Hospital",
+      "location": "Colombo 05",
+      "source_name": "Asiri Surgical Hospital - Kirimandala Mw",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H10&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H10"
+        },
+        "doc990": {
+          "url": "https://www.doc.lk/tm/channel/31226",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "31226"
+        }
+      },
+      "branch": "Kirimandala Mw"
+    },
+    {
+      "id": "body-doc-medicare-malabe",
+      "name": "Body Doc Medicare",
+      "location": "Malabe",
+      "source_name": "Body Doc Medicare - Malabe",
+      "booking_links": {
+        "doc990": {
+          "url": "https://www.doc.lk/channel/18641",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "18641"
+        }
+      }
+    },
+    {
+      "id": "central-hospital-badulla",
+      "name": "Central Hospital",
+      "location": "Badulla",
+      "source_name": "Central Hospital Badulla",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H136&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H136"
+        }
+      }
+    },
+    {
+      "id": "healan-hospitals-homagama",
+      "name": "Healan Hospitals",
+      "location": "Homagama",
+      "source_name": "Healan Hospitals - Homagama",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H116&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H116"
+        },
+        "doc990": {
+          "url": "https://www.doc.lk/channel/22755",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "22755"
+        }
+      }
+    },
+    {
+      "id": "hemas-hospital-thalawathugoda",
+      "name": "Hemas Hospital",
+      "location": "Thalawathugoda",
+      "source_name": "Hemas Hospital - Thalawathugoda",
+      "booking_links": {
+        "doc990": {
+          "url": "https://www.doc.lk/channel/28692",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "28692"
+        }
+      }
+    },
+    {
+      "id": "kings-hospital-colombo-05",
+      "name": "Kings Hospital",
+      "location": "Colombo 05",
+      "source_name": "Kings Hospital - Colombo 05",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H358&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H358"
+        },
+        "doc990": {
+          "url": "https://www.doc.lk/tm/channel/31214",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "31214"
+        }
+      }
+    },
+    {
+      "id": "lanka-hospitals-colombo-05",
+      "name": "Lanka Hospitals",
+      "location": "Colombo 05",
+      "source_name": "Lanka Hospitals - Colombo 05",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H07&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H07"
+        },
+        "doc990": {
+          "url": "https://www.doc.lk/si/channel/31697",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "31697"
+        }
+      }
+    },
+    {
+      "id": "leesons-hospital-ragama",
+      "name": "Leesons Hospital",
+      "location": "Ragama",
+      "source_name": "Leesons Hospital - Ragama",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H18&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H18"
+        },
+        "doc990": {
+          "url": "https://www.doc.lk/tm/channel/28224",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "28224"
+        }
+      }
+    },
+    {
+      "id": "mdk-hospital",
+      "name": "MDK Hospital",
+      "location": null,
+      "source_name": "MDK Hospital",
+      "booking_links": {
+        "doc990": {
+          "url": "https://www.doc.lk/si/channel/36463",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "36463"
+        }
+      }
+    },
+    {
+      "id": "medihelp-hospital-athurugiriya",
+      "name": "Medihelp Hospital",
+      "location": "Athurugiriya",
+      "source_name": "Medihelp Hospital - Athurugiriya",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H542&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H542"
+        }
+      }
+    },
+    {
+      "id": "medihelp-hospital-homagama",
+      "name": "Medihelp Hospital",
+      "location": "Homagama",
+      "source_name": "Medihelp Hospital - Homagama",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H496&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H496"
+        }
+      }
+    },
+    {
+      "id": "medihelp-hospital-mount-lavinia",
+      "name": "Medihelp Hospital",
+      "location": "Mount Lavinia",
+      "source_name": "Medihelp Hospital - Mount Lavinia",
+      "booking_links": {
+        "doc990": {
+          "url": "https://www.doc.lk/channel/28390",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "28390"
+        }
+      }
+    },
+    {
+      "id": "medihelp-hospitals-bandaragama",
+      "name": "Medihelp Hospitals",
+      "location": "Bandaragama",
+      "source_name": "Medihelp Hospitals - Bandaragama",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H119&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H119"
+        }
+      }
+    },
+    {
+      "id": "medihelp-hospitals-piliyandala",
+      "name": "Medihelp Hospitals",
+      "location": "Piliyandala",
+      "source_name": "Medihelp Hospitals - Piliyandala",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H266&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H266"
+        },
+        "doc990": {
+          "url": "https://www.doc.lk/tm/channel/31570",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "31570"
+        }
+      }
+    },
+    {
+      "id": "melsta-hospitals-ragama",
+      "name": "Melsta Hospitals",
+      "location": "Ragama",
+      "source_name": "Melsta Hospitals - Ragama",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H112&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H112"
+        },
+        "doc990": {
+          "url": "https://www.doc.lk/channel/28318",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "28318"
+        }
+      }
+    },
+    {
+      "id": "pannipitiya-nursing-home",
+      "name": "Pannipitiya Nursing Home",
+      "location": "Pannipitiya",
+      "source_name": "Pannipitiya Nursing Home",
+      "booking_links": {
+        "echannelling": {
+          "url": "https://www.echannelling.com/doctor-search/D10651/sessions?doctorIDsList=D10651&doctorId=D10651&doctorName=DR%20SUNETH%20DE%20SILVA&hospitalCode=H61&hospitalName&id&session_date&specializationId&specializationType=multiple",
+          "verification_status": "captured_from_browser_navigation",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "hospital_code": "H61"
+        }
+      }
+    },
+    {
+      "id": "perlyn-hospital-badulla",
+      "name": "Perlyn Hospital - Badulla",
+      "location": null,
+      "source_name": "Perlyn Hospital - Badulla",
+      "booking_links": {
+        "doc990": {
+          "url": "https://www.doc.lk/channel/36364",
+          "verification_status": "browser_verified",
+          "last_checked_utc": "2026-10-25T07:21:28+00:00",
+          "channel_id": "36364"
+        }
+      }
+    }
+  ],
+  "retired_articles": [
+    "fracture-surgery-questions",
+    "hip-replacement-expectations",
+    "knee-pain-assessment",
+    "knee-replacement-questions",
+    "ligament-injury-questions"
+  ],
+  "clinic_directory": {
+    "doctor": "Dr. Suneth De Silva",
+    "source_file": "VERIFICATION_RESULTS.json",
+    "source_toolkit": "Dr_Suneth_De_Silva_Unified_Link_Verifier",
+    "source_generated_at_utc": "2026-10-25T07:21:28+00:00",
+    "source_sha256": "f6f62723344f460217b084083a97265af5558f67c0233c7ef1a9da0e22e1d323",
+    "featured_ids": [
+      "asia-hospital-maharagama",
+      "hemas-hospital-thalawathugoda"
+    ]
+  }
+}

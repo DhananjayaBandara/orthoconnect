@@ -1,0 +1,93 @@
+{
+  "id": "consultation-faq",
+  "title": "Consultations & booking",
+  "category": "Appointments",
+  "icon": "book",
+  "summary": "Understand locations, booking channels, fees and confirmation.",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "consultation-notes",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this guide",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use these questions as a starting point for a conversation with your treating team."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "heading": "Questions to ask your treating team",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Which location and session are suitable for me?",
+            "Which hospital or channelling provider should I use?",
+            "How can I confirm availability and consultation fees?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "booking-options",
+      "heading": "How booking options work",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Appointment confirmation is handled by the selected provider",
+          "headers": [
+            "Booking option",
+            "Who confirms the appointment"
+          ],
+          "rows": [
+            [
+              "eChannelling",
+              "The external booking provider"
+            ],
+            [
+              "Doc990",
+              "The external booking provider"
+            ],
+            [
+              "Hospital telephone",
+              "The selected hospital"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "individual-instructions",
+      "heading": "Your individual instructions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Follow the individual instructions provided by your treating team."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS guide to having surgery",
+      "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "preparing-for-surgery"
+    },
+    {
+      "kind": "guides",
+      "id": "after-surgery"
+    }
+  ]
+}

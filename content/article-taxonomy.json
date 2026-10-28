@@ -1,0 +1,37 @@
+{
+  "audiences": {
+    "adult": {"en": "Adults", "si": "වැඩිහිටි"},
+    "children": {"en": "Children", "si": "ළමා"}
+  },
+  "body_regions": {
+    "shoulder": {"en": "Shoulder", "si": "උරහිස"},
+    "upper-arm": {"en": "Upper arm", "si": "බාහුව"},
+    "elbow": {"en": "Elbow", "si": "වැලමිට"},
+    "forearm": {"en": "Forearm", "si": "පෙර බාහුව"},
+    "wrist-hand": {"en": "Wrist & hand", "si": "මැණික් කටුව හා අත"},
+    "hip": {"en": "Hip", "si": "උකුල"},
+    "thigh": {"en": "Thigh", "si": "කලවය"},
+    "knee": {"en": "Knee", "si": "දණහිස"},
+    "lower-leg": {"en": "Lower leg", "si": "දණහිසෙන් පහළ කකුල"},
+    "foot-ankle": {"en": "Foot & ankle", "si": "පාදය හා වළලුකර"},
+    "pelvis": {"en": "Pelvis", "si": "ශ්‍රෝණිය"},
+    "spine": {"en": "Spine & back", "si": "කොඳු නාරටිය හා කොන්ද"},
+    "neck": {"en": "Neck", "si": "ගෙල"},
+    "bones-joints": {"en": "Bones & joints generally", "si": "අස්ථි හා සන්ධි පොදුවේ"}
+  },
+  "topics": {
+    "fractures": {"en": "Fractures & injuries", "si": "අස්ථි බිඳීම් හා තුවාල"},
+    "dislocations": {"en": "Joint dislocations", "si": "සන්ධි පැනීම්"},
+    "joint-replacement": {"en": "Joint replacement", "si": "සන්ධි මාරු කිරීම"},
+    "pain-nerve": {"en": "Pain & nerve problems", "si": "වේදනාව හා ස්නායු ගැටලු"},
+    "limb-reconstruction": {"en": "Deformity & fracture healing", "si": "ඇද කුද හා අස්ථි සුව වීම"},
+    "foot-ankle-surgery": {"en": "Foot & ankle surgery", "si": "පාදයේ හා වළලුකර ශල්‍යකර්ම"},
+    "bone-health": {"en": "Bone health & osteoporosis", "si": "අස්ථි සෞඛ්‍යය හා ඔස්ටියෝපොරෝසිස්"},
+    "growth-walking": {"en": "Growth, development & walking", "si": "වර්ධනය හා ඇවිදීම"},
+    "bone-tumours": {"en": "Bone tumours", "si": "අස්ථි ගෙඩි"},
+    "infections": {"en": "Bone & joint infections", "si": "අස්ථි හා සන්ධි ආසාදන"},
+    "previous-treatment": {"en": "Problems after previous treatment", "si": "පෙර ප්‍රතිකාරවලින් පසු ගැටලු"},
+    "consultation": {"en": "Consultation questions", "si": "වෛද්‍ය හමුවේදී ඇසිය යුතු ප්‍රශ්න"},
+    "ligament-injuries": {"en": "Ligament injuries", "si": "බන්ධනී තුවාල"}
+  }
+}

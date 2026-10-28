@@ -1,0 +1,81 @@
+{
+  "id": "si-children-infections",
+  "title": "අස්ථි හා සන්ධිවල සිදුවන ආසාදන (ළමා)",
+  "summary": "දරුවන්ගේ අස්ථි හා සන්ධිවල ආසාදන පිළිබඳ තොරතුරු.",
+  "category": "අස්ථි හා සන්ධි ආසාදන",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "bones-joints"
+  ],
+  "topics": [
+    "infections"
+  ],
+  "keywords": [
+    "Bone and joint infections"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/81444d908f14c6d0f231.jpg",
+          "alt": "X-ray of a hand",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "අස්ථි හා සන්ධිවල සිදුවන ආසාදන",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/c2f0bb451c70f618946f.jpg",
+          "alt": "Child holding a painful wrist",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "අස්ථි හා සන්ධිවල සිදුවන ආසාදන"
+        },
+        {
+          "type": "paragraph",
+          "text": "අස්ථි හා සන්ධි ආසාදන ඇති විය හැක. කුඩා දරුවන්ගේ කකුල් වල කුඩා තුවාල ඇති විට විසබීජ රුධිරය හරහා \nඅස්ථි හා සන්ධි වෙත ළඟා වී ඒවායේ ආසාදනයන් ඇති කරයි . උණ ගතිය සන්ධි ඉදිමීම, මතුපිට සම රතු පැහැ \nගැනීම හා සන්ධිය සෙලවීමට නොහැකි වීම එහි රෝග ලක්ෂණ වේ . අප්රමාදව වෛද්ය උපදේස් ලබාගන්න."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-children-overview"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-complex-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-dislocations"
+    }
+  ],
+  "archive": {
+    "source_id": "si-children-07",
+    "url": "https://orthopaedic.lk/අස්ථි-හා-සන්ධිවල-සිදුවන-ආ/",
+    "file": "sinhala/si-children-07.md",
+    "sha256": "76990ea045c6d89bb4a8bba57ab31b014c65050d74c0a92178174fcccf1231bc",
+    "original_title": "අස්ථි හා සන්ධිවල සිදුවන ආසාදන (ළමා)",
+    "extracted_utc": "2026-10-24T18:34:02+00:00"
+  }
+}

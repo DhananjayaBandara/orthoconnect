@@ -1,0 +1,69 @@
+{
+  "id": "after-surgery",
+  "title": "What to expect after surgery",
+  "category": "After surgery",
+  "icon": "book",
+  "summary": "A starting point for discussing your individual recovery plan.",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "consultation-notes",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this guide",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use these questions as a starting point for a conversation with your treating team."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "heading": "Questions to ask your treating team",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "What written instructions will I receive from my treating team?",
+            "When and where will follow-up take place?",
+            "Who can I contact with concerns after discharge?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "individual-instructions",
+      "heading": "Your individual instructions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Follow the individual instructions provided by your treating team."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS guide to having surgery",
+      "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "wound-care"
+    },
+    {
+      "kind": "guides",
+      "id": "pain-management"
+    },
+    {
+      "kind": "guides",
+      "id": "rehabilitation"
+    }
+  ]
+}

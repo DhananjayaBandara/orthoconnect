@@ -1,0 +1,117 @@
+{
+  "interval_ms": 2000,
+  "slides": [
+    {
+      "id": "01-surgeon",
+      "title": "About Dr. Suneth De Silva",
+      "href": "about.html",
+      "alt": "Dr. Suneth De Silva, Consultant Orthopaedic Surgeon. Specialist training in hip and knee surgery, fracture and trauma care, and limb reconstruction. MBBS (Colombo), MD (Orthopaedic Surgery, Colombo), MRCSEd.",
+      "src": "assets/images/home-banners/01-surgeon.png",
+      "width": 1672,
+      "height": 941,
+      "variants": [
+        {
+          "src": "assets/images/home-banners/01-surgeon-768.webp",
+          "width": 768
+        },
+        {
+          "src": "assets/images/home-banners/01-surgeon-1672.webp",
+          "width": 1672
+        }
+      ],
+      "source_filename": "1 Orthopaedic Surgeon Clinic Banner.png",
+      "sha256": "992c7cbe291f1a185201e763a1ef6e8f71346e7ddf8ac65a3b73eda7f4207054",
+      "desktop": {
+        "src": "assets/images/home-banners/01-carousel-1920x700.webp",
+        "width": 1920,
+        "height": 700,
+        "source_filename": "01-carousel-1920x700.webp",
+        "sha256": "f34a2983f666c1d677e895ddc00200908c167c7ce7c527d975bd375462a076e5"
+      }
+    },
+    {
+      "id": "02-services",
+      "title": "Explore orthopaedic services",
+      "href": "treatments.html",
+      "alt": "Specialist orthopaedic services: hip and knee surgery, joint replacement, fracture and trauma care, and limb reconstruction. Patient-focused assessment and treatment.",
+      "src": "assets/images/home-banners/02-services.png",
+      "width": 1672,
+      "height": 941,
+      "variants": [
+        {
+          "src": "assets/images/home-banners/02-services-768.webp",
+          "width": 768
+        },
+        {
+          "src": "assets/images/home-banners/02-services-1672.webp",
+          "width": 1672
+        }
+      ],
+      "source_filename": "2 Expert Orthopaedic Care for Better Mobility.png",
+      "sha256": "81b9209b19e0fbd8e4fc030a54e662b2bf0e06f36c9b0ff0b5389d290c1e647a",
+      "desktop": {
+        "src": "assets/images/home-banners/02-carousel-1920x700.webp",
+        "width": 1920,
+        "height": 700,
+        "source_filename": "02-carousel-1920x700.webp",
+        "sha256": "b807c33509cddd496f2a29db84265339788a3092706c696b5d92b30400573c28"
+      }
+    },
+    {
+      "id": "03-information",
+      "title": "Explore patient information",
+      "href": "patient-information.html",
+      "alt": "Orthopaedic information about conditions and symptoms, treatment options, surgical procedures, and recovery and rehabilitation. Dr. De Silva explains a knee model during a consultation.",
+      "src": "assets/images/home-banners/03-information.png",
+      "width": 1672,
+      "height": 941,
+      "variants": [
+        {
+          "src": "assets/images/home-banners/03-information-768.webp",
+          "width": 768
+        },
+        {
+          "src": "assets/images/home-banners/03-information-1672.webp",
+          "width": 1672
+        }
+      ],
+      "source_filename": "3 Trusted Orthopaedic Information Banner.png",
+      "sha256": "1a0cd4a1612c5efe6d8fe427e8e333555e54ca4d2362a431c594e49d8e014939",
+      "desktop": {
+        "src": "assets/images/home-banners/03-carousel-1920x700.webp",
+        "width": 1920,
+        "height": 700,
+        "source_filename": "03-carousel-1920x700.webp",
+        "sha256": "f2bc7e7bbd8fbd5d1414ebf8901814c7c12d8567d0950282e79b6e50c49e1cce"
+      }
+    },
+    {
+      "id": "04-consultation",
+      "title": "Find hospitals & appointments",
+      "href": "clinics.html",
+      "alt": "Find a consultation through hospital appointments and channelling. The supplied banner features eChannelling, Doc990 and optional WhatsApp enquiries. View the clinic directory for the available booking links.",
+      "src": "assets/images/home-banners/04-consultation.png",
+      "width": 1672,
+      "height": 941,
+      "variants": [
+        {
+          "src": "assets/images/home-banners/04-consultation-768.webp",
+          "width": 768
+        },
+        {
+          "src": "assets/images/home-banners/04-consultation-1672.webp",
+          "width": 1672
+        }
+      ],
+      "source_filename": "4 Trusted Healthcare Appointments Banner.png",
+      "sha256": "cb1e2ac33220d16a147d925cf4a1b2f47af5043dcb435ea1b872b3d1e29a3402",
+      "desktop": {
+        "src": "assets/images/home-banners/04-carousel-1920x700.webp",
+        "width": 1920,
+        "height": 700,
+        "source_filename": "04-carousel-1920x700.webp",
+        "sha256": "b0e82dd0b84073fe68f9f106b24663b9becbb59cfe96245b463289442961e2aa"
+      }
+    }
+  ]
+}

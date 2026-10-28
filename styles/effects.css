@@ -1,0 +1,103 @@
+/* Shared visual language. Every effect is optional; content is visible by default. */
+:root {
+  --motion-feedback: 180ms ease;
+  --motion-disclosure: 180ms ease-out;
+  --shadow-interaction: 0 0.6rem 1.8rem rgb(18 51 75 / 9%);
+}
+
+/* Fixed header dimensions keep navigation and anchor positions predictable. */
+.site-header { transition: box-shadow var(--motion-feedback), border-color var(--motion-feedback); }
+.site-header.is-scrolled { border-bottom-color: var(--color-teal-line); box-shadow: 0 0.4rem 1.4rem rgb(18 51 75 / 10%); }
+.site-header .primary-navigation a { position: relative; border-bottom-color: transparent; transition: color var(--motion-feedback), background-color var(--motion-feedback); }
+.site-header .primary-navigation a[aria-current] { border-bottom-color: transparent; }
+.site-header .primary-navigation a::after { position: absolute; bottom: 0; left: 0; right: 0; height: 2px; background: var(--color-teal); transform: scaleX(0); transform-origin: left; transition: transform var(--motion-feedback); content: ''; }
+.site-header .primary-navigation a:is(:hover, :focus-visible, [aria-current])::after { transform: scaleX(1); }
+
+/* Section-specific artwork stays alongside, and separate from, readable text. */
+.home-hero { background: radial-gradient(ellipse at 80% 32%, #d2e9de 0, transparent 53%), linear-gradient(115deg, #fdfaf5, #edf5f1 66%); }
+.home-hero .portrait-frame { box-shadow: 0 1.25rem 2.5rem rgb(18 51 75 / 12%); }
+.page-title-illustrated { position: relative; overflow: hidden; background: radial-gradient(ellipse at 95% 10%, #dceee7 0, transparent 55%), linear-gradient(110deg, #f8f8f3, #edf5f3); }
+.page-title-illustrated > .container { position: relative; }
+.page-title-illustrated .page-title-copy { position: relative; z-index: 1; max-width: calc(100% - 15rem); }
+.page-title-art { position: absolute; top: 50%; right: 1rem; display: grid; place-items: center; width: 13rem; height: 13rem; transform: translateY(-50%); color: #6faaa0; pointer-events: none; }
+.page-title-art > .icon { width: 8rem; height: 8rem; stroke-width: 0.8; opacity: 0.65; }
+.motif-orbit { position: absolute; inset: 0; border: 1px solid #bad9ce; border-radius: 50%; }
+.motif-orbit-one { transform: rotate(-25deg) scaleX(0.78); }
+.motif-orbit-two { inset: -1.1rem; opacity: 0.6; }
+.motif-dot { position: absolute; bottom: 1rem; right: 0.6rem; width: 0.75rem; height: 0.75rem; border-radius: 50%; background: var(--color-accent); opacity: 0.7; }
+.reading-header { background: linear-gradient(120deg, #f4f8f5, #eaf4f1); }
+
+/* Equal card feedback across all routes; clinic actions never lift or scale. */
+:is(.expertise-card, .treatment-preview, .topic-card, .article-card, .clinic-card, .qualification-card, .contact-channel) { transition: border-color var(--motion-feedback), box-shadow var(--motion-feedback), transform var(--motion-feedback); }
+:is(.expertise-card, .treatment-preview, .topic-card, .article-card, .clinic-card, .qualification-card, .contact-channel):is(:hover, :focus-within) { border-color: #95c4b8; box-shadow: var(--shadow-interaction); }
+@media (hover: hover) and (pointer: fine) {
+  :is(.reading-card, .article-card, .treatment-preview):hover { transform: translateY(-3px); }
+}
+.button, .icon-button, .text-link, .contact-link { transition: background-color var(--motion-feedback), border-color var(--motion-feedback), color var(--motion-feedback), box-shadow var(--motion-feedback); }
+:is(.button, .text-link, .contact-link) > .icon { flex-shrink: 0; transition: transform var(--motion-feedback); }
+:is(.button, .text-link, .contact-link):is(:hover, :focus-visible) > .icon:last-child { transform: translateX(2px); }
+.button:active { box-shadow: inset 0 2px 4px rgb(11 38 58 / 20%); }
+.button-booking:active { background: var(--color-teal-dark); }
+.clinic-platform-options label, .language-choice span { transition: background-color var(--motion-feedback), border-color var(--motion-feedback), color var(--motion-feedback), box-shadow var(--motion-feedback); }
+
+/* Original topic art: full illustrations remain visible at every card width. */
+.treatment-illustration { width: 100%; overflow: hidden; border: 1px solid var(--color-teal-line); border-radius: var(--radius-card); background: #f1f7f4; }
+.treatment-illustration img { width: 100%; height: auto; aspect-ratio: 8 / 5; object-fit: contain; }
+.treatment-preview-illustrated .item-number { position: static; align-self: flex-end; margin-bottom: var(--space-4); }
+.treatment-preview-illustrated > .topic-status { margin-top: var(--space-4); }
+.treatment-preview-illustrated h3 { margin-top: var(--space-4); }
+.reading-card > .treatment-illustration { margin-bottom: var(--space-5); }
+.reading-article > .treatment-illustration { margin-bottom: var(--space-8); }
+
+/* The documented training milestones stay in their original order. */
+.training-timeline { counter-reset: milestone; gap: var(--space-5); padding-left: var(--space-8); border-left: 2px solid var(--color-teal-line); }
+.training-timeline > li { counter-increment: milestone; padding: var(--space-5); border: 1px solid var(--color-border); border-radius: var(--radius-card); background: var(--color-white); }
+.training-timeline > li::before { top: var(--space-5); left: calc(-1 * var(--space-8) - 1px); display: grid; place-items: center; width: 1.75rem; height: 1.75rem; transform: translateX(-50%); border: 3px solid var(--color-white); color: var(--color-white); background: var(--color-teal); font-size: 0.625rem; font-weight: var(--font-weight-bold); content: counter(milestone, decimal-leading-zero); }
+
+/* Native details retain keyboard semantics; JS adds optional opening feedback. */
+.disclosure-icon { transition: transform var(--motion-disclosure); }
+details[open] > summary .disclosure-icon { transform: rotate(45deg); }
+:is(.faq-item, .topic-details, .reading-contents) > summary { transition: color var(--motion-feedback), background-color var(--motion-feedback); }
+:is(.faq-item, .topic-details, .reading-contents)[open] > summary { color: var(--color-teal-dark); }
+.reading-contents a { transition: color var(--motion-feedback), border-color var(--motion-feedback), background-color var(--motion-feedback); }
+.reading-contents a[aria-current] { box-shadow: inset 3px 0 var(--color-teal); }
+.reading-progress { position: fixed; top: var(--header-height); left: 0; right: 0; z-index: calc(var(--z-header) - 1); height: 3px; pointer-events: none; background: var(--color-teal-light); }
+.reading-progress-fill { display: block; width: 100%; height: 100%; transform: scaleX(0); transform-origin: left; background: var(--color-teal); }
+
+/* Existing licensed photograph; copy always stays on a solid contrast panel. */
+.home-photo-callout { border-color: var(--color-navy); box-shadow: var(--shadow-raised); }
+.home-photo-copy { align-self: stretch; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; color: #dce9ee; background: var(--color-navy); }
+.home-photo-copy > h2 { color: var(--color-white); }
+.home-photo-copy > .eyebrow, .home-photo-copy > .text-link { color: var(--color-dark-accent); }
+.home-lifestyle { position: relative; }
+.home-lifestyle::after { position: absolute; inset: 0; pointer-events: none; box-shadow: inset 1.25rem 0 2rem -1.5rem rgb(11 38 58 / 50%); content: ''; }
+
+@media (max-width: 1190px) {
+  .js-enabled .primary-navigation { display: grid; gap: var(--space-1); visibility: hidden; opacity: 0; transform: translateY(-6px); pointer-events: none; transition: opacity var(--motion-disclosure), transform var(--motion-disclosure), visibility 0s 180ms; }
+  .js-enabled .primary-navigation.is-open { visibility: visible; opacity: 1; transform: translateY(0); pointer-events: auto; transition-delay: 0s; }
+  .site-header .primary-navigation a::after { display: none; }
+}
+@media (max-width: 760px) {
+  .page-title-illustrated .page-title-copy { max-width: 100%; }
+  .page-title-art { display: none; }
+  .page-title-illustrated { background: linear-gradient(120deg, #f8f8f3, #eaf4f0); }
+}
+@media (max-width: 540px) {
+  .training-timeline { padding-left: var(--space-6); }
+  .training-timeline > li { padding: var(--space-4); }
+  .training-timeline > li::before { left: calc(-1 * var(--space-6) - 1px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto !important; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  :is(.reading-card, .article-card, .treatment-preview):hover { transform: none; }
+}
+html.motion-reduced { scroll-behavior: auto !important; }
+html.motion-reduced *, html.motion-reduced *::before, html.motion-reduced *::after { animation: none !important; transition: none !important; }
+html.motion-reduced :is(.reading-card, .article-card, .treatment-preview):hover { transform: none; }
+@media print {
+  .page-title-art, .reading-progress { display: none !important; }
+  .page-title-illustrated, .reading-header { background: white; }
+  .home-photo-copy { color: var(--color-text); background: white; }
+  .home-photo-copy > h2 { color: var(--color-navy); }
+}

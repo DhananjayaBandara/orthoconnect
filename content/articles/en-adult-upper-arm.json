@@ -1,0 +1,423 @@
+{
+  "id": "en-adult-upper-arm",
+  "title": "Upper Arm – Adults",
+  "summary": "Fractures near the shoulder, along the upper arm and near the elbow.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "upper-arm",
+    "shoulder",
+    "elbow"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Humerus and upper arm"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/6b4e87a661c94c5bf089.jpg",
+          "alt": "Person holding their upper arm near the shoulder",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "FRACTURE OF UPPER ARM (HUMERUS) CLOSER TO THE SHOULDER",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/6bbdf1bc0149a30b8374.jpg",
+          "alt": "Shoulder X-ray with a circled region of the upper arm",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Does It Happen ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This segment of the upper arm makes the shoulder joint with shoulder blades (scapula).Fractures of this segment of bone of the upper arm (Humerus) are serious injuries. The fracture is commoner in the elderly with osteoporosis and occurs with simple falls on the shoulder. In the young it follows high energy injuries to the shoulder"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/40138be7f13d2ea80a7f.jpg",
+          "alt": "X-ray of screws in the upper arm near the shoulder",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment For This Injury?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This fracture can be treated without operation if the broken pieces of bones are maintaining alignment. Keeping the arm still for about six weeks aids healing. It usually heals without deformities. However, displaced fractures and when the bone is broken into many pieces, it needs fixation with a plate and screws. It will restore normal structure of bone."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c15e6c5ffcb17d89cd30.jpg",
+          "alt": "Person touching the top of their shoulder",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Advantages Of Fixations Over Non Operative Care?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fixation of the fracture, even if it has not moved away, will immediately relieve pain. There will be no chance of bone pieces moving away during the period of healing which will later require operation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shoulder is notorious joint to get stiff with slightest trauma, immobilization. After fixation the joint can be moved as early as two weeks after operation. As motion can be begun early chances of joint stiffness is less."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/dd7b2c1732cdec7b1441.jpg",
+          "alt": "Drawing of an upper-arm bone supported by wires",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is Used To Fix The Fracture?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There are specially designed plates for this area of the bone. These plates are more suitable for osteoporotic bone."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d9a54429b6a18c6e52e2.jpg",
+          "alt": "Surgical team working in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It A Big Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "I would not say so. You will have a cut (incision) about 5-6cm at the side of the shoulder or in front of the shoulder. Operation will take about 60-90 minutes. You could be discharged in 1-2 days."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ab61ecb9b4833c3c97cf.jpg",
+          "alt": "Older woman resting her face on her hand",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will It Be Painful?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your pain will be controlled with medicines. There will be some discomfort. But it will ease off."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2767034643ce2ab49ebb.jpg",
+          "alt": "Clinician supporting a patient's raised arm",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Move The Joint ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your arm will be immobilized in a shoulder immobilizer. You need to wear this for the first three weeks. No movement should be allowed during this time. Movements can be begun thereafter. It will be a very gradual process."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d0afed046e5a8636bebb.jpg",
+          "alt": "Person wearing an arm sling",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Is The Wound Check Due?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The wound heals in about 7-10 days. The wound is checked at discharge and then in a week. Absorbable stitches are used in a regular case."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/9846fa8813d02c19e4ba.jpg",
+          "alt": "Orthopaedic plate and screw components",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will The Metal Need To Be Removed ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Not in every case."
+        }
+      ]
+    },
+    {
+      "id": "section-02",
+      "heading": "FRACTURE OF SHAFT OF THE HUMERUS",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/14042c80149d230a4539.jpg",
+          "alt": "Upper-arm X-ray with a metal plate and legacy source marking",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Does It Happen ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "A force applied on the mid part of the upper arm could break the bone. The facture is common to damage a nerve running near the mid part of the bone. If this occurs you will find it difficult to lift your wrist with the palm faced downwards."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d0afed046e5a8636bebb.jpg",
+          "alt": "Person wearing an arm sling",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This can too be treated without an operation; Provided there is no damage to the nerve and the bone fragments are stable enough to maintain its alignment. The upper arm will be put in a plaster of Paris slab. It will take about six weeks to heal."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d9a54429b6a18c6e52e2.jpg",
+          "alt": "Surgical team working in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Can This Be Operated ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Associated nerve damage and bone pieces not keeping in line warrant operative fixation of the bone. This provides an opportunity to look at the nerve and repair if it is damaged at the same time."
+        },
+        {
+          "type": "paragraph",
+          "text": "The normal structure of the bone is restored. After the operation the upper arm will be further supported with a plaster of Paris slab. The bone could be fixed with plate and screws or a metal rod inserted into the canal of the bone."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/be683712f685024d7eb1.jpg",
+          "alt": "Person exercising an arm with a clinician's help",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could The Nerve Damage Be Treated",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Damage to the nerve will need additional treatment in the means of active and passive physiotherapy, wearing of splints until recovery. If the wrist function can still not be regained, additional surgical procedure may be required."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/53fdf9fc21e38aaad8d2.jpg",
+          "alt": "Woman stretching her arms overhead outdoors",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Be Active ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "When the facture is fixed and is secure, shoulder and the elbow joints can start moving. There is less chance of getting stiffness of the joints. None-operatively treated patients have to wait six weeks before starting movements."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/144c654c462db4a69856.jpg",
+          "alt": "Red exclamation mark indicating an important point",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Are The Possible Complications Of Treatment ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures treated without operation may not heal after adequate immobilization. Then it will need operation to correct it. Fractures fixed with plate and screws may show loosening, screw breaks, fracture not healing. These are rare but it can happen."
+        }
+      ]
+    },
+    {
+      "id": "section-03",
+      "heading": "FRACTURE OF DISTAL HUMERUS BONE OF THE UPPER ARM CLOSER TO THE ELBOW JOINT",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/57b2b1460d5bc21d2be0.jpg",
+          "alt": "Elbow X-ray with a yellow arrow",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Does It Happen ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Injuries to this part of the bone most of the time involve the elbow joint. It happens when you fall and land on the elbow. This is a very serious injury.This should only be treated operatively. Any other treatment will result in very serious consequences and deformities. This injury needs urgent medical attention."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2fa14fcc25aba92e3dda.jpg",
+          "alt": "Person holding a painful upper arm",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Changes Can Occur With Injuries To This Area?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The joint may show significant swelling. Nerve and blood supply to the forearm may be damaged compromising survival of tissues in the forearm. You may feel the fingers going numb."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0ebd914baee658b3b936.jpg",
+          "alt": "Green blocks spelling first aid",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any First Aid That Can Be Done?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You may splint the arm as it is. Apply some ice over the site. Apply a collar and cuff if the elbow can be bent."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0904ec845338f98dbef7.jpg",
+          "alt": "Patient entering a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Tests Will Be Done?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "A plain x-ray is a must in this fracture. CT scan will be arranged in serious fractures."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/be683712f685024d7eb1.jpg",
+          "alt": "Person exercising an arm with a clinician's help",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could This Be Treated?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Simple brakes can be operated without delay. Most of the time, the bone will be fixed with a plate and screws. In other cases, the operation is done once the swelling settles down. This will take couple of days. Until such time the arm is put in a plaster slab/external fixating frame. There are specially design plates and screws to fix fracture of this part of the bone. This is done under general anaesthetic. You will have a surgical wound over the back of your elbow. The arm will be supported with a plaster slab after the operation."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the blood supply to the forearm is affected or if the forearm shows gross swelling accompanying with severe pain, you will be subjected to skin releasing surgical incisions over forearm under general anaesthetic. This will avoid damage to muscles in the forearm from compromised oxygen supply. The bone fixation may get delayed in such instances."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/b46adc1ac4c31e582c08.jpg",
+          "alt": "Medical professional holding a clock",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will It Take To Heal?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The wound will heal in about ten days. Swelling will take about two weeks to settle. The fracture usually heals in six weeks. Time may be longer in difficult cases."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2767034643ce2ab49ebb.jpg",
+          "alt": "Clinician supporting a patient's raised arm",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Start Joint Movement?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The elbow is likely to develop stiffness with slightest injury and with a short period of immobilization. Joint movement can be commenced as early as two weeks after a stable fixation. It will take some time to get back to normal level of activity."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-elbow"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-forearm"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-02",
+    "url": "https://orthopaedic.lk/upper-arm-adults/",
+    "file": "english/en-adult-02.md",
+    "sha256": "59e0eb6eef474bef4f2c82a836ccd8ecdf53097b61995421c052bd067c419a72",
+    "original_title": "Upper Arm – Adults",
+    "extracted_utc": "2026-10-24T18:28:30+00:00"
+  }
+}

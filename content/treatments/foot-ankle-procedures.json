@@ -1,0 +1,49 @@
+{
+  "id": "foot-ankle-procedures",
+  "title": "Foot & ankle procedures",
+  "category": "Educational topics",
+  "icon": "assessment",
+  "summary": "Educational information. Independent service scope requires confirmation.",
+  "pending": true,
+  "related": "conditions.html#foot-ankle",
+  "relatedLabel": "Related educational category",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "consultation-notes",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this educational topic",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dr. De Silva has documented foot-and-ankle training. A separate service will be presented only after its scope is confirmed."
+        }
+      ]
+    },
+    {
+      "id": "discussion",
+      "heading": "Information awaiting confirmation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reviewed procedure information will be added after confirmation."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "consultation-faq"
+    },
+    {
+      "kind": "guides",
+      "id": "preparing-for-surgery"
+    }
+  ]
+}

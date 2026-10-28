@@ -1,0 +1,52 @@
+{
+  "id": "ligament-surgery",
+  "title": "Selected ligament surgery",
+  "category": "Knee",
+  "icon": "knee",
+  "summary": "Selected ligament surgery as part of specialist knee assessment.",
+  "related": "conditions.html#sports-injuries",
+  "relatedLabel": "Related injury information",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "everyday-movement",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dr. De Silva’s knee-care scope includes selected ligament surgery, together with knee-injury assessment and arthroscopy."
+        }
+      ]
+    },
+    {
+      "id": "discussion",
+      "heading": "Discussing your options",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The appropriate treatment for a particular injury is a question to discuss at consultation. No specific procedure or result is promised by this educational introduction."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-knee"
+    },
+    {
+      "kind": "guides",
+      "id": "return-to-activity"
+    },
+    {
+      "kind": "guides",
+      "id": "rehabilitation"
+    }
+  ]
+}

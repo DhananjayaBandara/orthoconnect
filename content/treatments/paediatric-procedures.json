@@ -1,0 +1,45 @@
+{
+  "id": "paediatric-procedures",
+  "title": "Paediatric procedures",
+  "category": "Educational topics",
+  "icon": "assessment",
+  "summary": "Educational topic. A separate paediatric surgical service is not confirmed.",
+  "pending": true,
+  "related": "contact.html",
+  "relatedLabel": "View contact options",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "consultation-notes",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this educational topic",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reviewed information about children’s orthopaedic procedures will be added to this section."
+        }
+      ]
+    },
+    {
+      "id": "discussion",
+      "heading": "Information awaiting confirmation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A separate paediatric surgical service is not currently confirmed. Please confirm the appropriate consultation route through an approved contact channel."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "consultation-faq"
+    }
+  ]
+}

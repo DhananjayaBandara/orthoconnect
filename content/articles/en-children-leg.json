@@ -1,0 +1,154 @@
+{
+  "id": "en-children-leg",
+  "title": "Leg – Children",
+  "summary": "Tibia fractures in children’s lower legs.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "lower-leg"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Paediatric leg"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/972c6d9a50f3a072893b.jpg",
+          "alt": "Children running outdoors",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "TIBIA FRACTURES BONE IN THE LEG",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/eb8d437c019c3ccaa5d0.jpg",
+          "alt": "Ankle X-ray",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Are The Sites Of Fractures Of Tibia?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures of the bone in the leg may break near the knee, in the middle of the bone or near the ankle. There will be pain, swelling and difficulty in weight bearing on the affected limb. An Xray will show the fracture."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/dce55144f5392a1d3203.jpg",
+          "alt": "Clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could These Be Treated?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Most of the fractures of the tibia are managed without operation. When there is no deformity, the fracture will be managed with a plaster of Paris half cast extending above the knee joint."
+        },
+        {
+          "type": "paragraph",
+          "text": "However some fractures will need manipulation under a general anaesthetic if leg is deformed. The deformity is corrected and the normal position will be secured with a plaster half cast."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures near the ankle will be managed in a similar way. Only few patients will need operation. In such instances some metal work will be used. These are minor operations."
+        },
+        {
+          "type": "paragraph",
+          "text": "The child will be discharged in 2-3 days when it is safe to do so."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2d81603cb48500de03c4.jpg",
+          "alt": "Foot and lower leg supported in a blue cast",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Happens Next?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This will be changed to a complete cast in about 1-2 weeks after injury. The leg will be immobilised up to about 6 weeks until the fracture heals. Xrays will be taken in intervals of two weeks to see if the fracture maintains its shape."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/e54ad9c5de4216dd4c5c.jpg",
+          "alt": "Clinician helping a woman exercise her shoulder",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can The Child Start Walking?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The child will be allowed to start weight bearing when Xrays shows healing. It was partial weight bearing to start with and progressing to full weight bearing as convenient."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/960a099562e4a9616c49.jpg",
+          "alt": "Children playing football",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Can The Child Do Sports?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "I would advise you to delay sports activities up to 12 weeks."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-children-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-elbow"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-upper-arm"
+    }
+  ],
+  "archive": {
+    "source_id": "en-children-07",
+    "url": "https://orthopaedic.lk/leg-children/",
+    "file": "english/en-children-07.md",
+    "sha256": "16df922a5059b76b64b56f65ec24909650a8c5efca9c563bfeed7f3665275d86",
+    "original_title": "Leg – Children",
+    "extracted_utc": "2026-10-24T18:31:53+00:00"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "si-adult-osteoporosis",
+  "title": "ඔස්ටියෝපොරෝසිස්",
+  "summary": "අස්ථි දුර්වල වීම, ඔස්ටියෝපොරෝසිස් සහ අස්ථි ඝනත්ව පරීක්ෂණ පිළිබඳ තොරතුරු.",
+  "category": "අස්ථි සෞඛ්‍යය හා ඔස්ටියෝපොරෝසිස්",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "bones-joints",
+    "spine",
+    "hip",
+    "wrist-hand",
+    "shoulder"
+  ],
+  "topics": [
+    "bone-health",
+    "fractures"
+  ],
+  "keywords": [
+    "Osteoporosis"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/ace98090d46b4f6c2df3.png",
+          "alt": "Diagram comparing normal bone density with osteoporosis",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "ඔස්ටියෝපොරෝසිස් පරීක්ෂා කරගත යුත්තේ ඇයි?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "එය නිහඬ රෝගයකි \nඔබගේ අස්ථි (විශේෂයෙන් කශේරුකා ) දැනටමත් බලපෑම්ට ලක්ව තිබිය හැක \nසුළු වැටීමකින් පවා උකුල (hip), මැණික් කටුව, උරහිස සහ කශේරුකා බිඳී යා හැක – මෙය ඔබගේ ජීවිතය සම්පූර්ණයෙන් වෙනස් කළ හැක \nඉක්මන් හඳුනාගැනීමෙන් වැළැක්වීම හැකි වේ \nඔබට නොදැනුවත්ම අවදානමක් තිබිය හැක \n“ඔබගේ අස්ථි දුර්වලයි” කියා දැනගැනීමට බිඳීමක් වනතුරු බලා නොසිටිය යුතුය"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/e8f3315596eb19f84231.png",
+          "alt": "Comparison of normal bone and porous osteoporotic bone",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "ඔස්ටියෝපොරෝසිස් යනු කුමක්ද?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "ඔස්ටියෝපොරෝසිස් යනු ඔබගේ අස්ථි දුර්වල, තුනී සහ පහසුවෙන් බිඳෙන තත්ත්වයකි. මෙනෝපෝස් (menopause) පසු, අස්ථි ආරක්ෂා කරන හෝමෝනයක් වන එස්ට්‍රොජන් (oestrogen) අඩුවීම නිසා කාන්තාවන්ගේ අස්ථි ශක්තිය ඉක්මනින් අඩුවේ."
+        },
+        {
+          "type": "paragraph",
+          "text": "මෙය සුළු වැටීමකින් හෝ කිසිදු ආබාධයක් නොමැතිව පවා අස්ථි බිඳීමේ අවදානම වැඩි කරයි."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/fd8d833bb1dece3084fd.png",
+          "alt": "Sticky note with the word why",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "ආර්ත්ව චක්‍රය නැවතී ගිය පසු මෙය වැදගත් වන්නේ ඇයි?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "ආර්ත්ව චක්‍රය නැවතී ගිය පසු අස්ථි අහිමි වීම නිහඬව වේගයෙන් සිදුවේ. බොහෝ කාන්තාවන්ට ඔස්ටියෝපොරෝසිස් තිබෙන බව දැනෙන්නේ බිඳීමක් සිදු වූ පසුවයි."
+        },
+        {
+          "type": "paragraph",
+          "text": "සාමාන්‍යයෙන් බලපෑමට ලක්වන ස්ථාන: \n• කශේරුකා (Spine) \n• උකුල (Hip) \n• මැණික් කටුව (Wrist) \n• උරහිස (Shoulder)"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/b18cd8a4425ad58027f5.png",
+          "alt": "Illustration showing changes in spinal posture",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "ඔබට ඇතිවිය හැකි කශේරුකා ගැටලු"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "නිහඬ කශේරුකා බිඳීම් (Vertebral fractures) \n• කුඩා කැඩීම් හෝ සංකුචනය \n• වැටීමක් නැතිව පවා සිදුවිය හැක \n• සාමාන්‍ය පසුබැසි වේදනාවක් ලෙස වරදවා හඳුනාගත හැක",
+            "උස අඩුවීම \n• ඇඳුම් වෙනස් ලෙස ගැලපීම ඔබට පෙනේ \n• සෙන්ටිමීටර් කිහිපයක් සෙමින් අඩුවේ",
+            "වංගු වූ ශරීර ස්ථිතිය (Kyphosis) \n• “නැමුණු ඉරියව්ව” ලෙස හැඳින්වේ \n• සමාන්‍යතාව අඩුවීම හා වැටීම් අවදානම වැඩිවේ",
+            "නිදන්ගත වේදනාව \n• කුඩා බිඳීම් රැසක් නිසා \n• නැගී සිටීමේදී හෝ ඇවිදින විට වේදනාව වැඩිවේ"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/cce23dbe67a11403037b.png",
+          "alt": "Diagram of a fracture near the top of the thigh bone",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "ඔබට අස්ථි බිඳීමේ අවදානම වැඩි ඇයි"
+        },
+        {
+          "type": "paragraph",
+          "text": "උකුල අස්ථි බිඳීම් (Hip fractures) \n• සාමාන්‍යයෙන් සුළු වැටීමකින් \n• ශල්‍යකර්ම අවශ්‍ය විය හැක \n• දිගුකාලීන අසමත්තා ඇතිවිය හැක"
+        },
+        {
+          "type": "paragraph",
+          "text": "මැණික් කටුව බිඳීම් (Wrist fractures) \n• බොහෝවිට මෙය පළමු අනතුරු ඇඟවීම වේ \n• වැටීමක් නතර කිරීමට උත්සාහ කරන විට සිදුවේ"
+        },
+        {
+          "type": "paragraph",
+          "text": "උරහිස සහ උකුළ බිඳීම් (Shoulder & pelvic fractures) \n• වේදනාකාරී සහ සුව වීමට මන්දගාමී වේ \n• ස්වාධීනතාවය සහ චලනයට බලපායි"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/be39edf08859cb30403d.png",
+          "alt": "Group of women smiling together",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "මෙම පරීක්ෂාවක් අවශ්‍යද කාටද ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "• වයස 50ට වැඩි නම් \n• මෙනෝපෝස් තත්ත්වයට පත්ව ඇත්නම් \n• පැහැදිලි හේතුවක් නොමැති නිදන්ගත වේදනාවක් තිබේ නම් \n• උස අඩුවීමක් හෝ ශරීර ස්ථිතියේ වෙනස්කම් පෙනේ නම් \n• සුළු වැටීමකින් පසු අස්ථි බිඳී ඇත්නම් \n• පවුලේ ඉතිහාසයක් තිබේ නම්"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/58da0ab645786a8c272f.png",
+          "alt": "Person lying in a bone-density scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "ඔස්ටියෝපොරෝසිස් හඳුනාගන්නේ කෙසේද?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "• වෛද්‍ය පරීක්ෂාව \n• අස්ථි ඝනත්ව පරීක්ෂාව (DEXA scan)"
+        },
+        {
+          "type": "paragraph",
+          "text": "සරල, වේදනාවක් නොමැති පරීක්ෂාවක් \nඅස්ථි ශක්තිය මැනේ"
+        },
+        {
+          "type": "paragraph",
+          "text": "• අවදානම් ඇගයීම"
+        },
+        {
+          "type": "paragraph",
+          "text": "FRAX භාවිතා කරමින් ඉදිරි බිඳීම් අවදානම ගණනය කරයි"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/5f3181c3aa301a2833df.jpg",
+          "alt": "Clinician holding a clipboard in a hospital",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "ඉක්මන් හඳුනාගැනීම වැදගත් වන්නේ ඇයි?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "ඉක්මනින් හඳුනාගත්තොත්: \n• අස්ථි අහිමි වීම අඩු කළ හැක හෝ කොටසක් ප්‍රතිස්ථාපනය කළ හැක \n• බිඳීම් අවදානම අඩු කරගත හැක \n• ස්වාධීනතාවය සහ චලනය රැකගත හැක \n• ප්‍රතිකාර ලබාගත හැක"
+        },
+        {
+          "type": "paragraph",
+          "text": "අවධානය නොදුන්නහොත්: \n• හඳුනාගන්න විට ප්‍රමාද විය හැක \n• හදිසි බිඳීම් සිදුවිය හැක \n• සුවවීම කශේරුකා බිඳීම් වලදී විශේෂයෙන් දුෂ්කර විය හැක \n• දිගුකාලීන පසුබැසි වේදනාව \n• උස අඩුවීම හෝ කශේරුකා විකෘතිවීම"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/78936febda0ac01fd9e6.jpg",
+          "alt": "Doctor speaking on a telephone",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "දැන් ඔබට කළ හැක්කේ කුමක්ද?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "• හැකි ඉක්මනින් අප හමුවන්න \n• ඔබගේ තත්ත්වය ඇගයීමට ලක්කරමු \n• අස්ථි ඝනත්ව පරීක්ෂාව කරගන්න \n• ප්‍රමාණවත් කැල්සියම් සහ විටමින් D ලබාගන්න \n• ව්‍යායාම සහ ශාරීරික ක්‍රියාකාරකම් පිළිබඳ උපදෙස් ලබාගන්න \n• ශරීර ස්ථිතිය සහ සමාන්‍යතාව වැඩිදියුණු කරගන්න \n• ඉක්මනින් වෛද්‍ය උපදෙස් ලබාගන්න"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-adult-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-common-pains"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-deformity-correction"
+    }
+  ],
+  "archive": {
+    "source_id": "si-adult-09",
+    "url": "https://orthopaedic.lk/e0-b6-94-e0-b7-83-e0-b7-8a-e0-b6-a7-e0-b7-92-e0-b6-ba-e0-b7-9d-e0-b6-b4-e0-b7-9c-e0-b6-bb-e0-b7-9d-e0-b7-83-e0-b7-92-e0-b7-83-e0-b7-8a/",
+    "file": "sinhala/si-adult-09.md",
+    "sha256": "b5f4781b2a80aaf4575b06b3e71797db0e9b4493613a308207a9bb223e241b7c",
+    "original_title": "ඔස්ටියෝපොරෝසිස්",
+    "extracted_utc": "2026-10-24T18:33:19+00:00"
+  }
+}

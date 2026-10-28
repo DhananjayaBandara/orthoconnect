@@ -1,0 +1,176 @@
+{
+  "id": "en-children-wrist-hand",
+  "title": "Wrist & Hand – Children",
+  "summary": "Wrist fractures and questions about children’s hand and wrist injuries.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "wrist-hand",
+    "forearm"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Paediatric wrist/hand"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/00b3208e157772156da6.jpg",
+          "alt": "Surgical team treating a patient in an operating theatre",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "WRIST FRACTURES IN CHILDREN",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The wrist joint connects the forearm and the hand. The growing end of the forearm is at the wrist joint. The growing end is loosely attached to the bone. Therefore fractures commonly occur through this area."
+        },
+        {
+          "type": "paragraph",
+          "text": "Correct treatment is needed as the growth of the forearm could be affected with this injury."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/5e59bfd4562b8c7ff119.jpg",
+          "alt": "Illustration highlighting structures around the wrist",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would I Know The Wrist Is Broken?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Pain, swelling and reduced range of motion are the commonest symptoms"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/59448dc75a6dffa78b3f.jpg",
+          "alt": "Teddy bear with a bandage beside a first-aid box",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Can I Do Before Rushing To The Hospital",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Application of ice, splinting of the wrist and resting the arm in a triangular bandage could be done as first aids."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/abae56e2128a76e1a063.jpg",
+          "alt": "Child resting their cheek on their hand",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment For This Injury ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Treatment for wrist injury is simple. Simple cracks need plaster support for three weeks. Fractures with displacement will require manipulation under a general anaesthetic to correct the displacement. And then it is secured with a plaster of Paris half cast."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is a yet another type of fracture which will not remain in corrected position. This will need a pin/plate fixation."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/6fcb2193f8756f6feb0f.jpg",
+          "alt": "Child looking upwards thoughtfully",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Would The Treatment Last?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The wrist will be immobilised for three weeks. Then the plaster of Paris cast is removed and the wrist will be supported in a wrist brace."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/010061aa8056e7e1c9ac.jpg",
+          "alt": "Child smiling and raising a thumb",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Are There Complications Of This Injury?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually no serious complications. Wrist stiffness will go off."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/9e350a82c59d8fa6856f.jpg",
+          "alt": "Silhouettes of children playing with a ball at sunset",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can My Child Play ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Normal activities can be begun once you feel comfortable. This will be about 3-4 weeks after injury."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/dce55144f5392a1d3203.jpg",
+          "alt": "Clinicians in an operating theatre",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-children-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-elbow"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-upper-arm"
+    }
+  ],
+  "archive": {
+    "source_id": "en-children-04",
+    "url": "https://orthopaedic.lk/wrist-hand-children/",
+    "file": "english/en-children-04.md",
+    "sha256": "70a590a345ffae74a462fc76d3e285d506ef3c875ab0232cf5b35860f2ef5783",
+    "original_title": "Wrist & Hand – Children",
+    "extracted_utc": "2026-10-24T18:31:28+00:00"
+  }
+}

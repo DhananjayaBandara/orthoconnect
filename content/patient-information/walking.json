@@ -1,0 +1,65 @@
+{
+  "id": "walking",
+  "title": "Walking & weight-bearing advice",
+  "category": "Rehabilitation",
+  "icon": "knee",
+  "summary": "Ask for individual instructions before resuming activity.",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "outdoor-walking",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this guide",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use these questions as a starting point for a conversation with your treating team."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "heading": "Questions to ask your treating team",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "What walking or weight-bearing instructions apply to me?",
+            "Will I need support or equipment?",
+            "When should my activity instructions be reviewed?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "individual-instructions",
+      "heading": "Your individual instructions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Follow the individual instructions provided by your treating team."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS guide to having surgery",
+      "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "rehabilitation"
+    },
+    {
+      "kind": "guides",
+      "id": "return-to-activity"
+    }
+  ]
+}

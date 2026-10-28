@@ -1,0 +1,497 @@
+{
+  "id": "en-children-shoulder",
+  "title": "Shoulder – Children",
+  "summary": "Shoulder, upper-arm and elbow-region fractures in children.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "shoulder",
+    "upper-arm",
+    "elbow"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Shoulder and upper-arm fractures in children"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/91e8d1dbbfaaa3df38b1.jpg",
+          "alt": "Clinician attending to a child in a hospital bed",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "FRACTURE OF THE BONE IN THE UPPER ARM (HUMERUS) IN CHILDREN",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/3bac4c7e492420f69fe7.jpg",
+          "alt": "Drawing of a fracture near the top of the upper-arm bone",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could This Bone Be Broken ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The humerus commonly breaks at three places. They are"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Near the shoulder joint",
+            "middle part of the bone",
+            "near the elbow joint"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/565e00bada36b4506ef8.jpg",
+          "alt": "Person wearing a plaster cast around the hand and wrist",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could This Be Treated ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures near the shoulder joint"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures of this area are treated without operation in usual case. Immobilization of the arm with a shoulder immobilizer, plaster of Paris cast applied to forearm as a weight will maintain the alignment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures in the middle part of the bone"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nearly all of the fractures of this part of the bone treated with simple immobilization. The upper arm and the elbow joint will be immobilized with a plaster of Paris half cast."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures near the elbow"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please Read Supracondylar fracture"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/6fcb2193f8756f6feb0f.jpg",
+          "alt": "Child looking upwards thoughtfully",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will It Take To Heal ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Both fracture types will heal in a period of 3-4 weeks."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/159e253bc14844fa383d.jpg",
+          "alt": "Child raising their arms while playing outdoors",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will There Be Deformity ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually no. most of the leftover deformity get corrected automatically with time."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/7173e3c01108fccc072a.jpg",
+          "alt": "Arm resting in a sling",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Does The Plaster Need Changing ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The plaster loosens as swelling settles. If we find it too loose, a new plaster will be done"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/424b9d81d092e526c09a.jpg",
+          "alt": "Child sitting in a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would You Know If The Bone Pieces Are In Place ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "X-rays are done at intervals to make sure the bones are in correct place."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/228c915205c10c16ce9e.jpg",
+          "alt": "Children exercising with large therapy balls",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will The Child Need Physiotherapy ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The shoulder and the elbow might be stiff when the plaster is removed. Children gradually start moving the joint. However some might need few sessions of physiotherapy to regain full range of joint motion."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/fa185914a6a54971449e.jpg",
+          "alt": "Child holding a basketball",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can The Contact Sports Begun ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It should be fine after 8-10 weeks"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/dce55144f5392a1d3203.jpg",
+          "alt": "Clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will These Two Fracture Types Ever Need Operation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It would rarely. One instance is fracture near the shoulder joint with complete displacement of broken ends. (off-ended). These can be fixed with two pins after restoring normal shape of the bone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fracture involving the middle part can be fixed with a wire sent inside the bone through a small opening made near the upper/lower end of the bone."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/78936febda0ac01fd9e6.jpg",
+          "alt": "Doctor speaking on a telephone",
+          "lang": "en"
+        },
+        {
+          "type": "heading",
+          "id": "subsection-01",
+          "text": "SUPRACONDYLAR FRACTURE HUMERUS IN CHILDREN"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a6f245fe020e44cbfe39.jpg",
+          "alt": "Drawings comparing two fractures near a child's elbow",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Which Part Of The Bone Is Broken ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the part of the bone in the upper arm, very close to the elbow joint."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/e416f7fcfeec2dca6097.jpg",
+          "alt": "Child holding a film-making clapperboard",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Why Is This An Important Fracture ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This fracture is commonly seen in the age group of 4-9 years."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fracture could be a simple crack to a completely displaced one with broken ends not touching each other at all."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the second instance, the broken sharp edge of the bone could damage the nearby nerves and blood vessels running to the forearm. Therefore the forearm might not get an adequate oxygen supply. These can only be recognized by a qualified doctor."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0b54ca74b25ff5b9165a.jpg",
+          "alt": "Child wearing a bicycle helmet beside a fallen bicycle",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could This Happen ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The injury is common after falls from little heights."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/6155fa711209813789d7.jpg",
+          "alt": "Child sitting outdoors with an arm supported",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Should I Do ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You could splint the arm as it is with a suitable device/piece of wood wrapped with a cloth"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please seek urgent medical advice"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/6975bc07727b659d3108.jpg",
+          "alt": "Illustration of helpers carrying an injured person",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment For Collar Bone Fractures?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The regular fracture will only need immobilization of the clavicle for six weeks. This is commonly achieved with a commercially available clavicular brace. This is ready made garment which can be taken off for short periods of hygienic purposes. It needs to be worn with certain tightness to be fully effective."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/7b9106a8db08f565c0de.jpg",
+          "alt": "Herbs and a small bottle of oil",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What I SHOULD NOT DO ??",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Apply any type of herbal oils/pastes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seek help of alternative medicine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mislead by advices of your nonmedical friends, family members forcing you to go for alternative medical treatment"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/dce55144f5392a1d3203.jpg",
+          "alt": "Clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will This Fracture Need Operation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Every fracture of this type will not need operation"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/4800135b1600f995f445.jpg",
+          "alt": "Container labelled plaster of Paris",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Should I Be Scared Of Plaster Of Paris"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not at all. The purpose of applying it is to help the body to keep the arm/leg still. This is similar to placing few strips of bamboo around the limb and wrapping it with a layer of cloth."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, plaster of Paris is far more superior to this. It can be molded to suit the size and the shape of the limb."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/79aea6f2fdd0e0266f5f.jpg",
+          "alt": "Child with question marks above their head",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Problems Can Arise ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This will depend on how bad the original injury"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Simple cracks heal without a problem. Stiffness of the elbow will go off with time or few sessions of physiotherapy",
+            "Results will be the same with manipulated and operated ones.",
+            "However a second operation may be needed if we think the deformity is not adequately corrected.",
+            "Sites where the pins go through the skin may get infected. This settles with antibiotics/creams",
+            "There will be residual stiffness which sometimes is much difficult to overcome.",
+            "It will take some time to get back to full range of elbow motion.",
+            "In rare cases calcium deposition may be seen around the elbow making it impossible to move the joint at all. It is not possible to predict who will get this. However it is commonly seen following application of herbal oils and pastes by bone setters."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c69164c2e31969f37ce7.jpg",
+          "alt": "Calendar illustration",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Is The Hospital Stay ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "2-3 days"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will It Take To Heal ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It heals in three weeks. Pins when used to fix the fracture will be taken off at 4-6 weeks."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d8bd3662517a0700f98a.jpg",
+          "alt": "Child wearing a superhero costume",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can The Activity Begun ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "As soon as the plaster half cast is removed, motion can be started."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/b03b118108960b76e59a.jpg",
+          "alt": "Child sitting beside a window with their face in their hand",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Will Happen With Alternative Treatment?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Chances of you getting one or many of the complication are very high."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fracture will heal in an awkward position giving the arm an abnormal shape and abnormal elbow movement."
+        },
+        {
+          "type": "paragraph",
+          "text": "The correction of such deformity will need a bigger operation. We may not be able to get back to 100% normal."
+        },
+        {
+          "type": "paragraph",
+          "text": "If reduced oxygen supply go unnoticed the forearm and hand with thin out with time and hand will developed contractures causing difficulties with finger movement."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/78936febda0ac01fd9e6.jpg",
+          "alt": "Doctor speaking on a telephone",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-children-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-elbow"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-wrist-hand"
+    }
+  ],
+  "archive": {
+    "source_id": "en-children-01",
+    "url": "https://orthopaedic.lk/shoulder-children/",
+    "file": "english/en-children-01.md",
+    "sha256": "a23314eead0ed59516e06818c2fb816c6498d5a32e1cd67d325abe77dcf66e2f",
+    "original_title": "Shoulder – Children",
+    "extracted_utc": "2026-10-24T18:30:48+00:00"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "si-children-walking-problems",
+  "title": "දරුවන්ගේ ඇවිදීමේ අසාමාන්යතා (ළමා)",
+  "summary": "දරුවන්ගේ ඇවිදීමේ අසාමාන්‍යතා සහ නොන්ඩි ගැසීම පිළිබඳ තොරතුරු.",
+  "category": "වර්ධනය හා ඇවිදීම",
+  "icon": "hip",
+  "lang": "si",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "hip",
+    "lower-leg",
+    "foot-ankle"
+  ],
+  "topics": [
+    "growth-walking"
+  ],
+  "keywords": [
+    "Gait abnormalities"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/81444d908f14c6d0f231.jpg",
+          "alt": "X-ray of a hand",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "දරුවන්ගේ ඇවිදීමේ අසාමාන්යතා",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/a1be25201f5c195fcb9a.jpg",
+          "alt": "Close-up of a child standing with their feet turned inwards",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "දරුවන්ගේ ඇවිදීමේ අසාමාන්යතා"
+        },
+        {
+          "type": "paragraph",
+          "text": "a . වේදනාකාරී නොන්ඩි ගැසීම \nඔබේ දරුවා ඇවිදින විට වේදනාවක් දැනෙයි නම්, නොන්ඩි ගසමින් ඇවිදියි නම් අප්රමාදව පරික්ෂා කරවා ගන්න. \nකොදු නාරටියේ, උකුල් සන්ධියේ, දණහිසේ සිදු වන රෝගයක් මෙයට හේතු කාරක විය හැක. \nb. වේදනාවෙන් තොරව නොන්ඩි ගැසීම \nමෙම ලක්ෂණ පෙන්නුම් කරන්නේ බොහෝ විට පාදයක අසාමාන්යතාවයක් මතයි, මෙයට හේතු ලෙස කකුලක \nදිගේ වෙනස්කම්, කකුලේ සන්ධි නිසි පරිදි නැවීම් හා දිග හැරීම් සිදු නොවීම, හෝ පේශි හා ස්නායු \nදුර්වලතාවය නිසා සිදුවිය හැක ."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-children-leg-deformities"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-overview"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-fractures"
+    }
+  ],
+  "archive": {
+    "source_id": "si-children-05",
+    "url": "https://orthopaedic.lk/දරුවන්ගේ-ඇවිදීමේ-අසාමාන්/",
+    "file": "sinhala/si-children-05.md",
+    "sha256": "4f11ecb32aca35b1696033ca0850ec51807b044644a62c6cb34b7ac64c840fc9",
+    "original_title": "දරුවන්ගේ ඇවිදීමේ අසාමාන්යතා (ළමා)",
+    "extracted_utc": "2026-10-24T18:33:51+00:00"
+  }
+}

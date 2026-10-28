@@ -1,0 +1,83 @@
+{
+  "id": "si-children-pains",
+  "title": "වේදනාවන් (ළමා)",
+  "summary": "දරුවන්ගේ අත් හා පාදවල වේදනාවන් පිළිබඳ තොරතුරු.",
+  "category": "වේදනාව හා ස්නායු ගැටලු",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "bones-joints",
+    "knee",
+    "lower-leg"
+  ],
+  "topics": [
+    "pain-nerve"
+  ],
+  "keywords": [
+    "Paediatric pains"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/81444d908f14c6d0f231.jpg",
+          "alt": "X-ray of a hand",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "වේදනාවන්",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/41b4754cc9579928738f.jpg",
+          "alt": "Child lying on grass and holding a knee",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "වේදනාවන්"
+        },
+        {
+          "type": "paragraph",
+          "text": "දරුවන්තුල දිගුකල් පවතින වේදනාවන් සුලභ නැත. බෙල්ලේ හා දණහිසේ වේදනාව මදක් සුලභව හමුවේ. එක් \nවැදගත් හේතුවක් වන්නේ අමතර ඉල ඇටයක් බෙල්ලේ පිහිටීම නිසා ස්නායු තෙරපීමකට ලක්වීමයි. මෙය ඇතිවූ විට, බෙල්ලේ හටගන්නා වේදනාව අත දිගේ පහලට ඇඟිලි දක්වා යන්නාක් සේ දැනේ. වෙවන් ලක්ෂණ තිබේනම්ප රීක්ෂා කරවා ගන්න දණහිසේ වේදනාව දණහිසේ හෝ උකුල හන්දියේ හෝ අභාදයකින් හට ගත හැක. ක්රීඩා කරන වයස 12-15 දරුවන්ගේ දණහිසට මදක් පහලින් ඇතිවන වේදනාවට සාර්ථක ප්රතිකාර ඇත. උකුල් සන්දියහි ඉදිමීම්, ලේ ගමනයේ අවහිරතා හෝ අස්ථි කොටස් ලිස්සා යාම නිසාද දණහිසේ වේදනාව හටගත් හැක. ඔබට ගැටළුවක් ඇත්නම් කරුණාකර අප අමතන්න."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-children-overview"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-complex-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-fractures"
+    }
+  ],
+  "archive": {
+    "source_id": "si-children-09",
+    "url": "https://orthopaedic.lk/වේදනාවන්/",
+    "file": "sinhala/si-children-09.md",
+    "sha256": "7dc191d4bd054a6598e71865aa784e580dec65b852ca7e5f9618e19ec486600e",
+    "original_title": "වේදනාවන් (ළමා)",
+    "extracted_utc": "2026-10-24T18:34:22+00:00"
+  }
+}

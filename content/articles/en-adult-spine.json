@@ -1,0 +1,184 @@
+{
+  "id": "en-adult-spine",
+  "title": "Spine – Adults",
+  "summary": "Spinal injuries and questions about assessment and treatment.",
+  "category": "Fractures & injuries",
+  "icon": "assessment",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "spine",
+    "neck"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Spinal injury"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/9b3f2df2f86441471308.jpg",
+          "alt": "Person holding a painful lower back",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "SPINE INJURY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Spine consists of set of vertebra arranged in four groups to support the skeleton at the back; Neck (7), the Chest (12), the Lumbar (5) region, and the sacrum which has a fused set of vertebra. The vertebrae are connected together by a disc which has a cushioning effect. The neck and the lumbar region are the most mobile part of the spine. The spinal cord runs down well protected within the canal of the spine. The cord sends out nerves at each vertebra."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/de9d29f05a0e037fca3c.jpg",
+          "alt": "Motorcyclist riding on a road",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How One Would Injure Spine ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The young people commonly injure their spines, most commonly after motor traffic accidents. Motor cyclists found to be the most vulnerable group. The neck of a passenger could be injured when the vehicle stops suddenly. The next reason would be fall from heights. Few more get neck injuries after diving into shallow waters, may be in a swimming pool, or any water where you exactly do not know the depth. Face hits the bottom upon landing, the neck goes into extremes of extension damaging the spinal cord in the neck."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/cbc9772793bb68985b13.jpg",
+          "alt": "Person sitting in a wheelchair outdoors",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Are The Dangers Of Spinal Injury ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Damages to the spine really make your body structure unstable. It can no longer support your body. The greatest danger is any damage to the spinal cord which lies within the spinal canal of the vertebral column. When the injury is so severe both the spine and the spinal cord could be damaged at the time of injury."
+        },
+        {
+          "type": "paragraph",
+          "text": "Also if the spine is damaged but the cord is not damaged at the time of injury, unprofessional handling of the injured could damage the spinal cord. (Eg transporting such a patient to hospital in a small vehicle.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "When the spinal cord is damaged at the neck level, your whole body is paralysed and when it is damaged at the lower back, your legs will be paralysed. Sensation will be diminished accordingly. At the same time bladder and bowel may go out of control."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/e4f448c58391d35d76ad.jpg",
+          "alt": "Illustration of vertebrae and an intervertebral disc",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Badly Can The Spine Be Damaged ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "We assume all injuries to the spine carry a great risk to damage the spinal cord until a doctor/a specialist proves there is no such risk of further damage. This is taken as a safety measure. In other words, a medical team will handle, lift, turn or transport such a patient with great care, not damaging the spinal cord."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are minor injuries to the spine where it will remain stable and will need some external support until the damage heals. The other groups of injuries have made the spinal column so unstable that it cannot stand on its own. This type of fractures need fixation of the spine with screws. This will protect any undamaged spinal cord. Fixation helps to mobilize the patient and to start rehabilitation."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will It Take The Fracture To Heal?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It will take about six weeks for the fracture to heal. However as the fracture is now fixed the patient can be moved around, allowed to sit and so on."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/29b178e158ea812bb3cb.jpg",
+          "alt": "Electrical spark between two cables",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will The Damage To The Spinal Cord Recover?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Minor damages to the cord will improve with rehabilitation. However serious damages will not recover. Therefore the affected area will remain paralyzed."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/49a9769737289c9b3e7b.jpg",
+          "alt": "Clinician helping a patient walk with crutches",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Are There Any Supportive Treatments?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes. There are many. The patient will be trained to maintain a good hygiene and some activities of daily living. Patient can be mobilized with help of a wheel chair. This type of training is done in rehabilitation centres."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+          "alt": "Clinician working at a laptop",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please feel free to contact us"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-elbow"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-12",
+    "url": "https://orthopaedic.lk/spine-adults/",
+    "file": "english/en-adult-12.md",
+    "sha256": "f58de41d841c4e78c4da4875fa6a40c05157d9866ea51d389269f92388f53668",
+    "original_title": "Spine – Adults",
+    "extracted_utc": "2026-10-24T18:30:27+00:00"
+  }
+}

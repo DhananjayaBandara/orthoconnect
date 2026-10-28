@@ -1,0 +1,99 @@
+{
+  "id": "si-children-leg-deformities",
+  "title": "කකුල් වල ඇද කුද (ළමා)",
+  "summary": "දරුවන්ගේ කකුල්වල ඇද කුද සහ පාද තබන ආකාරය පිළිබඳ තොරතුරු.",
+  "category": "වර්ධනය හා ඇවිදීම",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "lower-leg",
+    "knee",
+    "hip",
+    "foot-ankle"
+  ],
+  "topics": [
+    "growth-walking",
+    "limb-reconstruction"
+  ],
+  "keywords": [
+    "Leg deformities in children"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/fb926e3be225ce1a6762.jpg",
+          "alt": "Person holding a child's foot",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "කකුල් වල ඇද කුද",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/2fdd6e0799c2327c388d.jpg",
+          "alt": "Diagram illustrating leg alignment at the knees",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "කකුල් වල ඇද කුද"
+        },
+        {
+          "type": "paragraph",
+          "text": "a . කුඩා දරුවන් ඇවිදීමට පටන්ගන්නා අවදියේදී කකුල්වල ඇද බවක් පෙන්නුම් කරයි. කකුල් පළල්ව තබා ඇවිද යයි. මෙය සාමාන්ය තත්ත්වයකි. කකුල් මෙරීමත් සමග වයස අවුරුදු 1 සිට 5 දක්වා කාලය තුලදී ඈත්ව පිහිටි දණහිස් ලන් වීමටත් එකිනෙක ගැටෙමින් පැවැති දණහිස් ඈත් වී සාමාන්ය පෙනුම කරා ලඟා වේ. \nඑම තත්ත්වය දිගින් දිගටම පවතී නම් පමණක් ප්රතිකාර අවශ්ය වේ. මේ සඳහා විශේෂ සපත්තු පැළඳීම, \nශල්යකර්මයකට ලක් කිරීම මගින් කකුල් යථා තත්ත්වයට පත් කර ඇත. පාසල් යෑමට පෙර කකුල් සුවකිරීම \nඉලක්කයයි. විටමින් D උනතාවය, සවිෂක්තියෙන් මද අස්ථි නිසාද කකුල් බකල් වියහැක. වෛද්ය වරයකු හමු වී ඔබේ දරුවා පෙන්වා ගන්න."
+        },
+        {
+          "type": "paragraph",
+          "text": "b . පාදය ඇතුලට හරවා පා තබමින් ඇවිදින තත්වය / පැතලි යටිපතුලක් පිහිටීමද \nපාදය ඇතුලට හරවා පා තබමින් ඇවිදින තත්වයද සුලබව දක්නට ලැබේ. මෙම අබාදයද බොහොමයක් දරුවන්ගේ ස්වභාවයෙන්ම සාමාන්ය අතට හැරේ. උකුල සන්දිය හරිහැටි නොපිහිටීම, කකුලහි අස්ථිය ඇතුලට ඇඹරි තිබීම හා පදයේ මහපට ඇගිල්ල ඇතුලට නෙරා පිහිටීම නිසා මෙම තත්ත්වය හටගනී. තත්ත්වය පරීක්ෂා කරවා ගැනීම වැදගත් වේ."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a1be25201f5c195fcb9a.jpg",
+          "alt": "Close-up of a child standing with their feet turned inwards",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "c. පැතලි යටිපතුලක් පිහිටීමද ඇවිදීමට පටන් ගන්නා වයසේ දරුවන් තුල දැකිය හැක. මෙවැනි දරුවන් ඇවිදින \nවිට පාදය පිටතට හැරී පිහිටීමක් පෙන්නුම් කරයි. පාදය මෝරා වැඩෙන කාලය වන විට සාමාන්ය ස්වරුපය \nලැබෙ. කලාතුරකින් අසාමාන්ය පිහිටීමක් නිසාද පාද මෙලෙස පිහිටිය හැක. එමනිසා මෙම තත්ත්වය පරික්ෂා \nකරවා ගන්නේනම් මැනවි."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-children-overview"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-walking-problems"
+    }
+  ],
+  "archive": {
+    "source_id": "si-children-04",
+    "url": "https://orthopaedic.lk/කකුල්-වල-ඇද-කුද/",
+    "file": "sinhala/si-children-04.md",
+    "sha256": "421d97da6ac43e62fee5e8ed1682b56f33b0144e97a07959a358fac3ed91717a",
+    "original_title": "කකුල් වල ඇද කුද (ළමා)",
+    "extracted_utc": "2026-10-24T18:33:45+00:00"
+  }
+}

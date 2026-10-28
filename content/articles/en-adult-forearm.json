@@ -1,0 +1,345 @@
+{
+  "id": "en-adult-forearm",
+  "title": "Forearm – Adults",
+  "summary": "Fractures of the forearm near the elbow and along the radius and ulna.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "forearm",
+    "elbow"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Forearm and radius/ulna"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/941186c6621bd4cc339d.jpg",
+          "alt": "Person holding a painful forearm",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "FRACTURES OF THE FOREARM FRACTURES CLOSER TO THE ELBOW JOINT",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There are two bones in the forearm. One of the two bones (Ulna) is directly connected to the bone in the upper arm to make the elbow joint. The other bone (Radius) makes the wrist joint at the far end. The two bones make joints in between to allow turning of the hand upwards and downwards."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0aa151de803af0939990.jpg",
+          "alt": "Elbow X-ray with a circled area and legacy source marking",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Important Is This Fracture",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures of this part of the bone need to be operated to get back the normal function and activity back. Any other treatment will result in deformity and joint stiffness."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fracture may involve either of the bones or both. Sometimes fracture may be associated with elbow dislocation"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/99b31ab0981dca3fd706.jpg",
+          "alt": "Worker lying beside a ladder after a fall",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would You Sustain Fractures Of This Part Of The Bones",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It happens when you land on the elbow"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8a3ef7e0bd116fee4095.jpg",
+          "alt": "Woman considering yes and no options",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Can This Be Treated Without Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Unfortunately no. Fracture involving the part of the bone (Proximal ulna) making the elbow joint of needs to be aligned perfectly."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2dce90072c7d12df53ec.jpg",
+          "alt": "Two clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "It Is A Major Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "No. it is a minor operation when it is broken into two pieces. It can be fixed with two pins and a metal wire. Some fracture of this area need fixation with plates and screws in complex injuries."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/5c8bca5df86a26cb7d3b.jpg",
+          "alt": "Forearm and hand supported in a plaster cast",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Happen After The Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your arm will be further support with a plaster of Paris half cast for two weeks. You could go home in 1-2 days"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will It Take To Heal?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You will be fine in six weeks. Any residual lack of range of movement will improve slowly. This is the nature of elbow injuries \nThere will be a course of physiotherapy to improve the range of movement"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0ef02edb87dad905c97b.jpg",
+          "alt": "Woman looking at yes, no and maybe choices",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any Alternative Treatment For This",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "I have seen many patients with irreversibly damaged elbows following the application of oils and herbal pastes prescribed by traditional practitioners."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you have reached this stage, whatever the operation is done to correct the problem will make it worse. You will be left with a stiff elbow."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/128f98a56a06e48301bc.jpg",
+          "alt": "Drawing of a forearm plate and screws near the elbow",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment For Fracture Of The Radius Closer To The Elbow Joint?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This will depend on how badly it is broken. Simple fractures of the head can be fixed. However, if it is broken into many pieces, removal of the bone pieces will do well than keeping them. \nFracture of the bone is fixed with a plate and few screws."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/144c654c462db4a69856.jpg",
+          "alt": "Red exclamation mark indicating an important point",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Common Complications Of This Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually no significant complication"
+        },
+        {
+          "type": "heading",
+          "id": "subsection-01",
+          "text": "FRACTURES IN MIDDLE PART OF THE BONES"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are two bones in the forearm. One of the two bones (Ulna) is directly connected to the bone in the upper arm to make the elbow joint. The other bone (Radius) makes the wrist joint at the far end. The two bones make joints in between to allow turning of the hand upwards and downwards."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/1ea8006cf0c3ab77d8d3.jpg",
+          "alt": "Forearm X-ray showing a plate and screws",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Does It Occur ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "A violent direct blow to the forearm could break both bones. If you try to defend a blow may break one bone (Ulna). Falls and motor vehicle accidents are the common other causes."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/96e7e43bf940272e2f6f.jpg",
+          "alt": "Dice labelled high risk, low risk and no risk",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Are The Dangers Of This Injury",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The forearm two sets of muscles which moves your wrist and fingers. A crush to these muscles causes swelling of the forearm. The blood vessels and nerves that run between the muscles can get injured similarly."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/9c6d25acf65e9f50885f.jpg",
+          "alt": "Illustration highlighting bones at the elbow",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Badly Could It Break ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This depends on the amount of force the forearm is subjected to. The bones could be broken into two and maintain the normal shape of the bone. Or the pieces may separate. It could be broken into many fragments. One of the pieces could pierce the skin. \nThe forearm may look deformed, shortened, swollen, and bruised."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d0afed046e5a8636bebb.jpg",
+          "alt": "Person wearing an arm sling",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Could Be Done At The Scene Of The Injury ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You could splint the forearm incorporating the elbow and the wrist joint. \nSling it on the neck. Apply some ice. A simple pain killer may be given. Please do not give anything else to eat and drink until you are advised to do so by the attending doctor. \nMany patients want to eat patties, Chinese rolls with a malted/aerated drink! \nPlease take your medical records/pills you usually take along with you."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2dce90072c7d12df53ec.jpg",
+          "alt": "Two clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment For Collar Bone Fractures?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You and your arm will be assessed for additional problems other than fracture. X-rays will be done. The arm will be supported with a plaster half cast until your operation if any."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/06f370a750db4d68745e.jpg",
+          "alt": "Hourglass representing a period of time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long It Will Take To Heal?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Simple breaks/cracks in a bone are managed with plaster casts only. It will heal in six weeks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Breaks with angular deformity are corrected with hand manipulation under anesthetic."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the pieces are displaced it usually needs an operation and fixes the bone with plates and screws. \nThen the arm will be protected in a plaster slab until healing."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/f189e49439513a13baa5.jpg",
+          "alt": "Signpost marked good and better",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Opinion On Alternative Treatments ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "They do not know how to assess you and your arm. They do not know how to read an X-ray with a complex injury. It is likely if you are developing a complication/your injury pattern will be missed and incorrectly treated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bone with simple cracks will heal anyway. They just need a splint only for six weeks. Pulling of the broken arm is severely painful and inhuman thing to do. If the ends are separated they are NOT going to come back to normal. Please do not waste your time and suffer by opting for these."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please get advised by the qualified."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-elbow"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-wrist"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-04",
+    "url": "https://orthopaedic.lk/forearm-adults/",
+    "file": "english/en-adult-04.md",
+    "sha256": "e4de2f400e3a2579b8e09a47a44f3fd610b58507946129c40ed2535564ceef89",
+    "original_title": "Forearm – Adults",
+    "extracted_utc": "2026-10-24T18:28:47+00:00"
+  }
+}

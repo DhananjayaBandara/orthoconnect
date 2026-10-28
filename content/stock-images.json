@@ -1,0 +1,57 @@
+{
+  "license": "https://www.pexels.com/license/",
+  "images": {
+    "walking-together": {
+      "stem": "walking-together",
+      "pexels_id": "906111",
+      "source": "https://www.pexels.com/photo/old-couple-walking-while-holding-hands-906111/",
+      "photographer": "Noelle Otto",
+      "alt": "An older couple holding hands as they walk along a tree-lined path",
+      "context": "Illustrative lifestyle photograph; not patients or a treatment result",
+      "position": "center center"
+    },
+    "park-movement": {
+      "stem": "movement-in-the-park",
+      "pexels_id": "6039243",
+      "source": "https://www.pexels.com/photo/unrecognizable-woman-jogging-along-footpath-in-park-6039243/",
+      "photographer": "Enric Cruz López",
+      "alt": "A person jogging along a tree-lined park path",
+      "context": "Illustrative lifestyle photograph",
+      "position": "center 60%"
+    },
+    "everyday-movement": {
+      "stem": "everyday-movement",
+      "pexels_id": "5037293",
+      "source": "https://www.pexels.com/photo/legs-of-person-jogging-5037293/",
+      "photographer": "Ketut Subiyanto",
+      "alt": "Close-up of a person's legs and athletic shoes while jogging outdoors",
+      "context": "Illustrative lifestyle photograph",
+      "position": "center center"
+    },
+    "consultation-notes": {
+      "stem": "preparing-for-consultation",
+      "pexels_id": "9429448",
+      "source": "https://www.pexels.com/photo/opened-notebook-with-white-blank-pages-and-pen-on-table-9429448/",
+      "photographer": "Monstera Production",
+      "alt": "An open notebook and pen arranged on a desk",
+      "context": "Illustrative photograph",
+      "position": "center center"
+    },
+    "outdoor-walking": {
+      "stem": "walking-with-confidence",
+      "pexels_id": "8795584",
+      "source": "https://www.pexels.com/photo/elderly-woman-walking-on-a-park-8795584/",
+      "photographer": "Anastasia Shuraeva",
+      "alt": "An older woman walking outdoors with walking poles in a green park",
+      "context": "Illustrative lifestyle photograph",
+      "position": "center center"
+    }
+  },
+  "page_titles": {},
+  "article_previews": {
+    "en-adult-hip": "outdoor-walking",
+    "en-adult-knee": "everyday-movement"
+  },
+  "treatment_previews": {},
+  "placement_notes": "Decorative inner-page artwork is managed in content/design.json. The three procedure previews and their treatment reading pages use original procedure-specific SVG illustrations. Lifestyle photographs remain in mobility, preparation and article contexts. Stock photographs do not depict Dr. De Silva, his patients, facilities or treatment outcomes. Policies retain focused text layouts."
+}

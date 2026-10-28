@@ -1,0 +1,65 @@
+{
+  "id": "wound-care",
+  "title": "Wound care",
+  "category": "After surgery",
+  "icon": "shield",
+  "summary": "Clarify the instructions that apply to your own procedure.",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "consultation-notes",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this guide",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use these questions as a starting point for a conversation with your treating team."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "heading": "Questions to ask your treating team",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "What instructions apply to my dressing and wound?",
+            "Who should I contact if I am concerned?",
+            "When should my wound be reviewed?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "individual-instructions",
+      "heading": "Your individual instructions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Follow the individual instructions provided by your treating team."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS guide to having surgery",
+      "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "after-surgery"
+    },
+    {
+      "kind": "guides",
+      "id": "consultation-faq"
+    }
+  ]
+}

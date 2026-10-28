@@ -1,0 +1,44 @@
+{
+  "page_motifs": {
+    "About": "award",
+    "Conditions": "knee",
+    "Treatments": "hip",
+    "Patient Information": "assessment",
+    "Clinics & Appointments": "pin",
+    "Articles": "book",
+    "Contact": "calendar"
+  },
+  "treatment_illustrations": {
+    "hip-replacement": {
+      "src": "assets/illustrations/hip-replacement.svg",
+      "alt": "Stylised hip replacement illustration showing a socket cup, ball and stem",
+      "width": 640,
+      "height": 400,
+      "reference": "https://www.orthoinfo.org/treatment/total-hip-replacement/",
+      "origin": "Original SVG artwork for OrthoConnect",
+      "status": "draft",
+      "sha256": "0fe99f6825cbde4415266d71414bd519dd22b94888f03090de34730048bd2d5b"
+    },
+    "knee-replacement": {
+      "src": "assets/illustrations/knee-replacement.svg",
+      "alt": "Stylised knee replacement illustration showing upper and lower implant components with a spacer",
+      "width": 640,
+      "height": 400,
+      "reference": "https://www.orthoinfo.org/treatment/total-knee-replacement/",
+      "origin": "Original SVG artwork for OrthoConnect",
+      "status": "draft",
+      "sha256": "a872ac511b8705d58c22dfee6614231e6225a9c2b51a141990c6e7940283ce10"
+    },
+    "arthroscopy": {
+      "src": "assets/illustrations/arthroscopy.svg",
+      "alt": "Stylised arthroscopy illustration showing a slender camera instrument and a screen beside a knee joint",
+      "width": 640,
+      "height": 400,
+      "reference": "https://www.orthoinfo.org/treatment/knee-arthroscopy/",
+      "origin": "Original SVG artwork for OrthoConnect",
+      "status": "draft",
+      "sha256": "db1ac34b6f4c84abda66f5b19f8b255827547208841b8b5bac9fe50b61a3f7aa"
+    }
+  },
+  "illustration_provenance": "Original SVG topic artwork created for OrthoConnect, 28 October 2026. Primary references establish the broad subject; no third-party image was copied or traced. Simplified visual identifiers, not surgical instructions, implant product specifications or clinically approved anatomical diagrams. Educational review status is unchanged."
+}

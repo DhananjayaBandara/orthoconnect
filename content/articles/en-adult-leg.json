@@ -1,0 +1,477 @@
+{
+  "id": "en-adult-leg",
+  "title": "Leg – Adults",
+  "summary": "Tibia fractures near the knee and along the lower leg.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "lower-leg",
+    "knee"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Tibia/fibula and lower leg"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/f428ec842af61012434c.jpg",
+          "alt": "Person holding the upper part of a painful lower leg",
+          "lang": "en"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/e00cae58fb519e449640.jpg",
+          "alt": "X-ray of the upper tibia near the knee",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How It Happens",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The upper part of the tibia breaks when the leg goes to sideways when you fall. The same basics apply here. Everything depends on how bad was your fall. A slow impact will cause simple fractures while high energy impacts will break the bone into pieces."
+        },
+        {
+          "type": "paragraph",
+          "text": "The surrounding soft tissues (Skin, Muscles, blood vessels and nerves) will also be damaged"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d0277ac196b2ba00957f.jpg",
+          "alt": "Runner holding a painful knee outdoors",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Extent Of Injury"
+        },
+        {
+          "type": "paragraph",
+          "text": "The fracture opens into the knee joint most of the time. There will be disruption of the tibial surface of the joint. Bleeding into the knee will produce knee swelling."
+        },
+        {
+          "type": "paragraph",
+          "text": "There will be a chance of excessive swelling of the calf if blood vessels carrying oxygen to the leg are damaged or associated with a severe crushing."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0ebd914baee658b3b936.jpg",
+          "alt": "Green blocks spelling first aid",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "First Aids"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please try and keep the leg straight. You need to splint the leg from mid-thigh region to the ankle with a suitable device. Applying some ice will cool down the knee region."
+        },
+        {
+          "type": "paragraph",
+          "text": "You need to keep the limb elevated with some support all times"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please do not apply any ointments, warm herbal pastes over the injured area as they will damage/burn the skin."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may use a clean cloth/suitable dressing to cover any wounds Please do not give anything to drink and Eat until you are advised to do so by a medical professional."
+        },
+        {
+          "type": "paragraph",
+          "text": "Giving a pain killer with a sip of water is accepted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please take any medical records/medications alone with you."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0904ec845338f98dbef7.jpg",
+          "alt": "Patient entering a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Examination And Tests"
+        },
+        {
+          "type": "paragraph",
+          "text": "You and your leg will be examined. Any associated injury will be looked for."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your leg will be x-rayed. A CT scan will be done if details of the fracture deemed necessary. This will help in planning operation."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8a3ef7e0bd116fee4095.jpg",
+          "alt": "Woman considering yes and no options",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Big Operation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a safe operation. It will take about 90-120 minutes to fix the fracture. It can be done under a general or spinal anesthesia."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/dce55144f5392a1d3203.jpg",
+          "alt": "Clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Operation When And How"
+        },
+        {
+          "type": "paragraph",
+          "text": "Simple fractures could be operated without delay. The main operation will be delayed when there are swelling/wounds over the injured area."
+        },
+        {
+          "type": "paragraph",
+          "text": "Associated blood vessel injuries will need additional operations before fracture fixation. In such instances your leg will be fixed using an external metal frame which runs across the knee. The definitive fixation will wait until the wounds heal or the swelling settles."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2a41f19944c8d0f7eff9.jpg",
+          "alt": "X-ray showing a plate and screws near the knee",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Is It Fixed ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The main aim of the operation is to reconstruct the joint surface and then fix it to the shaft of the bone. You will have a cut at side of the upper part of the leg. There will be an additional cut at the inner side at the same level in complex fractures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minor breaks can be fixed screws. There are specially designed metal plates to fix fractures of this part of the bone. Few chips of bone (bone graft) may be taken from your waist (ilium) in certain occasions. Your leg will be supported with a plaster of Paris half cast."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/056da0bdfd9ece5edb13.jpg",
+          "alt": "Discharge order on a clipboard",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Going Home"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uncomplicated cases could be discharged in couple of days. However Some will need longer stays if wound complications occur or if they need additional treatment for other conditions."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/144c654c462db4a69856.jpg",
+          "alt": "Red exclamation mark indicating an important point",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Know Complications Of Injury"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are some complications of this injury. Stiffness of the knee is the commonest out of these. You could develop osteoarthritis of the knee."
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "FRACTURE OF THE BONE IN THE LEG (TIBIA)",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/eb6e44c969ebab56f29e.jpg",
+          "alt": "Ankle X-ray showing fixation hardware",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Does It Break ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Tibia is the main bone in the leg. It takes part in making the knee joint at the top and the ankle joint at the bottom. It lies just under the skin (Shin).Fracture of the tibia occurs after high energy trauma in the young adults. This is commonly seen after motor bike accidents in Sri Lanka. It can break easily in the elderly after a simple fall. Bone injury may damage other tissues around it. Major blood vessel injury and nerve injury are very important out of these. High energy trauma will breach the skin and commonly lead to an open fracture where bone end could be exposed to the environment."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d6751f11d5fcd0aaf66c.jpg",
+          "alt": "Lower leg supported in a plaster cast",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Was It Treated In The Past?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Older days when a proper orthopaedic service and fracture fixation methods were not well developed, the patients were treated without operation. The fractures were usually managed in a plaster of Paris cast/slab. Plaster of Paris provides the function of wooden strips used in indigenous treatment. If you leave this fracture for three months immobilized, it will heal. The patients were kept bed bound for three months. There were lots of plaster related complications. Fractures healed with this method with the expense of shortening of the limb and various deformities. Some fracture did not heal at all. In this way, it will take about four to five months before someone walks again."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/3ee1cbafc392e3c30c27.jpg",
+          "alt": "Person holding a crutch",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Are We Still The Same ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "NO. Fortunately, fracture of the shaft of tibia treatment has evolved so much that the fracture can be fixed under 30 minutes. Patient could start walking as early as next day with a help of a walking frame or pair of crutches"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a847e409f026537e2fb0.jpg",
+          "alt": "Clinician holding a stopwatch",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Why Should This Fracture Fixed Without Delay?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "We want you to be up and about as soon as possible. Next point is we want you to be back in your normal level of activities and get back to your job as early as possible. Why should you waste time, waste three months for your life, when there is a very good and guaranteed treatment option is available. You will hardly get mal alignments and shortening of the leg."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/184f8e078dc131d8e172.jpg",
+          "alt": "Blood being collected into a sample tube",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will I Be Subjected To More Tests?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You will only need plain Xrays for this. However your blood will be checked as required."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/dce55144f5392a1d3203.jpg",
+          "alt": "Clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It A Big Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is a major operation but done in a smaller way. Most of the time, it can be done with a cut (2-3 inches) just below your knee cap. In difficult cases there may be an additional cut in outer mid-calf area"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/192342d10d3f27691d1e.jpg",
+          "alt": "Lower-leg X-ray showing a metal rod",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is Used To Fix This Fracture?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The latest modern way of fixation is with a intramedullary locking nail (This a metal tube sent inside the canal of the leg bone)"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/660dd9e9183d9cb9e782.jpg",
+          "alt": "Syringe and medicine vial",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Which Part Of The Bone Can Be Fixed This Way ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Many fracture types of the shaft of the bone"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/660dd9e9183d9cb9e782.jpg",
+          "alt": "Syringe and medicine vial",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Type Of Anaesthesia Is Used For This Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Please read modes of anesthesia for lower limb surgery"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ca6fab4ab68a67fb2eea.jpg",
+          "alt": "Lower leg and foot supported in a plaster cast",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will There Be A Plaster Of Paris Slab/Cast Applied After The Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "No"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/9689ee8bc1668e9bb072.jpg",
+          "alt": "Close-up of the face of a clock",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Should I Be In The Hospital?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is usually a two-three nights stay."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/3ee1cbafc392e3c30c27.jpg",
+          "alt": "Person holding a crutch",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Start Walking?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "With simple breaks of the shaft, you could be walking very next day with help of a walking frame. There may be a little delay to walk if you have a complex fracture."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/3dc0915b2b98c3b107fc.jpg",
+          "alt": "Clinician examining a patient's knee",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Is The Wound Check After Discharge?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your wound needs checking in a week and then at two weeks. Sutures, clips are taken out at this time approximately."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will It Take The Fracture To Heal?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is around 8-10 weeks. It heals without any limb shortening or deformity."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ddcc8b3560fe53497956.jpg",
+          "alt": "Metal rod used for fixation inside a long bone",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will The Nail Need Removal?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Well, usually not unless indicated to do so. It can be kept lifelong without a problem. We will leave it in place minimum of 18 months before removal."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/09d47d9ce6cc676f64bd.jpg",
+          "alt": "Office workers stretching together",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will I Be Able To Walk Through Body Scanners At Air Ports Without A Problem?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This is very common question. Do not worry. It will not be a problem."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-thigh"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-knee"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-09",
+    "url": "https://orthopaedic.lk/leg-adults/",
+    "file": "english/en-adult-09.md",
+    "sha256": "c326de74012ed3ffbef5c8dbaa55d8a678a34237e8ad796325363361db50fab8",
+    "original_title": "Leg – Adults",
+    "extracted_utc": "2026-10-24T18:29:55+00:00"
+  }
+}

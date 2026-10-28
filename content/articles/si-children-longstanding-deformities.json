@@ -1,0 +1,82 @@
+{
+  "id": "si-children-longstanding-deformities",
+  "title": "දිඟු කාලීනව පවතින අන්ගවිල්කලතාවයන් (ළමා)",
+  "summary": "දරුවන්ගේ දිගුකාලීන අංගවිකලතා පිළිබඳ තොරතුරු.",
+  "category": "ඇද කුද හා අස්ථි සුව වීම",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "bones-joints"
+  ],
+  "topics": [
+    "limb-reconstruction",
+    "growth-walking"
+  ],
+  "keywords": [
+    "Longstanding deformities"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/81444d908f14c6d0f231.jpg",
+          "alt": "X-ray of a hand",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "දිඟු කාලීනව පවතින අන්ගවිල්කලතාවයන්",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/2fdd6e0799c2327c388d.jpg",
+          "alt": "Diagram illustrating leg alignment at the knees",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "දිඟු කාලීනව පවතින අන්ගවිල්කලතාවයන්"
+        },
+        {
+          "type": "paragraph",
+          "text": ". උපතේදී පැවති අත් හා පදයන්ගේ දිගෙහි වෙනස්කම්, හන්දි නැමෙන ප්රමාණයේ සීමාවන්, කුඩාකල නිසි \nප්රතිකාර වලට යොමුනොවීම හෝ නොලැබීම නිසා තවමත් පවතින පිහිටීම් වලට ප්රතිකාර ලබාදිය හැක. \nඅලුත උපන් දරුවන්ගේ මොලයට oxygen නොලැබීම, මොලයේ ආසාදන හා ඉපදීමේදී ඇතිවූ සන්කුඋලතා \nනිසාවෙන්, දැනට ඇවිදීමේ දුෂ්කරතා ඇති ළමුන්ට ද ප්රතිකාර කෙරේ. වැඩිදුර විස්තර සඳහා අප අමතන්න."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-children-overview"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-complex-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-infant-problems"
+    }
+  ],
+  "archive": {
+    "source_id": "si-children-10",
+    "url": "https://orthopaedic.lk/දිඟු-කාලීනව-පවතින-අන්ගවි/",
+    "file": "sinhala/si-children-10.md",
+    "sha256": "5ea172c74b2edf8c5ed56361f7bb9bff267ecb9964832f72ca586536ca3963b6",
+    "original_title": "දිඟු කාලීනව පවතින අන්ගවිල්කලතාවයන් (ළමා)",
+    "extracted_utc": "2026-10-24T18:34:27+00:00"
+  }
+}

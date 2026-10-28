@@ -1,0 +1,326 @@
+{
+  "id": "en-adult-knee",
+  "title": "Knee – Adults",
+  "summary": "Knee dislocation and fractures of the kneecap.",
+  "category": "Joint dislocations",
+  "icon": "knee",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "knee"
+  ],
+  "topics": [
+    "dislocations",
+    "fractures"
+  ],
+  "keywords": [
+    "Adult knee"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/d390fbf5392897f3abf5.jpg",
+          "alt": "Person holding a painful knee",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "KNEE DISLOCATION",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/3770c95048e30323776f.jpg",
+          "alt": "Knee X-ray with the kneecap circled and legacy source marking",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would The Knee Dislocate?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You knee may dislocate to the front, back and sides. However the commonly seen type is the knee dislocating to the back. For a knee to dislocated there has to be damaged to three out of four ligaments which hold the knee in place while you walk. The knee cap too can be a fracture in knee dislocations."
+        },
+        {
+          "type": "paragraph",
+          "text": "A violent force acting on the knee when it is bent to 90 degrees will dislocate to the back."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c6ba87b62d44f1ddafb6.jpg",
+          "alt": "Diagram labelling the kneecap, ligaments and menisci",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Else Could Get Injured?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Blood vessels and nerves that serve the leg, ankle and foot run just behind the knee. They could get damaged with this injury. The damage could be over stretching, partial tear or complete separation."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d27fc1292e20eefad675.jpg",
+          "alt": "Man reacting to pain in his knee",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Are There Immediate Complications?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your leg/knee will look deformed. You will not be able to move it."
+        },
+        {
+          "type": "paragraph",
+          "text": "If oxygen supply to the leg is compromised, the leg will swell. The toes and foot feel numb. There will be excruciating pain."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c054bcad9474860b736e.jpg",
+          "alt": "Lower leg and foot supported in a plaster cast",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Initial Treatment?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your knee will be relocated to its normal position without delay and supported in a plaster of Paris half cast."
+        },
+        {
+          "type": "paragraph",
+          "text": "In certain occasions it could be fixed to a metal frame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Damage to blood vessels and nerve will require additional investigations and surgical procedures which are done urgently."
+        },
+        {
+          "type": "paragraph",
+          "text": "The definitive treatment for knee dislocation could wait till these procedures are complete."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0904ec845338f98dbef7.jpg",
+          "alt": "Patient entering a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Definitive Treatment?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The knee is managed with plaster of Paris slab initially. The knee can be mobilized in a hinged knee brace. Knee bending is started with this."
+        },
+        {
+          "type": "paragraph",
+          "text": "Any remaining instability will be addressed as required.",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Two ligaments inside the joint can be repaired by a keyhole surgical procedure."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d9a54429b6a18c6e52e2.jpg",
+          "alt": "Surgical team working in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It A Big Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "NO other treatment for this. I have heard native physicians pull the joint and put it back. This is a very painful thing to do. Why do you want to suffer when it can be done pain-free. In some cases it will not come back in place. They do not know how to confirm repositioning. Many patients are mistreated this way."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Time Periods Of Recovery ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Initial immobilization will be about six weeks. You will need another period of six weeks for physiotherapy before being fully functional"
+        },
+        {
+          "type": "heading",
+          "id": "subsection-01",
+          "text": "FRACTURES OF THE KNEECAP"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a0db29efcd225789ca54.jpg",
+          "alt": "Close-up of a knee during a surgical procedure",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Will The Knee Break ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This is another common injury. Your kneecap will break if you land on your knee or as a dashboard injury."
+        },
+        {
+          "type": "paragraph",
+          "text": "The knee will swell as it bleeds into the knee joint. It usually breaks into two pieces. In severe injuries there could be many pieces."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some occasions the bone may break at its poles"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/bcaf322ab2945e24d813.jpg",
+          "alt": "Kneecap X-ray showing fixation wires",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It A Serious Operation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is a minor operation. There will be a cut about 4 inches over the kneecap. Operation will take about 30-40 minutes. Your leg will be supported with a plaster half cast."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8ea32a424365272bc74a.jpg",
+          "alt": "Doctor talking with a patient beside a bed",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will There Be A Long Hospital Stay?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You will be discharged next day after the operation."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d933b092318dcebac964.jpg",
+          "alt": "Person holding a walking frame",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Is The Plaster Removal? When Can I Walk ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "We will keep the plaster for about three weeks. Then you are allowed to start knee movements. You will be walking at six weeks with a walking aid."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/584a980da397b34d5a58.jpg",
+          "alt": "Metal nail bent by a hammer",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Does The Metal Work Need To Come Out ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The wire and pins are taken out at 9-12 months after surgery"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/57717ed2ac274c7b24ec.jpg",
+          "alt": "Clinician examining a patient's knee",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Are There Complications Of This Operation ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Knee stiffness is the commonest of all. It will improve with physiotherapy"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/68fbbe676482b573cca3.jpg",
+          "alt": "Road sign labelled choices",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any Other Promising Form Of Treatment ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "No alternative treatment will work. Surgery without delay will be the best option."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+          "alt": "Clinician working at a laptop",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-thigh"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-leg"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-08",
+    "url": "https://orthopaedic.lk/knee-adults/",
+    "file": "english/en-adult-08.md",
+    "sha256": "8b25071a5beb422e06ba21d3aa20038125406d48523aca23dfa48ee5a792a6b6",
+    "original_title": "Knee – Adults",
+    "extracted_utc": "2026-10-24T18:29:37+00:00"
+  }
+}

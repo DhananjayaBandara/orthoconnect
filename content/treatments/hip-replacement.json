@@ -1,0 +1,56 @@
+{
+  "id": "hip-replacement",
+  "title": "Hip replacement",
+  "category": "Hip",
+  "icon": "hip",
+  "summary": "Specialist assessment for hip replacement and hip conditions.",
+  "related": "conditions.html#hip",
+  "relatedLabel": "Related hip condition information",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hip surgery and joint replacement are areas of Dr. De Silva’s practice. Consultations include assessment for hip replacement and treatment planning for hip fractures."
+        }
+      ]
+    },
+    {
+      "id": "discussion",
+      "heading": "Discussing your options",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "His fellowship experience included hip reconstruction and joint replacement. At consultation, discuss the assessment, possible treatment options and questions relevant to your situation."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS hip replacement information",
+      "url": "https://www.nhs.uk/tests-and-treatments/hip-replacement/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-adult-hip-replacement"
+    },
+    {
+      "kind": "guides",
+      "id": "preparing-for-surgery"
+    },
+    {
+      "kind": "guides",
+      "id": "after-surgery"
+    }
+  ]
+}

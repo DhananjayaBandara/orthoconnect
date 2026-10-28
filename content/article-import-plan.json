@@ -1,0 +1,661 @@
+{
+  "imports": [
+    {
+      "source_id": "en-adult-01",
+      "id": "en-adult-shoulder",
+      "summary": "Shoulder dislocation and collarbone fractures in adults.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "shoulder"
+      ],
+      "topics": [
+        "fractures",
+        "dislocations"
+      ]
+    },
+    {
+      "source_id": "en-adult-02",
+      "id": "en-adult-upper-arm",
+      "summary": "Fractures near the shoulder, along the upper arm and near the elbow.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "upper-arm",
+        "shoulder",
+        "elbow"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-03",
+      "id": "en-adult-elbow",
+      "summary": "Elbow dislocation and injuries around the adult elbow joint.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "elbow"
+      ],
+      "topics": [
+        "dislocations",
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-04",
+      "id": "en-adult-forearm",
+      "summary": "Fractures of the forearm near the elbow and along the radius and ulna.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "forearm",
+        "elbow"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-05",
+      "id": "en-adult-wrist",
+      "summary": "Fractures near the wrist and questions about assessment and treatment.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "wrist-hand",
+        "forearm"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-06",
+      "id": "en-adult-hip",
+      "summary": "Adult hip fractures and questions about their treatment.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "hip"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-07",
+      "id": "en-adult-thigh",
+      "summary": "Femur fractures along the thigh and near the knee joint.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "thigh",
+        "knee"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-08",
+      "id": "en-adult-knee",
+      "summary": "Knee dislocation and fractures of the kneecap.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "knee"
+      ],
+      "topics": [
+        "dislocations",
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-09",
+      "id": "en-adult-leg",
+      "summary": "Tibia fractures near the knee and along the lower leg.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "lower-leg",
+        "knee"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-10",
+      "id": "en-adult-foot-ankle",
+      "summary": "Ankle fractures, foot concerns and questions about treatment.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "foot-ankle"
+      ],
+      "topics": [
+        "fractures",
+        "foot-ankle-surgery"
+      ]
+    },
+    {
+      "source_id": "en-adult-11",
+      "id": "en-adult-pelvis",
+      "summary": "Pelvic fractures and associated injuries.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "pelvis"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-adult-12",
+      "id": "en-adult-spine",
+      "summary": "Spinal injuries and questions about assessment and treatment.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "spine",
+        "neck"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-children-01",
+      "id": "en-children-shoulder",
+      "summary": "Shoulder, upper-arm and elbow-region fractures in children.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "shoulder",
+        "upper-arm",
+        "elbow"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-children-02",
+      "id": "en-children-elbow",
+      "summary": "Fractures around the elbow in children.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "elbow"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-children-03",
+      "id": "en-children-upper-arm",
+      "summary": "Children’s humerus and supracondylar fractures, with treatment questions.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "upper-arm",
+        "shoulder",
+        "elbow"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-children-04",
+      "id": "en-children-wrist-hand",
+      "summary": "Wrist fractures and questions about children’s hand and wrist injuries.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "wrist-hand",
+        "forearm"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-children-05",
+      "id": "en-children-knee",
+      "summary": "Kneecap dislocation in children.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "knee"
+      ],
+      "topics": [
+        "dislocations"
+      ]
+    },
+    {
+      "source_id": "en-children-06",
+      "id": "en-children-foot-ankle",
+      "summary": "Fractures around the foot and ankle in children.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "foot-ankle"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "en-children-07",
+      "id": "en-children-leg",
+      "summary": "Tibia fractures in children’s lower legs.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "lower-leg"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "si-adult-01",
+      "id": "si-adult-fractures",
+      "summary": "වැඩිහිටියන්ගේ අත් හා පාදවල අස්ථි බිඳීම් පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "shoulder",
+        "upper-arm",
+        "elbow",
+        "forearm",
+        "wrist-hand",
+        "hip",
+        "thigh",
+        "knee",
+        "lower-leg",
+        "foot-ankle"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "si-adult-02",
+      "id": "si-adult-hip-replacement",
+      "summary": "උකුල සන්ධිය මාරු කිරීම පිළිබඳ පොදු ප්‍රශ්න හා තොරතුරු.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "hip"
+      ],
+      "topics": [
+        "joint-replacement"
+      ]
+    },
+    {
+      "source_id": "si-adult-03",
+      "id": "si-adult-knee-replacement",
+      "summary": "දණහිස සන්ධිය මාරු කිරීම පිළිබඳ පොදු ප්‍රශ්න හා තොරතුරු.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "knee"
+      ],
+      "topics": [
+        "joint-replacement"
+      ]
+    },
+    {
+      "source_id": "si-adult-04",
+      "id": "si-adult-common-pains",
+      "summary": "ගෙල, උරහිස, වැලමිට, මැණික් කටුව, කොන්ද හා විලුඹ ආශ්‍රිත වේදනාවන් පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "neck",
+        "shoulder",
+        "elbow",
+        "wrist-hand",
+        "spine",
+        "foot-ankle"
+      ],
+      "topics": [
+        "pain-nerve"
+      ]
+    },
+    {
+      "source_id": "si-adult-05",
+      "id": "si-adult-complex-fractures",
+      "summary": "සංකීර්ණ අස්ථි බිඳීම් සහ ඉලිසාරොව් රාමුව භාවිතය පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "adult",
+        "children"
+      ],
+      "body_regions": [
+        "lower-leg",
+        "thigh",
+        "bones-joints"
+      ],
+      "topics": [
+        "fractures",
+        "limb-reconstruction"
+      ]
+    },
+    {
+      "source_id": "si-adult-06",
+      "id": "si-adult-foot-ankle-surgery",
+      "summary": "පාදය හා වළලුකර ආශ්‍රිත ගැටලු සහ ශල්‍යකර්ම පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "foot-ankle"
+      ],
+      "topics": [
+        "foot-ankle-surgery",
+        "pain-nerve"
+      ]
+    },
+    {
+      "source_id": "si-adult-07",
+      "id": "si-adult-deformity-correction",
+      "summary": "අත් හා පාදවල ඇද කුද සහ ඒවා නිවැරදි කිරීම පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "shoulder",
+        "upper-arm",
+        "elbow",
+        "forearm",
+        "wrist-hand",
+        "hip",
+        "thigh",
+        "knee",
+        "lower-leg",
+        "foot-ankle"
+      ],
+      "topics": [
+        "limb-reconstruction"
+      ]
+    },
+    {
+      "source_id": "si-adult-08",
+      "id": "si-adult-unhealed-fractures",
+      "summary": "නිසි ලෙස සුව නොවූ අස්ථි බිඳීම් පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "bones-joints"
+      ],
+      "topics": [
+        "fractures",
+        "limb-reconstruction"
+      ]
+    },
+    {
+      "source_id": "si-adult-09",
+      "id": "si-adult-osteoporosis",
+      "summary": "අස්ථි දුර්වල වීම, ඔස්ටියෝපොරෝසිස් සහ අස්ථි ඝනත්ව පරීක්ෂණ පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "adult"
+      ],
+      "body_regions": [
+        "bones-joints",
+        "spine",
+        "hip",
+        "wrist-hand",
+        "shoulder"
+      ],
+      "topics": [
+        "bone-health",
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "si-children-01",
+      "id": "si-children-infant-problems",
+      "summary": "ළදරුවන්ගේ පාද හා ඇඟිලි ආශ්‍රිත උපතින් ඇති ගැටලු පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "foot-ankle",
+        "wrist-hand"
+      ],
+      "topics": [
+        "growth-walking",
+        "limb-reconstruction"
+      ]
+    },
+    {
+      "source_id": "si-children-02",
+      "id": "si-children-fractures",
+      "summary": "දරුවන්ගේ විවිධ වයස් කාණ්ඩවල අස්ථි බිඳීම් පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "shoulder",
+        "upper-arm",
+        "elbow",
+        "forearm",
+        "wrist-hand",
+        "hip",
+        "thigh",
+        "knee",
+        "lower-leg",
+        "foot-ankle"
+      ],
+      "topics": [
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "si-children-03",
+      "id": "si-children-dislocations",
+      "summary": "දරුවන්ගේ සන්ධි පැනීම් පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "bones-joints"
+      ],
+      "topics": [
+        "dislocations"
+      ]
+    },
+    {
+      "source_id": "si-children-04",
+      "id": "si-children-leg-deformities",
+      "summary": "දරුවන්ගේ කකුල්වල ඇද කුද සහ පාද තබන ආකාරය පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "lower-leg",
+        "knee",
+        "hip",
+        "foot-ankle"
+      ],
+      "topics": [
+        "growth-walking",
+        "limb-reconstruction"
+      ]
+    },
+    {
+      "source_id": "si-children-05",
+      "id": "si-children-walking-problems",
+      "summary": "දරුවන්ගේ ඇවිදීමේ අසාමාන්‍යතා සහ නොන්ඩි ගැසීම පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "hip",
+        "lower-leg",
+        "foot-ankle"
+      ],
+      "topics": [
+        "growth-walking"
+      ]
+    },
+    {
+      "source_id": "si-children-06",
+      "id": "si-children-bone-tumours",
+      "summary": "දරුවන්ගේ අස්ථි තුළින් හටගන්නා ගෙඩි පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "bones-joints"
+      ],
+      "topics": [
+        "bone-tumours"
+      ]
+    },
+    {
+      "source_id": "si-children-07",
+      "id": "si-children-infections",
+      "summary": "දරුවන්ගේ අස්ථි හා සන්ධිවල ආසාදන පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "bones-joints"
+      ],
+      "topics": [
+        "infections"
+      ]
+    },
+    {
+      "source_id": "si-children-08",
+      "id": "si-children-spinal-deformities",
+      "summary": "දරුවන්ගේ කොඳු නාරටියේ ඇද වීම් පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "spine"
+      ],
+      "topics": [
+        "growth-walking",
+        "limb-reconstruction"
+      ]
+    },
+    {
+      "source_id": "si-children-09",
+      "id": "si-children-pains",
+      "summary": "දරුවන්ගේ අත් හා පාදවල වේදනාවන් පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "bones-joints",
+        "knee",
+        "lower-leg"
+      ],
+      "topics": [
+        "pain-nerve"
+      ]
+    },
+    {
+      "source_id": "si-children-10",
+      "id": "si-children-longstanding-deformities",
+      "summary": "දරුවන්ගේ දිගුකාලීන අංගවිකලතා පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "bones-joints"
+      ],
+      "topics": [
+        "limb-reconstruction",
+        "growth-walking"
+      ]
+    },
+    {
+      "source_id": "si-children-11",
+      "id": "si-children-previous-treatment",
+      "summary": "දරුවන්ගේ අස්ථි හා සන්ධි තුවාලවලට කළ පෙර ප්‍රතිකාරවලින් පසු ඇති ගැටලු පිළිබඳ තොරතුරු.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "bones-joints"
+      ],
+      "topics": [
+        "previous-treatment",
+        "fractures"
+      ]
+    },
+    {
+      "source_id": "si-overview-01",
+      "id": "si-children-overview",
+      "summary": "ළදරු ගැටලු, අස්ථි බිඳීම්, ඇවිදීම සහ අනෙකුත් ළමා අස්ථි හා සන්ධි මාතෘකා සඳහා මඟපෙන්වීමක්.",
+      "audiences": [
+        "children"
+      ],
+      "body_regions": [
+        "shoulder",
+        "upper-arm",
+        "elbow",
+        "forearm",
+        "wrist-hand",
+        "hip",
+        "thigh",
+        "knee",
+        "lower-leg",
+        "foot-ankle",
+        "spine",
+        "bones-joints"
+      ],
+      "topics": [
+        "growth-walking",
+        "fractures",
+        "dislocations",
+        "limb-reconstruction",
+        "pain-nerve",
+        "bone-tumours",
+        "infections",
+        "previous-treatment"
+      ]
+    }
+  ],
+  "retired_articles": [
+    "fracture-surgery-questions",
+    "hip-replacement-expectations",
+    "knee-pain-assessment",
+    "knee-replacement-questions",
+    "ligament-injury-questions"
+  ]
+}

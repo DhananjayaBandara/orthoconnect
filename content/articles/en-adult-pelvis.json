@@ -1,0 +1,154 @@
+{
+  "id": "en-adult-pelvis",
+  "title": "Pelvis – Adults",
+  "summary": "Pelvic fractures and associated injuries.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "pelvis"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Pelvis fractures"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/c6ba226a073d1bc95621.jpg",
+          "alt": "Person holding the lower abdomen and hip region",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "PELVIS",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Your pelvis is the bridge between the spine and the lower limbs. It looks like a boney basin made up of three bones, and has three joints; one in front and two in the back. The hips lie on the sides. The pelvic cavity accommodates your bladder and lower part of the large bowel. It also contains the uterus and ovaries in females."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/16fe1245489e78b010d7.jpg",
+          "alt": "Diagram showing the pelvis and labelled fracture sites",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could You Get A Pelvic Injury ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The pelvis could sustain many forms of injuries. It has to be compressed to break in one or more places. Think if you were caught between a wall and a reversing vehicle (the commonest scenario). The compression may be in the direction of front-to –back or side to side."
+        },
+        {
+          "type": "paragraph",
+          "text": "Depending on how severe is the impaction; the bones could break into one or more pieces. The joints may disrupt in combination. The hip joints may dislocate if a fracture involves the joint."
+        },
+        {
+          "type": "paragraph",
+          "text": "The pieces of bone may stick and injure the bowel, bladder, urine flow tract. Fractures of the pelvis bleed a lot as there are many, many blood vessels lie inside and around the bone. It could bleed up to 60% of your blood volume. This could make you critically ill."
+        },
+        {
+          "type": "paragraph",
+          "text": "The joints in the pelvis could disrupt during childbirth; Most commonly the joint in the font."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ea2080c0252ab458aa00.jpg",
+          "alt": "Pelvic X-ray showing fixation plates and screws",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could These Be Treated ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "If this type of injury is suspected, especially when you are subjected to an accident described above, you will be examined thoroughly to see any evidence of this injury patterns. Xrays will be taken. Sometimes a CT scan is done to see the fracture in detail."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your condition is critical, the pelvis fill be temporally stabilized with a clothing wrap around the hips, and your legs. Once you are seasonably stable, the pelvis will be temporarily fixed with a externally placed metal frame. This will help to control internal bleeding."
+        },
+        {
+          "type": "paragraph",
+          "text": "The pelvic fractures are now mostly fixed with plates and screws rather than waiting for months for fractures to heal on its own which invariably leads to healing of bony fragments in abnormal position, limb shortening and walking difficulties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fixation of pelvic fractures has the greatest advantages of getting back the normal shape of the bone, The patient can be mobilized very early after the operation, start walking within few days and go home. The non-operative methods of treatment require you to be bedbound for 6-8 weeks. You cannot walk for about 12 weeks. There are many other complications of lying still on the bed."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2cc2ec396307cb1569b2.jpg",
+          "alt": "Anatomical model of organs inside the pelvis",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Other Organs And Structures Can Be Damaged?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Most commonly damaged structure is the urine flow tract which runs from the urinary bladder to the exterior. As urine cannot come out through the normal route, a urine catheter is placed into the bladder at the lower part of the abdomen. A urological surgeon will look into this problem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Similarly, lower part of the bowel, vagina and uterus can be injured. Nerves that serve lower limbs may be damaged as they come out of the pelvis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Damage to these organs, structures will need additional treatment."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+          "alt": "Clinician working at a laptop",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-elbow"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-11",
+    "url": "https://orthopaedic.lk/pelvis-adults/",
+    "file": "english/en-adult-11.md",
+    "sha256": "0571bcbfc7a0926bc21a527db0335017179e36d37fe8e61a124f126db7257a52",
+    "original_title": "Pelvis – Adults",
+    "extracted_utc": "2026-10-24T18:30:18+00:00"
+  }
+}

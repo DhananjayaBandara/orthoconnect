@@ -1,0 +1,65 @@
+{
+  "id": "rehabilitation",
+  "title": "Physiotherapy & rehabilitation",
+  "category": "Rehabilitation",
+  "icon": "assessment",
+  "summary": "Discuss the recovery support appropriate to your treatment.",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "park-movement",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this guide",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use these questions as a starting point for a conversation with your treating team."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "heading": "Questions to ask your treating team",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Will I need a rehabilitation or physiotherapy plan?",
+            "Who will provide the instructions that apply to me?",
+            "How will my progress and follow-up be reviewed?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "individual-instructions",
+      "heading": "Your individual instructions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Follow the individual instructions provided by your treating team."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS guide to having surgery",
+      "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "walking"
+    },
+    {
+      "kind": "guides",
+      "id": "return-to-activity"
+    }
+  ]
+}

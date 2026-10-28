@@ -1,0 +1,52 @@
+{
+  "id": "fracture-care",
+  "title": "Fracture & trauma care",
+  "category": "Trauma",
+  "icon": "fracture",
+  "summary": "Assessment and treatment planning for fractures and orthopaedic injuries.",
+  "related": "conditions.html#fractures-trauma",
+  "relatedLabel": "Related fracture information",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "consultation-notes",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dr. De Silva’s practice includes fracture and orthopaedic trauma care: assessment and treatment planning for injuries affecting bones and joints."
+        }
+      ]
+    },
+    {
+      "id": "discussion",
+      "heading": "Discussing your options",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Difficult fracture healing and selected limb-reconstruction problems are also areas of practice. Specific treatment and surgical decisions require an individual assessment."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-adult-fractures"
+    },
+    {
+      "kind": "guides",
+      "id": "walking"
+    },
+    {
+      "kind": "guides",
+      "id": "rehabilitation"
+    }
+  ]
+}

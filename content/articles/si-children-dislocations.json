@@ -1,0 +1,81 @@
+{
+  "id": "si-children-dislocations",
+  "title": "සන්ධි පැනීම් (ළමා)",
+  "summary": "දරුවන්ගේ සන්ධි පැනීම් පිළිබඳ තොරතුරු.",
+  "category": "සන්ධි පැනීම්",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "bones-joints"
+  ],
+  "topics": [
+    "dislocations"
+  ],
+  "keywords": [
+    "Paediatric dislocations"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/e6131190cf245a831f06.jpg",
+          "alt": "Children walking together on grass",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "සන්ධි පැනීම්",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/c530ab9c95a9e0a3f72d.jpg",
+          "alt": "Child wearing an arm sling and support band",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "සන්ධි පැනීම්"
+        },
+        {
+          "type": "paragraph",
+          "text": "සියලුම සන්ධි පැනීම් ඉතා කෙටි කාලයකදී ශල්යකර්මයකින් තොරව වේදනාවකින් තොරව විනාඩි දෙක තුනක් \nවැනි කෙටි කාලයකදී යථා තත්ත්වයට පත්කළ හැකි අතර මෙය ඉතා සාර්ථක ක්රමයකි. රෝගියාව විනාඩි 10- \n15 වැනි කාලයකට සිහිනැති කෙරේ. එදිනම හෝ පසුදින රෝහලෙන් මුදා හැරිය හැක. \nනිසි ප්රතිකාර ප්රමාද වූ විට, ගොඩ වෙදකම් අසාර්ථක වූ විට සන්ධියක් යථා තත්ත්වයට පත් කිරීම \nශල්යකර්මයකින් සිදු කළ යුතු අතර මෙය පැය දෙක තුනක් අතර කාලයක් ගතවන ක්රියාවලියකි. දිනකීපයක් \nරෝහල් ගතවී සිටිය යුතුයි. බොහෝවිට ප්රතිඵල යහපත් නොවන අතර අදාළ සන්ධියේ ක්රියාකාරීත්වය \nබොහෝසෙයින් අඩාල විය හැක. ගොඩ වෙදකම් කර අමාරුවේ නොවැටෙන්න."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-children-overview"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-complex-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-children-bone-tumours"
+    }
+  ],
+  "archive": {
+    "source_id": "si-children-03",
+    "url": "https://orthopaedic.lk/සන්ධි-පැනීම්/",
+    "file": "sinhala/si-children-03.md",
+    "sha256": "d16584d6e504997da2ee9fbf71c5241fe259be66d52c22d484c40404b1c286c2",
+    "original_title": "සන්ධි පැනීම් (ළමා)",
+    "extracted_utc": "2026-10-24T18:33:40+00:00"
+  }
+}

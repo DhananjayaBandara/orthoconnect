@@ -1,0 +1,219 @@
+{
+  "id": "en-adult-elbow",
+  "title": "Elbow – Adults",
+  "summary": "Elbow dislocation and injuries around the adult elbow joint.",
+  "category": "Joint dislocations",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "elbow"
+  ],
+  "topics": [
+    "dislocations",
+    "fractures"
+  ],
+  "keywords": [
+    "Elbow fractures and injury"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/429a7c2f3bd184744c8c.jpg",
+          "alt": "Person holding a painful elbow",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "ELBOW DISLOCATION",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There are two bones in the forearm. One of the two bones (Ulna) is directly connected to the bone in the upper arm to make the elbow joint. The other bone (Radius) makes the wrist joint at the far end. The two bones make joints in between to allow turning of the hand upwards and downwards."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/75896548bd0f46d8e8d2.jpg",
+          "alt": "Elbow X-ray with a circled joint and legacy source marking",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Does It Occur?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Following a fall on the outstretched hand"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/9bb160fafd2fd1a8b50e.jpg",
+          "alt": "Illustration highlighting pain around an elbow",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would I Know If My Elbow Is Dislocated ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your elbow will look deformed. There will be pain and swelling. A fracture may look the same."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c15e6c5ffcb17d89cd30.jpg",
+          "alt": "Person touching the top of their shoulder",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would I Know If My Shoulder Is Dislocated ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There needs to be some form of trauma to the joint. Your arm is held bent at the elbow. There will be a bulge appearing in front of the joint. The joint and slightest movement will be very painful."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d7183ae9f057c1e55dce.jpg",
+          "alt": "Elbow X-ray with the joint circled",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would I Know For Sure ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "An X-ray of the elbow confirms what you have done."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ef3230d4bc3313a9c274.jpg",
+          "alt": "Clinician examining a patient's forearm and elbow",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Treatment ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The joint needs to be placed back in place without delay. This is a simple procedure. It is done under a general anaesthetic. It is pain free. The bone is pushed into its socket. It will take only couple of minutes to correct it."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d0afed046e5a8636bebb.jpg",
+          "alt": "Person wearing an arm sling",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is Next ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The arm will be supported in a plaster half cast for two weeks."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2767034643ce2ab49ebb.jpg",
+          "alt": "Clinician supporting a patient's raised arm",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "After Removal Of Plaster ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There will be a course of physiotherapy to get back the joint motion."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2dce90072c7d12df53ec.jpg",
+          "alt": "Two clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Are There Complex Dislocations ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes. In severe injuries there could be associated fracture of one of the bones or ligament tear. They will need additional operations."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/144c654c462db4a69856.jpg",
+          "alt": "Red exclamation mark indicating an important point",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Place For Alternative Treatment ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "NO place. I have seen many patients with irreversibly damaged elbows following the application of oils and herbal pastes prescribed by traditional practitioners. Most of the joints were not put back in the correct place."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you realize the elbow is not working properly and think of hospital help it is kind of too late."
+        },
+        {
+          "type": "paragraph",
+          "text": "It now needs an operation to put back in place. This will take about 60 minutes. There will be a 10 cm cut behind the elbow. The joint can be corrected. However, the return of joint motion is not that good after the operation. There will be leftover stiffness."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you have reached this stage, whatever the operation is done to correct the problem will make it worse. You will be left with a stiff elbow."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-forearm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-03",
+    "url": "https://orthopaedic.lk/elbow-adults/",
+    "file": "english/en-adult-03.md",
+    "sha256": "fee09ec69b442af72262d69f25f2b587206f1c8491000d86bebbab5c6d02c6eb",
+    "original_title": "Elbow – Adults",
+    "extracted_utc": "2026-10-24T18:28:38+00:00"
+  }
+}

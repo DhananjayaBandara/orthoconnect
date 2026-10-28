@@ -1,0 +1,281 @@
+{
+  "id": "en-adult-wrist",
+  "title": "Wrist – Adults",
+  "summary": "Fractures near the wrist and questions about assessment and treatment.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "wrist-hand",
+    "forearm"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Wrist fractures"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/f0554fab74fd9602213f.jpg",
+          "alt": "Person holding a painful wrist",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "FRACTURE OF THE FOREARM NEAR WRIST JOINT",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There are two bones in the forearm. One of the two bones (Ulna) is directly connected to the bone in the upper arm to make the elbow joint. The other bone (Radius) makes the wrist joint at the far end. The two bones make joints in between to allow turning of the hand upwards and downwards."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/5856f7754a0c295574bb.jpg",
+          "alt": "Forearm X-ray with an arrow and legacy source marking",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Who Would Get Wrist Fractures",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Wrist fractures are commonly seen in females over 40 years o f age, after falls on the out stretched hand. One wrist is broken most of the time but both wrists can be broken if you land on both hands."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8c2876d11e1adc3a78fb.jpg",
+          "alt": "Illustration highlighting the wrist and hand",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would I Know If My Wrist Is Broken",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There will be immediate swelling and deformity of the injured wrist. Swelling will spread to hand. You may feel your fingers going numb if the fracture displacement is severe."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/9fffecfc7b8265502c1a.jpg",
+          "alt": "Doctor discussing information with a patient",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Why Should It Be Treated Properly ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "We care for you. We recognize hand and wrist are one of the most important parts of the human skeleton. Improper treatment without identifying what has gone wrong leads to deformity and malfunctioning of your hand and wrist."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a847e409f026537e2fb0.jpg",
+          "alt": "Clinician holding a stopwatch",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Early Should It Be Treated ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Without delay. Correction is easy when the fracture is fresh."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/78bb7d685636e61a5dd6.jpg",
+          "alt": "Person receiving first aid to an injured finger",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any First Aids ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes. You could splint with two strips of cardboards placed on either side of the wrist and securing it at a two to three places. Hang it on the neck with a collar and cuff Paracetamol as pain relief. Apply some ice. Keep the patient starved"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0904ec845338f98dbef7.jpg",
+          "alt": "Patient entering a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Test Will Be Done ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your wrist will be X-rayed."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/06cca1c78c30be22c8c9.jpg",
+          "alt": "Wrist X-ray with fixation wires and legacy source marking",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would It Be Treated ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "All depends on how bad it looks in the xray. Simple ones will need a plaster of Paris slab followed by a plaster cast."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fracture with displaced fragments will undergo a manipulation of the fracture to restore normal shape. The achieved shaped will be secured with a plaster until the fracture heals."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the fragments cannot stay in place maintaining normal shape, the boney pieces will be kept in place with help of pins, plates and screws. Rarely with a frame."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/4ba202156f962adc8558.jpg",
+          "alt": "Drawing showing an incision and structures near the wrist",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will There Be Cuts On The Wrist ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Pin fixations could be done without cuts. There will only be a tiny stab incision of 2mm size. Plate fixations need about 4cm cut on the wrist; commonly on the side of the palm."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will Take It To Heal ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Wounds will heal in 6-7 days. The bone takes about six weeks to heal."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/e5385a5b3d404e3c9af0.jpg",
+          "alt": "Forearm and hand supported in a plaster cast",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Will The Plaster Slab Be Taken Off ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "When your x-ray shows the bone is healing. Then you will be changed to a wrist brace."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/6d3514d9bbcd49668c92.jpg",
+          "alt": "Women playing tennis on an outdoor court",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will I Get The Normal Function Of The Hand ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You may get a little stiffness of fingers, wrist, elbow and shoulder at the end of the period of immobilization. This is very common. You will be advised on physiotherapy to improve range of joint movement."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/144c654c462db4a69856.jpg",
+          "alt": "Red exclamation mark indicating an important point",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any Alternative Treatments Recommended ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "None. If you care about your wrist, please stick to the scientific medical treatment. This is the best."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/b8f837e7e993ccbe20c0.jpg",
+          "alt": "Photograph of a swollen or deformed wrist and hand",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Will My Hand Look Like If Not Properly Treated?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Please see picture"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+          "alt": "Clinician working at a laptop",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-forearm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-upper-arm"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-05",
+    "url": "https://orthopaedic.lk/wrist-adults/",
+    "file": "english/en-adult-05.md",
+    "sha256": "7560995b02fe0ef7bc592fa23804ad48bd74505f4d620407481bad5f237f38c7",
+    "original_title": "Wrist – Adults",
+    "extracted_utc": "2026-10-24T18:29:06+00:00"
+  }
+}

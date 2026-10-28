@@ -1,0 +1,97 @@
+{
+  "id": "en-children-foot-ankle",
+  "title": "Foot & Ankle – Children",
+  "summary": "Fractures around the foot and ankle in children.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "foot-ankle"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Paediatric foot and ankle"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/bd2e8ba0d7a34cfdd800.jpg",
+          "alt": "Child sitting beside a window",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "FRACTURES OF THE FOOT AND ANKLE REGION",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/53138cb002de441d81c2.jpg",
+          "alt": "Child sitting with a lower leg and foot supported",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could This Bone Be Happen ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Most of the time children sustain sprains of the ankle and foot. Fractures are not seen commonly. Sprains are treated with taping, ankle supports and plasters slabs. The injury will recover in 1-2 weeks."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/4e4905664cf189f606d5.jpg",
+          "alt": "Close-up of a foot during an operation",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could These Be Treated?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures of this area are managed without operation. A manipulation will be needed for deformity correction. Metalwork is necessary when the fracture does not maintain the acceptable position. These are again temporary fixations. The metalwork will be removed once the fracture heals."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-children-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-elbow"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-upper-arm"
+    }
+  ],
+  "archive": {
+    "source_id": "en-children-06",
+    "url": "https://orthopaedic.lk/foot-ankle-children/",
+    "file": "english/en-children-06.md",
+    "sha256": "17966ef28a7a661b17262462dde154599962d88de53608f269595aa048394243",
+    "original_title": "Foot & Ankle – Children",
+    "extracted_utc": "2026-10-24T18:31:45+00:00"
+  }
+}

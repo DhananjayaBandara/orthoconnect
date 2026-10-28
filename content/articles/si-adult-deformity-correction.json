@@ -1,0 +1,94 @@
+{
+  "id": "si-adult-deformity-correction",
+  "title": "ඇද කුද කෙලින් කිරීම",
+  "summary": "අත් හා පාදවල ඇද කුද සහ ඒවා නිවැරදි කිරීම පිළිබඳ තොරතුරු.",
+  "category": "ඇද කුද හා අස්ථි සුව වීම",
+  "icon": "fracture",
+  "lang": "si",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "shoulder",
+    "upper-arm",
+    "elbow",
+    "forearm",
+    "wrist-hand",
+    "hip",
+    "thigh",
+    "knee",
+    "lower-leg",
+    "foot-ankle"
+  ],
+  "topics": [
+    "limb-reconstruction"
+  ],
+  "keywords": [
+    "Deformity correction"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "හැඳින්වීම",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/ce401ffd70b8d90472ad.jpg",
+          "alt": "Photograph of a person's legs",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "ඇද කුද කෙලින් කිරීම",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "බාහුව, වැලමිට මැණික් කටුව, අතේ ඇඟිලි, උකුල, කලවය, දණහිස ලංව හෝ ඈතව පිහිටීම, කකුල, වළලුකර, පාදය හා ඇඟිලි වල විවිද හේතුන් නිසා සෘජුව නොපිහිටීමට හෝ නැතිවීමට ලක්විය හැකියි. මෙය, උපතින්ම, පසුකාලීනව ඇති වූ පේශි හා ස්නායු ආබාද, අස්ථි බිඳීම් ඇද වී සවි වීම, අස්ථිවල රෝග නිසා, විටමින ඌනථා, සංදී වලට බලපාන අර්තරයිටිස් උත්සන්න වීමෙන් හා දියවැඩියා රෝගය නිසා විය හැකියි. \nකකුලේ අස්ථි වර්දනයේ දුර්වල තාවයක් නිසා කකුල කොටයි නම් එය අනිත් කකුලේ ප්‍රමාණයට දික්කරගත හැකියි. \nනවීන ප්‍රතිකාර ක්‍රම මගින් මෙසේ පවතින අසාමාන්‍යතාවයන් නැවත සාමාන්‍ය තත්ත්වයට පත්කළ හැකියි. කරුණාකර ඔබේ ගැටලුව අප වෙත යොමුකරන්න."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/3e2ef006a9f653f0d72e.jpg",
+          "alt": "Diagram of fractures and joint changes in a foot",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "දිය වැඩියා රෝගීන්ගේ පාදවල විෂමතා (Charcot Foot)"
+        },
+        {
+          "type": "paragraph",
+          "text": "ඔබට දැන්විය හැකි තවත් කරුණක් නම් දියවැඩියා රෝගීන්ගේ පාද හා වළලුකර සන්ධියේ අස්ථි විනාශවීමේ තත්ත්වයක දී පාදය හා වළලුකර ප්‍රදේශය ඇදවිමට පටන් ගන්නා අතර කාලයත් සමග පාදයේ හා යටි පතුලේ තිබෙන තුවාල වැඩි වීමට හෝ අලුතින් තුවාල හට ගැනීමට පටන් යි. ඊට අමතරව පාදයේ වක්‍ර බව නැති වී පැතලි ස්වරුපයක් ගැනීම, යටි පතුලේ සම ගනවීම, පාදය ඇදවිමට සිදුවිය හැකියි. \nමේ සඳහා Ilizarov රාමුවක් භාවිතයෙන් කරන විශේෂ ප්‍රතිකාර ඔබට ලබා දිය හැක. මේ සඳහා කකුලේ තුවාල සිදු කිරීමක් හෝ ඇතුලතට ලෝහමය කොටස් භාවිතයක් සිදු නොවේ."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-adult-fractures"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-common-pains"
+    },
+    {
+      "kind": "articles",
+      "id": "si-adult-osteoporosis"
+    }
+  ],
+  "archive": {
+    "source_id": "si-adult-07",
+    "url": "https://orthopaedic.lk/ඇද-කුද-කෙලින්-කිරීම/",
+    "file": "sinhala/si-adult-07.md",
+    "sha256": "cdcc1ef32359e05e337ae010f990d557f5f4f78425c5c41a572b33d358664be5",
+    "original_title": "ඇද කුද කෙලින් කිරීම",
+    "extracted_utc": "2026-10-24T18:33:00+00:00"
+  }
+}

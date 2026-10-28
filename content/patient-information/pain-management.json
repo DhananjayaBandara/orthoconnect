@@ -1,0 +1,65 @@
+{
+  "id": "pain-management",
+  "title": "Pain management",
+  "category": "After surgery",
+  "icon": "message",
+  "summary": "Prepare questions about the plan prescribed by your treating team.",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "lead_image": "consultation-notes",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "About this guide",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use these questions as a starting point for a conversation with your treating team."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "heading": "Questions to ask your treating team",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "What is my prescribed pain-management plan?",
+            "Who should I ask about medicine instructions or side effects?",
+            "What should I do if the prescribed plan is not helping?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "individual-instructions",
+      "heading": "Your individual instructions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Follow the individual instructions provided by your treating team."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS guide to having surgery",
+      "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "after-surgery"
+    },
+    {
+      "kind": "guides",
+      "id": "consultation-faq"
+    }
+  ]
+}

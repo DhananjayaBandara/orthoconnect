@@ -1,0 +1,52 @@
+{
+  "id": "arthroscopy",
+  "title": "Arthroscopy",
+  "category": "Knee",
+  "icon": "knee",
+  "summary": "Arthroscopy within Dr. De Silva’s documented knee-care scope.",
+  "related": "conditions.html#knee",
+  "relatedLabel": "Related knee condition information",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Arthroscopy is a form of keyhole surgery used to inspect or treat a joint. Dr. De Silva’s areas of practice include knee arthroscopy."
+        }
+      ]
+    },
+    {
+      "id": "discussion",
+      "heading": "Discussing your options",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Discuss whether an arthroscopy is relevant to your condition, what it would involve and what alternatives may apply during an individual consultation."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS arthroscopy information",
+      "url": "https://www.nhs.uk/tests-and-treatments/arthroscopy/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "guides",
+      "id": "after-surgery"
+    },
+    {
+      "kind": "guides",
+      "id": "pain-management"
+    }
+  ]
+}

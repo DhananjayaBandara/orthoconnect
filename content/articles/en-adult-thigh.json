@@ -1,0 +1,509 @@
+{
+  "id": "en-adult-thigh",
+  "title": "Thigh – Adults",
+  "summary": "Femur fractures along the thigh and near the knee joint.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "adult"
+  ],
+  "body_regions": [
+    "thigh",
+    "knee"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Femoral and thigh injury"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/fa9e19ce886979555d19.jpg",
+          "alt": "Person holding a painful thigh",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "FRACTURE OF THE FEMUR (BONE INSIDE THE THIGH)",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/dcfda01c92f547c81ad4.jpg",
+          "alt": "Photograph of a road traffic collision",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Would This Bone Break ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fracture of the femur occurs after high energy trauma in the young adults. This is commonly seen after motor bike accidents in Sri Lanka. The bone can break easily in the elderly after simple fall. Bone injury may damage other tissues around femur at the time of injury. Major blood vessel injury and nerve injury are very important out of these and muscle injury usually recovers without a significant disability."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/13da7b04302fcaa259ec.jpg",
+          "alt": "Stethoscope beside a clock",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Was It Treated In The Past?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Older days when a proper orthopaedic service and fracture fixation methods were not well developed, the patients with broken femur were treated without operation. The patients were kept bedbound for three months. The legs were fixed to a metal frame and most often had a weight attached to the foot. Fractures healed with this method with the expense of shortening of the limb and various deformities. Some fracture did not heal at all. This method is somewhat similar to the indigenous way of fracture care in Sri Lanka. It will take about four to five months before someone walks again."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0ef02edb87dad905c97b.jpg",
+          "alt": "Woman looking at yes, no and maybe choices",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Are We Still The Same ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "NO. Not Anymore. Fortunately, fracture of the shaft of femur treatment has evolved so much that the fracture can be fixed under ONE hour. Patient could start walking as early as next day with a help of a walking frame or pair of crutches"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/6975bc07727b659d3108.jpg",
+          "alt": "Illustration of helpers carrying an injured person",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Why Should This Fracture Fixed Without Delay?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "We want you to be up and about immediately after your injury. Next point is we want you to be back in your normal level of activities and get back to your job as early as possible. Why should you waste time when already a very good treatment option is available?"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0904ec845338f98dbef7.jpg",
+          "alt": "Patient entering a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will I Be Subjected To More Tests?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You will only need plain Xrays for this. However your blood will be checked as required"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d9a54429b6a18c6e52e2.jpg",
+          "alt": "Surgical team working in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It A Big Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is a major operation but done in a smaller way. Most of the time, it can be done with a cut (3-4 inches) at outer side of your buttock area. In difficult cases there may be an additional cut at outer mid-thigh area"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8c016e7d53f2a04504d6.jpg",
+          "alt": "Metal rod and screws used for bone fixation",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is Used To Fix This Fracture?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The latest modern way of fixation with an intramedullary locking nail (This a metal tube sent inside the canal of the thigh bone)"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/3691c51866dff2600096.jpg",
+          "alt": "Thigh-bone X-ray with an arrow and legacy source marking",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Example Case Before Fixation"
+        },
+        {
+          "type": "paragraph",
+          "text": "After fixation with an interlocking nail"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/660dd9e9183d9cb9e782.jpg",
+          "alt": "Syringe and medicine vial",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Type Of Anaesthesia Is Used For This Operation?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is done under a spinal anaesthesia that numbs your waist and below."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8ea32a424365272bc74a.jpg",
+          "alt": "Doctor talking with a patient beside a bed",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Should I Be In The Hospital?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is usually a two-three night stay."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/d933b092318dcebac964.jpg",
+          "alt": "Person holding a walking frame",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Walk?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "With simple breaks of the shaft, you could be walking very next day with help of a walking frame. There may be a little delay to walk if you have a complex fracture"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/31571e583573becf1505.jpg",
+          "alt": "Roll of a supportive bandage",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Is The Wound Check After Discharge?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Your wound needs checking in a week and then at two weeks. Sutures, clips are taken out at this time approximately."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will It Take The Fracture To Heal?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "It is around 8-10 weeks. It heals without any limb shortening or deformity."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/584a980da397b34d5a58.jpg",
+          "alt": "Metal nail bent by a hammer",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will The Nail Need Removal?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Well, usually not unless indicated to do so. It can be kept life long without a problem. We will leave it in place minimum of 18 months before removal."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/09d47d9ce6cc676f64bd.jpg",
+          "alt": "Office workers stretching together",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will I Be Able To Walk Through Body Scanners?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This is very common question. Do not worry. It will not be a problem."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+          "alt": "Clinician working at a laptop",
+          "lang": "en"
+        },
+        {
+          "type": "heading",
+          "id": "subsection-01",
+          "text": "FEMUR FRACTURES NEAR THE KNEE JOINT"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/c007720c8884e90da504.jpg",
+          "alt": "Road traffic collision reflected in a vehicle mirror",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "s It A Common Serious Injury?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Injuries to this area of bone are commonly seen individuals of 20-45 age following motor vehicle accidents."
+        },
+        {
+          "type": "paragraph",
+          "text": "The bone above the knee joint ill break into pieces depending on the amount of force your leg is subjected to."
+        },
+        {
+          "type": "paragraph",
+          "text": "The muscles covering the particular part of the bone, nearby blood vessels and nerves will also be subjected to similar force so that they get contused, crushed or lacerated."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/2aedfd416dd936dbb826.jpg",
+          "alt": "X-ray of the thigh bone",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Severe Would Be The Injury To Bone?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The bone may break into to two pieces or many fragments. In many occasions the fracture runs through the knee joint. This will disrupt the structure of the knee"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/64c24488926dadc80a3a.jpg",
+          "alt": "Hands resting around a person's knee",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is Done In The Hospital",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "This is serious form of injury. You will be thoroughly assessed. Your limb will be similarly assessed in order to see associated injuries."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/0904ec845338f98dbef7.jpg",
+          "alt": "Patient entering a medical imaging scanner",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Tests Are Done",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "X-ray and a CT Scan will be done usually. Damage to the blood vessel will need additional investigations and surgical interventions."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/59dacc5324a1e0c152f7.jpg",
+          "alt": "Diagram of an external fixation frame around a lower limb",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Treatments Are Given And In What Time Frames?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "If the injury is severe, you will not be subjected to immediate definitive surgery. Your leg will be fixed to an externally placed metal frame (External fixator) until the skin, muscles and other tissues recover or till the limb is ready for an operation. This could take up to 1-2 weeks."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/5fe58569ac72dafd3349.jpg",
+          "alt": "X-ray showing a plate and screws near a joint",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Definitive Treatment",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There are many ways of fixing a fracture in this part of the bone. It may be done with a plate and screws or a nail sent through the canal of the bone. There are specially designed metal plates to fix fractures around the knee joint. External fixator alone will be the definitive mode of treatment in certain cases. An important aspect of the surgery is to reconstruct the knee joint."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ea468a142cf6e6e3a757.jpg",
+          "alt": "Illustration of a collarbone plate and screws",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Will Be The Hospital Stay ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "In fact, The time, you have to wait before the operation may be longer. However after the operation you may be discharged in 2-3 days."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8ea32a424365272bc74a.jpg",
+          "alt": "Doctor talking with a patient beside a bed",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long Does It Take To Heal",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "In fact, The time, you have to wait before the operation may be longer. However after the operation you may be discharged in 2-3 days."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/910600dcb063488ca478.jpg",
+          "alt": "Carer supporting an older person at home",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Can I Walk?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "You are supposed to walk with a walking aid with non-partial weight bearing until you are advised to go on full weight-bearing"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/a7fbb0f729b1211f5288.jpg",
+          "alt": "Calendar pages representing time",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "What Is The Average Healing Time?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The fracture will take about 8-10 weeks to heal in regular case. The time might vary on severity of the initial injury."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/144c654c462db4a69856.jpg",
+          "alt": "Red exclamation mark indicating an important point",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Know Problems With This Injury?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "There are few known complications after the injury /surgery to this area."
+        },
+        {
+          "type": "paragraph",
+          "text": "Knee stiffness is a common issue. However with physiotherapy near normal function of the affected knee can be achieved though it is slow to come by."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the fracture involves the surface of the knee joint, arthritis may develop in time to come."
+        },
+        {
+          "type": "paragraph",
+          "text": "In complex fractures, time taken to heal will delay and implant failures may occur. Additional procedures may be needed if unforeseen complications arise."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/f189e49439513a13baa5.jpg",
+          "alt": "Signpost marked good and better",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alternative Treatment Options?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "if you have this injury, unfortunately there is no other way out. surgical fixation is the only way of minimizing problems like; short leg, angled deformed leg."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/ad6b01a0bb2b46cb04c7.jpg",
+          "alt": "Clinician working at a laptop",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-adult-knee"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-leg"
+    },
+    {
+      "kind": "articles",
+      "id": "en-adult-shoulder"
+    }
+  ],
+  "archive": {
+    "source_id": "en-adult-07",
+    "url": "https://orthopaedic.lk/thigh-adults/",
+    "file": "english/en-adult-07.md",
+    "sha256": "bee13bde216f1ed4eb115d027c6cacabbc8565f659d7ab18466ea149a7833229",
+    "original_title": "Thigh – Adults",
+    "extracted_utc": "2026-10-24T18:29:28+00:00"
+  }
+}

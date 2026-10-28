@@ -1,0 +1,56 @@
+{
+  "id": "knee-replacement",
+  "title": "Knee replacement",
+  "category": "Knee",
+  "icon": "knee",
+  "summary": "Assessment for knee replacement as part of specialist knee care.",
+  "related": "conditions.html#knee",
+  "relatedLabel": "Related knee condition information",
+  "lang": "en",
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dr. De Silva’s areas of practice include knee surgery and assessment for knee replacement."
+        }
+      ]
+    },
+    {
+      "id": "discussion",
+      "heading": "Discussing your options",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "His UK fellowship included knee reconstruction and joint replacement. A consultation provides an opportunity to discuss your knee concern and the treatment questions that matter to you."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "label": "NHS knee replacement information",
+      "url": "https://www.nhs.uk/tests-and-treatments/knee-replacement/"
+    }
+  ],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "si-adult-knee-replacement"
+    },
+    {
+      "kind": "guides",
+      "id": "preparing-for-surgery"
+    },
+    {
+      "kind": "guides",
+      "id": "rehabilitation"
+    }
+  ]
+}

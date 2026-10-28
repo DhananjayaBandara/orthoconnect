@@ -1,0 +1,148 @@
+{
+  "id": "en-children-elbow",
+  "title": "Elbow – Children",
+  "summary": "Fractures around the elbow in children.",
+  "category": "Fractures & injuries",
+  "icon": "fracture",
+  "lang": "en",
+  "audiences": [
+    "children"
+  ],
+  "body_regions": [
+    "elbow"
+  ],
+  "topics": [
+    "fractures"
+  ],
+  "keywords": [
+    "Paediatric elbow"
+  ],
+  "status": "draft",
+  "author": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/961f703e809bdc11cc79.jpg",
+          "alt": "Child sitting in a hospital bed",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "section-01",
+      "heading": "FRACTURES AROUND THE ELBOW",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/articles/a9391ac937e3edac53ca.jpg",
+          "alt": "Shoulder X-ray with the joint area circled",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Could This Happen ?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The elbow joint is formed between the bones in the upper arm and the forearm. The bones forming the joint could get injured if the child lands on his elbow following a fall."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/8922670c7ac4bdca873d.jpg",
+          "alt": "Child with an arm supported in a pink sling",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is It A Common Injury?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fractures of the elbow are not commonly seen. However, the bones may break rarely. Elbow dislocation is also not common in children."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/dce55144f5392a1d3203.jpg",
+          "alt": "Clinicians in an operating theatre",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will It Need Surgery?",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Fracture of the bone making the joint will need surgery to restore the break."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/6fcb2193f8756f6feb0f.jpg",
+          "alt": "Child looking upwards thoughtfully",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "How Long It Will Take To Heal",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "The arm will then be immobilised in a plaster of Paris half cast for 2-3 weeks."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/228c915205c10c16ce9e.jpg",
+          "alt": "Children exercising with large therapy balls",
+          "lang": "en"
+        },
+        {
+          "type": "paragraph",
+          "text": "Will The Child Need Physiotherapy",
+          "question": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Elbow stiffness is common after injuries to this area. However, this will ease off with few sessions of physiotherapy"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/articles/78936febda0ac01fd9e6.jpg",
+          "alt": "Doctor speaking on a telephone",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "related_items": [
+    {
+      "kind": "articles",
+      "id": "en-children-shoulder"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-upper-arm"
+    },
+    {
+      "kind": "articles",
+      "id": "en-children-wrist-hand"
+    }
+  ],
+  "archive": {
+    "source_id": "en-children-02",
+    "url": "https://orthopaedic.lk/elbow-children/",
+    "file": "english/en-children-02.md",
+    "sha256": "0cb3ddb555fcc7e7d5d4ee8275a2343cdb7f45af423901e92a19a1ea4990ed6a",
+    "original_title": "Elbow – Children",
+    "extracted_utc": "2026-10-24T18:30:56+00:00"
+  }
+}
