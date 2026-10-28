@@ -14,6 +14,16 @@ python3 -m http.server 8080 --bind 127.0.0.1
 
 Then open <http://127.0.0.1:8080>.
 
+## GitHub Pages
+
+The hosted website is at <https://dhananjayabandara.github.io/orthoconnect/>.
+
+GitHub Pages publishes the committed static files automatically when changes are pushed to `main`. In [the Pages settings](https://github.com/DhananjayaBandara/orthoconnect/settings/pages), the source is **Deploy from a branch**, branch **main**, folder **/ (root)**, with HTTPS enforced. The root `.nojekyll` marker tells GitHub to serve the existing HTML and assets without Jekyll processing.
+
+For future updates, edit the source JSON or shared templates, run `python3 -B scripts/build_site.py`, run the verification commands below, and commit the generated HTML alongside its sources before pushing. GitHub's built-in **pages build and deployment** job publishes those committed files; it does not run the Python generator or the local checks. The earlier sample Jekyll workflow is retained in the repository and disabled in Actions to avoid competing deployments. To roll back content, revert its commit on `main` and push the rebuilt, checked files.
+
+Relative links and local assets support the `/orthoconnect/` project path. All clinical draft labels and existing `noindex,nofollow` metadata remain in place. Hosting the drafts does not establish clinical review or approval.
+
 ## Public pages
 
 | Navigation or route | File | Content and behaviour |
@@ -49,7 +59,7 @@ The “On this page” list stays beside the article on desktop and moves above 
 
 Each draft has its own source file under `content/articles/`, `content/treatments/` or `content/patient-information/`. Original copy and questions are preserved; archived placeholder paragraphs and old enquiry prompts are omitted with an exact removal log. See `content/README.md` for the editing guide and block format. Sinhala articles use local Noto Sans Sinhala fonts, native reading controls and explicit language metadata. The collections are independent; no translation pairs are inferred.
 
-The Sinhala children’s overview links to 11 individual topics and retains its original text beneath the navigation. Overlapping English children’s Shoulder and Upper Arm articles remain separate drafts pending editorial reconciliation. The complete 40-entry inventory, existing-draft comparison and unresolved decisions are in [docs/article-migration-review.md](docs/article-migration-review.md). Nothing has been published or deployed.
+The Sinhala children’s overview links to 11 individual topics and retains its original text beneath the navigation. Overlapping English children’s Shoulder and Upper Arm articles remain separate drafts pending editorial reconciliation. The complete 40-entry inventory, existing-draft comparison and unresolved decisions are in [docs/article-migration-review.md](docs/article-migration-review.md). The hosted reading pages retain their clinical draft status.
 
 Every imported article is available in full with its locally hosted images. There are no public links or redirects to the archive website and no “Original article” links. Original source URLs are retained only in internal provenance and migration records.
 
