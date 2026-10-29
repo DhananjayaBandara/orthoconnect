@@ -134,7 +134,7 @@ strong { font-weight: var(--font-weight-bold); }
 .about-portrait figcaption span { color: var(--color-text); font-size: var(--font-size-small); font-weight: var(--font-weight-regular); }
 .prose > p:not(.eyebrow) { margin-top: var(--space-5); }
 .prose .button { margin-top: var(--space-6); }
-.qualifications-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--space-5); }
+.qualifications-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-5); }
 .qualification-card { padding: var(--space-6); border: var(--border-width) solid var(--color-border); border-radius: var(--radius-card); background: var(--color-white); }
 .qualification-card > .icon { margin-bottom: var(--space-5); color: var(--color-teal); }
 .qualification-card .eyebrow { font-size: var(--font-size-caption); font-weight: var(--font-weight-regular); letter-spacing: var(--tracking-normal); }
