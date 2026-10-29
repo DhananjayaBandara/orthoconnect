@@ -29,7 +29,7 @@ Relative links and local assets support the `/orthoconnect/` project path. All c
 | Navigation or route | File | Content and behaviour |
 | --- | --- | --- |
 | Home | `index.html` | Four supplied banners with automatic transitions, profile hero, original portrait, qualification pills, quick links, three expertise areas, six condition previews, three treatment previews, two real clinic cards with hospital-specific booking links, body-region navigation, consultation journey, six manually browsable article/guide cards, and a photographic consultation callout. |
-| About | `about.html` | Professional profile, four qualifications, UK fellowship, training overview and areas of practice. Unverified years, registrations and additional qualifications are omitted. |
+| About | `about.html` | Professional profile, six qualification and training cards including both JBJS MRC Oxford diploma courses with Distinction, UK fellowship, training overview and areas of practice. Unverified years, registrations and additional qualifications are omitted. |
 | Conditions | `conditions.html` | Nine body-region/type categories, keyword search, category filtering, reset/empty states and expandable topic information. |
 | Treatments | `treatments.html` | Searchable cards linking to eight independent treatment reading pages, related conditions and a separate limb-reconstruction callout. |
 | Patient Information | `patient-information.html` | Searchable cards linking to eight independent guide pages, plus six short booking/website FAQs. No medication doses or individual recovery instructions. |
